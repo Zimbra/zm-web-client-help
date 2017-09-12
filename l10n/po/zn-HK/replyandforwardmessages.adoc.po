@@ -1,0 +1,341 @@
+# Language zn-HK translations for PACKAGE package
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-09-11 18:20+0000\n"
+"PO-Revision-Date: 2017-09-11 18:20+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zn-HK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: composingemail.adoc:71 replyandforwardmessages.adoc:10
+#: replyandforwardmessages.adoc:71
+msgid "Go to the *Preferences>Mail* page, *Composing Messages* section."
+msgstr ""
+
+#. type: Plain text
+#: composingemail.adoc:134 composingemail.adoc:219 composingemail.adoc:286
+#: composingemail.adoc:394 gettingstarted.adoc:62 gettingstarted.adoc:122
+#: managingcalendars.adoc:56 managingcalendars.adoc:213
+#: managingcalendars.adoc:399 managingcontacts.adoc:62
+#: managingcontacts.adoc:146 managingcontacts.adoc:169
+#: managingcontacts.adoc:217 managingemail.adoc:61 managingemail.adoc:349
+#: organizingaccount.adoc:180 organizingaccount.adoc:197
+#: organizingaccount.adoc:208 organizingaccount.adoc:222
+#: organizingaccount.adoc:450 readingmessages.adoc:72 readingmessages.adoc:94
+#: readingmessages.adoc:126 replyandforwardmessages.adoc:25
+#: replyandforwardmessages.adoc:107 retrievingmail.adoc:76
+#: retrievingmail.adoc:95 schedulingappointments.adoc:546
+#: schedulingappointments.adoc:599 schedulingappointments.adoc:617
+#: schedulingappointments.adoc:633 schedulingappointments.adoc:684
+#: searchingforitems.adoc:58 sendingsecureemail.adoc:71 usingtasks.adoc:151
+#: usingzimlets.adoc:23 usingzimlets.adoc:30 workinginbriefcase.adoc:137
+msgid "Click *Save*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:107 managingcalendars.adoc:283
+#: managingcalendars.adoc:313 managingcontacts.adoc:71
+#: managingcontacts.adoc:182 managingcontacts.adoc:240
+#: managingcontacts.adoc:281 managingemail.adoc:133 managingemail.adoc:159
+#: managingemail.adoc:223 managingemail.adoc:323 managingemail.adoc:367
+#: replyandforwardmessages.adoc:130 schedulingappointments.adoc:68
+#: schedulingappointments.adoc:307 schedulingappointments.adoc:344
+#: schedulingappointments.adoc:487 searchingforitems.adoc:384
+#: sharingfolders.adoc:47 sharingfolders.adoc:251 usingmailfilters.adoc:129
+#: usingmailfilters.adoc:169 usingmailfilters.adoc:184
+#: usingmailfilters.adoc:444 usingmailfilters.adoc:457
+#: usingtagsandfolders.adoc:32 usingtagsandfolders.adoc:47
+#: usingtagsandfolders.adoc:83 usingtagsandfolders.adoc:119
+#: usingtagsandfolders.adoc:124 usingtasks.adoc:250 usingtasks.adoc:312
+#: workinginbriefcase.adoc:42 workinginbriefcase.adoc:103
+#: workinginbriefcase.adoc:256
+msgid "Click *OK*."
+msgstr ""
+
+#. type: Plain text
+#: managingemail.adoc:53 managingemail.adoc:68 managingemail.adoc:337
+#: organizingaccount.adoc:149 readingmessages.adoc:67 readingmessages.adoc:89
+#: replyandforwardmessages.adoc:98 retrievingmail.adoc:88
+msgid "Go to the *Preferences>Mail* page."
+msgstr ""
+
+#. type: Title =
+#: replyandforwardmessages.adoc:1
+#, no-wrap
+msgid "Reply to and Forward Messages"
+msgstr ""
+
+#. type: Title ==
+#: replyandforwardmessages.adoc:3
+#, no-wrap
+msgid "Set Preferences for Email Replies"
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:8
+msgid ""
+"To reply to the message in the same format it is received, select Reply/"
+"Forward using format of the original message. This ensures that the "
+"recipient gets the message in the most readable format."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:13
+msgid ""
+"To reply to the message in the same format it is received, select *Reply/"
+"Forward using format of the original message*."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:16
+msgid ""
+"Select whether to include the original text in your reply message. If you "
+"are including the original message:"
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:20
+msgid ""
+"Select whether to mark the previous responses with a character or include "
+"the original details in the header (The To, From, and Subject fields). You "
+"can also include the original message as an attachment."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:23
+msgid ""
+"If you want to prefix the previous responses, select either the angle "
+"bracket (>) or pipe (|)."
+msgstr ""
+
+#. type: Title ==
+#: replyandforwardmessages.adoc:26
+#, no-wrap
+msgid "Replying to Email Messages"
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:30
+msgid ""
+"You can reply to the sender of a message or to the sender and all recipients."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:34
+msgid ""
+"By default, when you reply to a message, the original message is included in "
+"the body, but the original attachments are not. You can also decide to "
+"prefix each response in the message to track the different replies."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:38
+msgid ""
+"For example, each reply within the message is marked with an angle bracket "
+"(>). The most recent reply has one > before each line, the reply before that "
+"has two (>>), before that three (>>>):"
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:42
+#, no-wrap
+msgid ""
+"  > Previous message\n"
+"  > > Message before previous message\n"
+"  > > > And so forth\n"
+msgstr ""
+
+#. type: Title ===
+#: replyandforwardmessages.adoc:43
+#, no-wrap
+msgid "Reply to a Message"
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:46
+msgid "Select the email you want to reply to."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:50
+msgid ""
+"Click *Reply* or *Reply to All* in the toolbar. A new compose window is "
+"displayed with the address(es) in the header and the original message in the "
+"body."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:53
+msgid ""
+"If you view message in the Conversation view, you can click reply at the "
+"bottom of the message"
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:55
+msgid "Type your reply."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:58
+msgid ""
+"Click *Options* on the toolbar and select an option if you want to change "
+"how the original message is included in the reply."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:60 replyandforwardmessages.adoc:91
+#: replyandforwardmessages.adoc:119 schedulingappointments.adoc:236
+#: sendingsecureemail.adoc:113 sendingsecureemail.adoc:139
+#: workinginbriefcase.adoc:229
+msgid "Click *Send*."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:64
+msgid ""
+"If you add your signature automatically to your messages, it is placed in "
+"the message according to your preference settings."
+msgstr ""
+
+#. type: Title ==
+#: replyandforwardmessages.adoc:65
+#, no-wrap
+msgid "Set Preferences for Forwarded Email"
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:69
+msgid ""
+"When you forward an email you can choose how to handle the original text "
+"when forwarding an email message."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:74
+msgid ""
+"If you want to prefix the original message, select either the angle bracket "
+"(>) or pipe (|)"
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:78
+msgid ""
+"If you have selected a prefix for reply messages, you must use the same "
+"prefix for both replies and forwarded messages."
+msgstr ""
+
+#. type: Title ==
+#: replyandforwardmessages.adoc:79
+#, no-wrap
+msgid "Forwarding Email Messages"
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:83
+msgid ""
+"You can forward an email message to someone else. Forwarding a message "
+"includes all file attachments."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:85
+msgid "Select the email you want to forward."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:87
+msgid ""
+"Click *Forward* on the toolbar. The text of the forwarded message appears in "
+"the body of the compose page, unless you have set your preferences to "
+"forward messages as attachments."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:89
+msgid "Enter addressees."
+msgstr ""
+
+#. type: Title ==
+#: replyandforwardmessages.adoc:92
+#, no-wrap
+msgid "Automatically Forwarding Messages You Receive"
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:96
+msgid ""
+"You can configure your email preferences to automatically forward a messages "
+"you receive to another account."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:102
+msgid ""
+"In the *Receiving Messages>Message Arrival* section, *Forward a copy to:* "
+"text box enter the email address where email messages should be sent."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:105
+msgid ""
+"If do not want the messages saved in your mailbox, select *Don’t keep a "
+"local copy of messages*."
+msgstr ""
+
+#. type: Title ==
+#: replyandforwardmessages.adoc:108
+#, no-wrap
+msgid "Forward a Message as the Originator"
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:113
+msgid ""
+"You can forward an existing message as if you are the originator of the "
+"message. The forwarded notice is not added to the subject field and the "
+"header information shows you are the originator."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:115
+msgid "Right-click on the message and select *Edit as New*."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:117
+msgid "Address the message, remove existing address if necessary."
+msgstr ""
+
+#. type: Title ==
+#: replyandforwardmessages.adoc:120
+#, no-wrap
+msgid "Forward a Message as a Redirected Message"
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:125
+msgid ""
+"Redirecting a message lets you send an email message you received as if the "
+"original author sent the message. Redirect a message instead of forwarding "
+"it makes it easier for the recipient to reply to the original sender."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:127
+msgid "Right-click on the message and select *Redirect*."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:129
+msgid "In the *Redirect* text box, enter the recipient(s) address."
+msgstr ""

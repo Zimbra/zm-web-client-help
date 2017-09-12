@@ -1,0 +1,937 @@
+# French translations for PACKAGE package
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-09-11 19:47+0000\n"
+"PO-Revision-Date: 2017-09-11 19:47+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: delimited block |
+#: composingemail.adoc:83 managingcalendars.adoc:28 managingcontacts.adoc:258
+#: managingemail.adoc:76 organizingaccount.adoc:14 readingmessages.adoc:107
+#: retrievingmail.adoc:108 schedulingappointments.adoc:654
+#: searchingforitems.adoc:179 sharingfolders.adoc:216 usingtasks.adoc:74
+#: usingtasks.adoc:100 usingtasks.adoc:161 usingtasks.adoc:222
+#: workinginbriefcase.adoc:79
+#, no-wrap
+msgid "|Option |Description\n"
+msgstr ""
+
+#. type: Plain text
+#: composingemail.adoc:134 composingemail.adoc:219 composingemail.adoc:286
+#: composingemail.adoc:394 gettingstarted.adoc:62 gettingstarted.adoc:122
+#: managingcalendars.adoc:56 managingcalendars.adoc:213
+#: managingcalendars.adoc:399 managingcontacts.adoc:62 managingcontacts.adoc:96
+#: managingcontacts.adoc:146 managingcontacts.adoc:169
+#: managingcontacts.adoc:217 managingemail.adoc:61 managingemail.adoc:349
+#: organizingaccount.adoc:185 organizingaccount.adoc:202
+#: organizingaccount.adoc:213 organizingaccount.adoc:227
+#: organizingaccount.adoc:282 organizingaccount.adoc:455
+#: readingmessages.adoc:72 readingmessages.adoc:94 readingmessages.adoc:126
+#: replyandforwardmessages.adoc:25 replyandforwardmessages.adoc:107
+#: retrievingmail.adoc:76 retrievingmail.adoc:95 retrievingmail.adoc:127
+#: schedulingappointments.adoc:546 schedulingappointments.adoc:599
+#: schedulingappointments.adoc:617 schedulingappointments.adoc:633
+#: schedulingappointments.adoc:684 searchingforitems.adoc:58
+#: sendingsecureemail.adoc:71 usingtasks.adoc:140 usingtasks.adoc:151
+#: usingzimlets.adoc:23 usingzimlets.adoc:30 workinginbriefcase.adoc:137
+msgid "Click *Save*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:107 managingcalendars.adoc:283
+#: managingcalendars.adoc:313 managingcontacts.adoc:71
+#: managingcontacts.adoc:122 managingcontacts.adoc:182
+#: managingcontacts.adoc:240 managingcontacts.adoc:281 managingemail.adoc:133
+#: managingemail.adoc:159 managingemail.adoc:223 managingemail.adoc:323
+#: managingemail.adoc:367 replyandforwardmessages.adoc:130
+#: schedulingappointments.adoc:68 schedulingappointments.adoc:307
+#: schedulingappointments.adoc:344 schedulingappointments.adoc:487
+#: searchingforitems.adoc:384 sharingfolders.adoc:47 sharingfolders.adoc:205
+#: sharingfolders.adoc:251 usingmailfilters.adoc:129 usingmailfilters.adoc:169
+#: usingmailfilters.adoc:184 usingmailfilters.adoc:444
+#: usingmailfilters.adoc:457 usingtagsandfolders.adoc:32
+#: usingtagsandfolders.adoc:47 usingtagsandfolders.adoc:83
+#: usingtagsandfolders.adoc:119 usingtagsandfolders.adoc:124
+#: usingtasks.adoc:250 usingtasks.adoc:312 workinginbriefcase.adoc:42
+#: workinginbriefcase.adoc:103 workinginbriefcase.adoc:256
+msgid "Click *OK*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:377 managingcontacts.adoc:242 usingtasks.adoc:290
+msgid "Click *Import*."
+msgstr ""
+
+#. type: Title =
+#: managingcontacts.adoc:1
+#, no-wrap
+msgid "Managing Your Contacts"
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:3
+#, no-wrap
+msgid "Using Contacts"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:7
+msgid ""
+"Contacts is where you can store contact and address book details. Two types "
+"of address lists are supported in the Web Client:"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:13
+msgid ""
+"Your personal address books, which consists of contacts you maintain. By "
+"default a *Contacts*, *Distributions Lists*, *Emailed Contacts* and "
+"*Personal* address books are created in Contact Lists. You can create "
+"additional address books and share them with others."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:18
+msgid ""
+"A *Global Address List (GAL)*, sometimes called Company Contacts, is "
+"available to users within your organization. The GAL may contain convenience "
+"features such as distribution lists to facilitate communicating with an "
+"entire department."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:23
+msgid ""
+"You cannot edit GAL entries. You can, however, import an address once it "
+"appears in email you send or receive. You can add additional contact "
+"information when the name is in a list in your Address Book."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:28
+msgid ""
+"You can add contacts to any of your address books. Only a name is required "
+"to create a contact, or you can create detailed contact forms that include "
+"full name, multiple email addresses, work, home, and other addresses, phone "
+"numbers, and an image. You can also create group contact lists."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:32
+msgid ""
+"The *Emailed Contacts* address book is populated automatically when you send "
+"an email to a new address that is not in one of your other address books."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:36
+msgid ""
+"Your email administrator can set a maximum limit for the number of entries "
+"you can have in all your address books. When you reach this maximum, you "
+"cannot add any more contacts. You can delete contacts to free up space."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:39
+msgid ""
+"When you compose an email message, the auto-complete feature displays a list "
+"of names from your address books that match the text you are typing."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:40
+#, no-wrap
+msgid "Add a New Contact"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:43
+msgid "Go to the *Contacts* page and select *New Contact*."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:45
+msgid "Enter the contact information and optionally upload a photo."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:49
+msgid ""
+"A plus sign next to a text box indicates that you can add more than one "
+"entry. For instance, in the Phone text box, you can add mobile, home, work, "
+"and other phone numbers."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:52
+msgid ""
+"To add a custom text box, select *Other* from the drop-down menu for the "
+"text box and enter the information."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:55
+msgid ""
+"Select how and where you want to save the contact in the upper right of the "
+"screen."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:58 managingcontacts.adoc:165
+msgid ""
+"For *File as*, select how to file the name. The default is by last name, "
+"first name."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:60 managingcontacts.adoc:167
+msgid "For *Location*, select which address book to save the contact."
+msgstr ""
+
+#. type: Title ===
+#: managingcontacts.adoc:63
+#, no-wrap
+msgid "Upload an Image"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:67
+msgid ""
+"To upload an image to a new contact, click the *plus sign* next to the image "
+"icon."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:69
+msgid "Choose an image file to upload."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:72
+#, no-wrap
+msgid "Automatically Add Contacts to Emailed Contacts List"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:80
+msgid ""
+"You can automatically save the addresses that you send email to in your "
+"Emailed Contacts list. Any time you respond to, or compose a message that "
+"includes an address that is not in your address books, it is added to your "
+"Emailed Contacts list. If you are using the autocomplete feature, "
+"maintaining an Emailed Contacts list helps you quickly find addresses that "
+"you have emailed to in the past."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:82
+msgid "Go to the *Preferences>Contacts* page."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:85
+msgid ""
+"Under *Options>Settings*, select *Add new contacts to “Emailed Contacts”*."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:86
+#, no-wrap
+msgid "Editing Contact Information"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:90
+msgid ""
+"Go to the Contacts page and select the address book that you want to edit."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:92
+msgid "Right-click the contact you want to edit and click Edit Contact."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:94
+msgid "Make changes to the contact."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:97
+#, no-wrap
+msgid "Check if an Email Address is in Your Address Book"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:101
+msgid ""
+"Hover your mouse over an email address. The information associated with the "
+"name displays."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:104
+msgid ""
+"If the name is already in one of your address books, the contact information "
+"displays."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:107
+msgid ""
+"If the name is not in one of your address books, only the email address "
+"displays."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:108
+#, no-wrap
+msgid "Creating a Contact Group"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:115
+msgid ""
+"You can combine multiple email addresses into a *Contact Group* when you "
+"want to send the same message to everyone. The Contact Group is assigned a "
+"name, called an email alias. When you email a group contact name, everyone "
+"whose address is included in the contact group list is added to the address "
+"field."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:118
+msgid ""
+"Go to the *Contacts* page and select *Actions>Contact Group>New Contact "
+"Group*."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:120
+msgid "Enter a name for the group."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:125
+msgid ""
+"To add members and email addresses to your contact group, right-click the "
+"contact group and select *Edit Group*."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:126
+#, no-wrap
+msgid "Adding Members to a Contact Group List"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:129
+msgid "Go to the *Contacts* page and select the contact group to add members."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:131
+msgid "Right-click the contact group and select *Edit Group*."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:133
+msgid "To find a new group member, type a name into the *Find* text box."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:135
+msgid "In the in drop-down menu, select the address book you want to search."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:137
+msgid "Names that match your entry are listed in the box below."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:140
+msgid ""
+"Select the names to enter and click *Add* or *Add All*. The names are added "
+"to the *Members* list."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:144
+msgid ""
+"If the address you are looking for is not in the list, you can type the "
+"email address in the *Or enter addresses below* text box. Separate addresses "
+"with either a comma (,) or semicolon (;), or pressing *Return*."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:147
+#, no-wrap
+msgid "Add a New Contact from an Existing Email Message"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:151
+msgid ""
+"You can add email addresses to an address book directly from the *Sent By*, "
+"*To*, *Cc*, and *Bcc* fields."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:154
+msgid ""
+"In an email message, right-click the name to add and select *Add To "
+"Contacts*."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:157
+msgid ""
+"A new contact form opens pre-populated with the information available from "
+"the email header."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:160
+msgid ""
+"Add additional information and check the pre-populated fields for accuracy."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:162
+msgid "Select how and where you want to save the contact."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:170
+#, no-wrap
+msgid "Moving a Contact to Another Address Book"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:173
+msgid "You can move contacts from one address book to another."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:176
+msgid ""
+"Go to the *Contacts* page and select the address book from which you want to "
+"move a contact."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:178
+msgid "Right-click a contact and select *Move*."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:180
+msgid "Select the new destination address book."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:183
+#, no-wrap
+msgid "Forwarding Contact Information"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:187
+msgid ""
+"You can forward contacts in your address book as electronic business cards, "
+"called vCards."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:190
+msgid ""
+"Go to the *Contacts* page and select the address book that contains the "
+"contact you want to forward."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:192
+msgid "Right-click the contact and select *Forward Contact*."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:194
+msgid "A compose pane opens with the .vcf file attached."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:196
+msgid "Complete the message and click *Send*."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:199
+msgid ""
+"Upon receipt, the recipient can download the .vcf directly to their contact "
+"list."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:200
+#, no-wrap
+msgid "Maintaining a Trusted Addresses List"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:205
+msgid ""
+"You can specify email addresses from specific domains as trusted addresses "
+"so that embedded images in messages you receive from these addresses "
+"automatically display when you open the message."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:207
+msgid "You can add up to 500 addresses to this list."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:209
+msgid "Go to the *Preferences>Trusted Addresses* page."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:211
+msgid "Enter the email address or domain name in the text box."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:213
+msgid ""
+"To include all addresses from a specific domain, type * before the @domain."
+"com name."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:215 sharingfolders.adoc:342
+msgid "Click *Add*."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:218
+#, no-wrap
+msgid "Importing an Address Book"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:223
+msgid ""
+"You can import contact lists and address books that are saved in a comma-"
+"separated (.csv) file. After the contacts are imported, they are "
+"alphabetized by last name in your address book."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:225 managingcontacts.adoc:252
+msgid "Go to *Preference>Import/Export* page."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:228
+msgid ""
+"In the *Import>File* text box, browse and locate the .csv file to import."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:232
+msgid ""
+"Select the *Type* of contact list you are importing. You can select to auto-"
+"detect the contact list, or select from the contact lists in the drop-down "
+"menu."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:235
+msgid ""
+"Select the *Destination* address book to import the contacts or create a new "
+"address book."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:238
+msgid ""
+"If creating a new address book, click *New* and enter a name, color and "
+"location for the new folder."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:246
+msgid ""
+"Depending on the size of the .csv file, the import might take a few minutes. "
+"When the import is complete, the *Status Box* shows the number of contacts "
+"successfully imported."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:247
+#, no-wrap
+msgid "Exporting an Address Book"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:250
+msgid "You can export your address books to a comma-separated (.csv) file."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:254
+msgid "In the *Export>Type* section, select what you want to export."
+msgstr ""
+
+#. type: delimited block |
+#: managingcontacts.adoc:260
+#, no-wrap
+msgid "|Accounts |\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcontacts.adoc:263
+#, no-wrap
+msgid ""
+"All account data can be exported to a \"Tar-GZipped\" (.tgz) format, which\n"
+"can be imported back into the system.\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcontacts.adoc:265
+#, no-wrap
+msgid "You have the option to select Advanced settings.\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcontacts.adoc:267
+#, no-wrap
+msgid "|Calendar |\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcontacts.adoc:270
+#, no-wrap
+msgid ""
+"You can export your appointments in the standard iCalendar (.ics) format,\n"
+"then import them into another calendar program.\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcontacts.adoc:272
+#, no-wrap
+msgid "|Contacts |\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcontacts.adoc:275
+#, no-wrap
+msgid ""
+"You can export your contacts in the standard \"Comma-Separated Values\"\n"
+"(.csv) format, then import them into another contact manager program.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:279
+msgid "Select the *Source* folder of the contacts to export."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:283 usingtasks.adoc:308
+msgid "Click *Export*."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:284
+#, no-wrap
+msgid "Printing a Contact Name or Address Book"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:288
+msgid ""
+"You can print a complete address book or just print the information for one "
+"contact."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:291
+msgid ""
+"Go to the *Contracts* page and select an address book or contact to print."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:294
+msgid ""
+"Click the *Print* icon and select *Print selected contact(s)* or *Print "
+"Contacts*."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:295
+#, no-wrap
+msgid "Deleting Contacts"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:301
+msgid ""
+"Any contact lists you create can be deleted. When contact names are deleted, "
+"they no longer appear in your address book and information is not available "
+"from the name tool tips for the address auto-completion or from the address "
+"search dialog in the email compose window."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:303
+msgid "Contacts can be deleted in one of three ways:"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:306
+msgid ""
+"From an address book, select the contact to be removed, and click *Delete* "
+"on the toolbar."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:308
+msgid "Drag the contact name to the *Trash* folder."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:310
+msgid "Right-click on the contact and select *Delete*."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:311
+#, no-wrap
+msgid "Managing Distribution Lists"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:321
+msgid ""
+"If you send messages to the same group of addresses, you can create "
+"distribution lists from your Contacts tab. A distribution list is a group of "
+"mail addresses contained in a list with a common mail address. When an email "
+"message is sent to a distribution list, the email is sent to everyone whose "
+"address is included in the distribution list.  The recipient sees the "
+"distribution list name in the To: line of the message and if they are using "
+"the bubble view, they can click the + to see the members of the distribution "
+"list."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:325
+msgid ""
+"Distribution lists are stored in the Distribution Lists address book.  When "
+"you click on a distribution list in the address book, all members of the "
+"list display in the Content field."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:329
+msgid ""
+"A distribution list can be created as a list of members and you can manage "
+"the membership to the list.  Additional options that you can configure let "
+"you"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:331
+msgid "Mark the list private so it is hidden in the Global Address List"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:333
+msgid "Limit who can send to the list"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:335
+msgid "Let users subscribe to and unsubscribe from the list"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:337
+msgid "Set up multiple owners to help manage the list"
+msgstr ""
+
+#. type: Title ===
+#: managingcontacts.adoc:338
+#, no-wrap
+msgid "Create a Quick Distribution List"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:342
+msgid ""
+"Go to the *Contacts>New Contact* drop-down menu and select *Distribution* "
+"List."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:345
+msgid ""
+"Enter a *Distribution List* name in the page heading. This is the email "
+"address of the distribution list."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:347
+msgid "Click the *Distribution List Properties* tab."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:350
+msgid ""
+"Enter a *Display Name* for the distribution list. This can be different from "
+"the email address."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:352
+msgid "Enter the *Description* for the distribution list. (optional)"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:357
+msgid ""
+"Click the *Distribution List Members* tab and select addresses to be added "
+"to the list.  You can search for addresses in your contact lists or from the "
+"GAL and you can add addresses that are not included in these lists."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:360
+msgid ""
+"Click *Save*.  The distribution list is added to your distribution list "
+"address book."
+msgstr ""
+
+#. type: Title ==
+#: managingcontacts.adoc:361
+#, no-wrap
+msgid "Create a Distribution List with Managed Access"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:365
+msgid ""
+"Go to the *Contacts>New Contact* drop-down menu and select *Distribution "
+"List*."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:369
+msgid ""
+"Enter a *Distribution List* name. This is the email address of the "
+"distribution list. The name must be available. If it is not available, you "
+"will received an error notice and will have to enter another name."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:371
+msgid "Click the *Distribution List Properties* tab"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:375
+msgid ""
+"Enter a *Display Name* for the distribution list. If you want a name other "
+"than the email address of the distribution list, enter a display name."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:377
+msgid "Enter the *Description* for the distribution list."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:380
+msgid ""
+"Select if the distribution list if *Private*, and the list is hidden in the "
+"Global Address List (GAL)."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:383
+msgid ""
+"Select the *Mail* options. Mail options set rules about who can view your "
+"distribution list."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:385
+msgid "Anyone can send to this list"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:387
+msgid "Only members can send to this list"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:389
+msgid "Only internal users can send to this list"
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:392
+msgid ""
+"Only these users can send to this list. Enter the names and email address of "
+"the users that can send to the list in the text box."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:395
+msgid ""
+"Select the type of *New Subscriptions Requests* you want to allow to this "
+"distribution list."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:397
+msgid "Set the rules for *Unsubscribing Requests* for this distribution list."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:402
+msgid ""
+"If you want someone else to manage the list, in the *List Owner’s* name(s) "
+"and email address(es) in the text box, add the addresses.  If you do not "
+"want to manage the list, remove your name before adding other addresses."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:409
+msgid ""
+"In the *Distribution List Members* tab, select new group members to add to "
+"your list. You can search for addresses in your contact lists or from the "
+"GAL and you can add addresses that are not included in these lists.  Type "
+"the email address in the *Or enter addresses below* text box. Separate "
+"addresses with either a comma (,) or semicolon (;). Email addresses you type "
+"are not verified."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:412
+msgid ""
+"Click *Save*. The accounts are added to the distribution list and the "
+"account’s distribution list address book is updated to show the distribution "
+"list name."
+msgstr ""

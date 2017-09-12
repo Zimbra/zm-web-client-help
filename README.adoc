@@ -1,0 +1,80 @@
+[float]
+image:https://www.zimbra.com/wp-content/uploads/2016/06/zimbra-logo-color-282-1.png[Zimbra,link=https://www.zimbra.com] Zimbra Web Client Help
+==============================================================================================================================================
+
+This repository contains the code necessary to build the Zimbra Web Client Help.
+
+The latest version of the help is available at https://zimbra.github.io/zm-web-client-help
+
+== Building the Help
+
+The Zimbra Web Client Help is written using
+link:http://asciidoc.org/[AsciiDoc]. Specifically, it is intended to be
+processed with link:https://asciidoctor.org/[Asciidoctor].
+
+As a prerequisite to building the documentation, you will need to have
+already installed and configured
+link:http://asciidoctor.org/[Asciidoctor]. Check the
+link:http://asciidoctor.org/docs/user-manual/#installation-quick-start[Installation
+Quick Start] in the
+link:http://asciidoctor.org/docs/user-manual/[Asciidoctor User Manual] for
+information on how to get started.
+
+Once you have Asciidoctor installed and working, you can build the
+documentation into HTML files.
+
+A Makefile is included to make the process easier with a couple of targets:
+
+  * `translate` - A target which runs po4a on the source documents to
+    update the content from translations files. This utilizes a
+    https://www.docker.com/[Docker] containerized version of po4a. You will
+    need to have Docker installed and the `docker` command available for
+    this to work.
+
+  * `build` - A target which builds the html documents for each translation.
+
+=== Build web files
+
+  make build
+
+The results will be in `build/LANG/help.html`, where `LANG` is the language
+code for the translation.
+
+=== Update the source files based on local translation
+
+  make translate
+
+The language specific versions of the documents will be updated in the
+`l10n/langs` directory will be updated based on the contents of `l10n/po`
+directory.
+
+== Translations
+
+Translation templates are generated using
+https://po4a.alioth.debian.org/[po4a].
+
+Translations for the help is managed with Zanata and is available in the
+https://translate.zanata.org/project/view/zimbra-web-help[Zimbra Web Help]
+project. You may use the `zanata-cli` tool to update the translations at
+any time.
+
+=== Updating translation files
+
+The `po` files for each translated document are in the `l10n/po/LANG`
+directory, where `LANG` is the language code (as defined by Zanata). You
+can manually overwrite the `po` files with new translated content, if you
+are interested in seeing the results of an updated translation. The `po`
+files can be directly downloaded from Zanata or updated with some other
+tool.
+
+[NOTE]
+Pull requests for modified `po` will *NOT* be accepted. Please use Zanata for
+updating translations.
+
+=== Contributing Translations
+
+If you are interested in providing a translation of this document, please
+see the
+http://docs.zanata.org/en/release/user-guide/translator-guide/#contributing-translations[Contributing
+Translations] section of the Zanata User Guide. This project is named
+`Zimbra Web Help` on Zanata.

@@ -1,0 +1,561 @@
+# Spanish translations for PACKAGE package
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-09-11 18:20+0000\n"
+"PO-Revision-Date: 2017-09-11 18:20+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: delimited block |
+#: composingemail.adoc:83 managingcalendars.adoc:28 managingcontacts.adoc:258
+#: managingemail.adoc:76 organizingaccount.adoc:14 readingmessages.adoc:107
+#: retrievingmail.adoc:108 schedulingappointments.adoc:654
+#: searchingforitems.adoc:179 sharingfolders.adoc:216 usingtasks.adoc:74
+#: usingtasks.adoc:100 usingtasks.adoc:161 usingtasks.adoc:222
+#: workinginbriefcase.adoc:79
+#, no-wrap
+msgid "|Option |Description\n"
+msgstr ""
+
+#. type: Plain text
+#: composingemail.adoc:134 composingemail.adoc:219 composingemail.adoc:286
+#: composingemail.adoc:394 gettingstarted.adoc:62 gettingstarted.adoc:122
+#: managingcalendars.adoc:56 managingcalendars.adoc:213
+#: managingcalendars.adoc:399 managingcontacts.adoc:62
+#: managingcontacts.adoc:146 managingcontacts.adoc:169
+#: managingcontacts.adoc:217 managingemail.adoc:61 managingemail.adoc:349
+#: organizingaccount.adoc:180 organizingaccount.adoc:197
+#: organizingaccount.adoc:208 organizingaccount.adoc:222
+#: organizingaccount.adoc:450 readingmessages.adoc:72 readingmessages.adoc:94
+#: readingmessages.adoc:126 replyandforwardmessages.adoc:25
+#: replyandforwardmessages.adoc:107 retrievingmail.adoc:76
+#: retrievingmail.adoc:95 schedulingappointments.adoc:546
+#: schedulingappointments.adoc:599 schedulingappointments.adoc:617
+#: schedulingappointments.adoc:633 schedulingappointments.adoc:684
+#: searchingforitems.adoc:58 sendingsecureemail.adoc:71 usingtasks.adoc:151
+#: usingzimlets.adoc:23 usingzimlets.adoc:30 workinginbriefcase.adoc:137
+msgid "Click *Save*."
+msgstr ""
+
+#. type: Plain text
+#: composingemail.adoc:326 readingmessages.adoc:198
+msgid ""
+"If the file type is one that is supported by the installed software on your "
+"computer, you can typically double-click the file and your computer "
+"automatically launches the right application for reading that file."
+msgstr ""
+
+#. type: Plain text
+#: managingemail.adoc:37 readingmessages.adoc:58
+msgid "On the *Mail* tab toolbar, click the *View* drop-down menu."
+msgstr ""
+
+#. type: Plain text
+#: managingemail.adoc:53 managingemail.adoc:68 managingemail.adoc:337
+#: organizingaccount.adoc:149 readingmessages.adoc:67 readingmessages.adoc:89
+#: replyandforwardmessages.adoc:98 retrievingmail.adoc:88
+msgid "Go to the *Preferences>Mail* page."
+msgstr ""
+
+#. type: Title =
+#: readingmessages.adoc:1
+#, no-wrap
+msgid "Reading Messages"
+msgstr ""
+
+#. type: Title ==
+#: readingmessages.adoc:3
+#, no-wrap
+msgid "Reading Mail"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:9
+msgid ""
+"By default new messages are placed in your Inbox. If you have mail filter "
+"rules, new messages can appear in folders other than your Inbox. The number "
+"in parentheses next to each folder name indicates the number of unread "
+"messages within that folder."
+msgstr ""
+
+#. type: Title ===
+#: readingmessages.adoc:10
+#, no-wrap
+msgid "Read a Message in Conversation View"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:15
+msgid ""
+"To read a message in the Conversation view double-click the conversation "
+"containing the message. The Content pane changes to show the individual "
+"messages in the conversation."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:18
+msgid ""
+"To expand the message to see all the conversations, click *Show quoted text* "
+"at the end of the message."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:21
+msgid ""
+"To collapse the conversation view so only the last message is displayed, "
+"click *Hide quoted text* at the end of the message."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:25
+msgid ""
+"To collapse all messages to view only the sender’s name and the snippet of "
+"the first line of the message, double-click in the message header."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:28
+msgid ""
+"To open the message, click the line that contains the message you want to "
+"read."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:32
+msgid ""
+"If you have Reading Pane enabled, the message body appears in the Reading "
+"Pane. Otherwise, double-click the message. The message is displayed in the "
+"Content pane."
+msgstr ""
+
+#. type: Title ===
+#: readingmessages.adoc:33
+#, no-wrap
+msgid "Read a Message in Single Message View"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:37
+msgid ""
+"If the Reading Pane feature is enabled, click the message and read it in the "
+"Reading Pane."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:40
+msgid ""
+"If the Reading Pane feature is not enabled, double-click the message. The "
+"message is displayed in the Content pane."
+msgstr ""
+
+#. type: Title ==
+#: readingmessages.adoc:41
+#, no-wrap
+msgid "Using a Reading Pane"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:47
+msgid ""
+"You can use the Reading Pane to preview messages in your Inbox and other "
+"folders. If you have the Reading Pane on, when you click on an email "
+"message, the message displays in the Reading Pane and the message is marked "
+"as read."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:50
+msgid ""
+"To adjust the size of the Reading Pane, place your pointer on the divider "
+"bar and drag the bar."
+msgstr ""
+
+#. type: Title ===
+#: readingmessages.adoc:51
+#, no-wrap
+msgid "Turn Reading Pane On or Off"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:56
+msgid ""
+"The Reading Pane lets you read email messages from your Inbox without "
+"opening the email. Depending on your view, the Reading Pane can be at the "
+"bottom or on the right, or turned off."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:60
+msgid "Select the Reading Pane option."
+msgstr ""
+
+#. type: Title ===
+#: readingmessages.adoc:61
+#, no-wrap
+msgid "Set the Reading Pane for Marked as Read Behavior"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:65
+msgid ""
+"You can also select whether messages you view in the Reading Pane are marked "
+"as read or not marked as read."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:70
+msgid ""
+"In the *Displaying Messages>Reading Pane* section, select how messages are "
+"handled when the message is selected."
+msgstr ""
+
+#. type: Title ==
+#: readingmessages.adoc:73
+#, no-wrap
+msgid "Displaying Messages in HTML Format or Plain Text"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:76
+msgid "You can view email messages in two formats, HTML or plain text."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:79
+msgid ""
+"HTML messages can have text formatting, numbering, bullets, colored "
+"background, and links, which can make messages easier to read."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:85
+msgid ""
+"Plain text messages can always be read by other email clients. Plain text "
+"does not support any text formatting, styles, links or images. You can view "
+"a message in plain-text mode even if it contains HTML. The HTML tags are "
+"displayed in the body of the message in the plain text view."
+msgstr ""
+
+#. type: Title ===
+#: readingmessages.adoc:86
+#, no-wrap
+msgid "Set Message Display Format"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:92
+msgid ""
+"In the *Displaying Messages>Display Mail*, select either *As HTML (when "
+"possible)* or *As Text*."
+msgstr ""
+
+#. type: Title ==
+#: readingmessages.adoc:95
+#, no-wrap
+msgid "Returning Read Receipts"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:98
+msgid ""
+"Messages you receive from other ZWC users can be marked to request a return "
+"receipt message to be sent back when you open your message. You can specify "
+"how to handle return receipt requests:"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:100
+msgid "Go to the *Preferences>Mail* page, *Receiving Messages* section"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:103
+msgid ""
+"In the *Read Receipt* section, select how you want read receipt requests to "
+"be handled."
+msgstr ""
+
+#. type: delimited block |
+#: readingmessages.adoc:109
+#, no-wrap
+msgid "|Never send a read receipt |\n"
+msgstr ""
+
+#. type: delimited block |
+#: readingmessages.adoc:112
+#, no-wrap
+msgid ""
+"When a message is received with a return read receipt request, the request\n"
+"is ignored. You are not informed of the request. This is the default.\n"
+msgstr ""
+
+#. type: delimited block |
+#: readingmessages.adoc:114
+#, no-wrap
+msgid "|Always send a read receipt message |\n"
+msgstr ""
+
+#. type: delimited block |
+#: readingmessages.adoc:117
+#, no-wrap
+msgid ""
+"A return read receipt message is sent when you open an email flagged for a\n"
+"return receipt.\n"
+msgstr ""
+
+#. type: delimited block |
+#: readingmessages.adoc:119
+#, no-wrap
+msgid "|Ask me |\n"
+msgstr ""
+
+#. type: delimited block |
+#: readingmessages.adoc:122
+#, no-wrap
+msgid ""
+"You are given the option to send a receipt when you open an email flagged\n"
+"for a return receipt.\n"
+msgstr ""
+
+#. type: Title ==
+#: readingmessages.adoc:127
+#, no-wrap
+msgid "Print a conversation (all messages)"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:131
+msgid ""
+"Right-click the conversation to be printed, and select Print. The "
+"conversation opens in a new window. A standard print dialog appears."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:133 readingmessages.adoc:150 readingmessages.adoc:168
+msgid "Select a printer."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:135
+msgid "Click *OK*. The conversation is sent to the selected printer."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:137
+msgid "Close the conversation window."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:140
+msgid ""
+"Alternately, you can select Print from the Actions dropdown menu on the "
+"toolbar."
+msgstr ""
+
+#. type: Title ===
+#: readingmessages.adoc:141
+#, no-wrap
+msgid "Print one message in a conversation"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:144
+msgid "Open the conversation and select the message to print."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:148
+msgid ""
+"At the end of the message, click the *More Actions* and select *Print*. The "
+"message opens in a new window. A standard print dialog appears."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:152 readingmessages.adoc:170
+msgid "Click *OK*. The message is sent to the selected printer."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:154 readingmessages.adoc:172
+msgid "Close the message window."
+msgstr ""
+
+#. type: Title ==
+#: readingmessages.adoc:155
+#, no-wrap
+msgid "Printing an Email Message"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:159
+msgid ""
+"The default font size used when a message is printed is 12 points. You can "
+"change this from the *Preferences tab>General* page."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:163
+msgid ""
+"Do not use the browser's *File>Print* feature. The page will not be well-"
+"formatted, and your message may be difficult to read."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:166
+msgid ""
+"Right-click on the message and select *Print*. The message opens in a new "
+"window. A standard print dialog appears."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:175
+msgid ""
+"Alternately, you can select *Print* from the Actions dropdown menu on the "
+"toolbar."
+msgstr ""
+
+#. type: Title ==
+#: readingmessages.adoc:176
+#, no-wrap
+msgid "Receiving a “Permission Denied” Message"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:182
+msgid ""
+"If you send out an invitation to a meeting and you receive an email message "
+"that says “You do not have permission to invite this users to a meeting” "
+"from an attendee, the attendee has set up their Calendar permissions "
+"preferences to limit who can invite them to a meetings."
+msgstr ""
+
+#. type: Title ==
+#: readingmessages.adoc:183
+#, no-wrap
+msgid "Opening Attachments to an Email Message"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:190
+msgid ""
+"Email messages can include attached files such as word processing documents, "
+"spreadsheets, text files, ZIP files, images, executable applications, or any "
+"other type of computer file that resides on the sender's computer network. "
+"Messages that contain attachments display a paper clip next to the subject."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:194
+msgid ""
+"You can open any file attachment directly from your account, provided that "
+"you have the right application and the extension is not blocked by your "
+"system administrator."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:203
+msgid ""
+"Computer viruses are often spread via file attachments. Therefore, system "
+"administrators might block incoming email containing certain types of "
+"attachments, often with the extension .EXE or .ZIP as part of their filename."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:209
+msgid ""
+"Computer viruses can spread through email attachments. It is considered "
+"standard practice for system administrators to implement virus filtering for "
+"incoming mail as well as virus scanning for personal computers. However, "
+"there is always a chance that something could get through."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:215
+msgid ""
+"In the case of email viruses, the majority of them are activated when a file "
+"attachment containing the virus is opened or viewed. Many of these viruses "
+"have been known to spread themselves using entries in users' address books. "
+"Therefore, we recommend that you use care when opening file attachments, "
+"even from senders who appear to be known to you."
+msgstr ""
+
+#. type: Title ===
+#: readingmessages.adoc:216
+#, no-wrap
+msgid "View Attachments"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:219
+msgid "To view an attachment open the message:"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:222
+msgid ""
+"Click the name of the attachment to open the attachment (if you have the "
+"correct application available)."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:226
+msgid ""
+"Click *Download* to select whether to open the file or save it on your "
+"computer. If you select *Save to Disk*, a browser dialog box appears so that "
+"you can select where to save the file."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:228
+msgid "The file is still attached to the message until you remove it."
+msgstr ""
+
+#. type: Title ===
+#: readingmessages.adoc:229
+#, no-wrap
+msgid "Preview Attachments"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:233
+msgid ""
+"If you have the Preview option, you can quickly view the content of the "
+"attachment without having to download or open the attachment."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:237
+msgid ""
+"To preview an attachment, open the message and click *Preview* next to the "
+"attachment. This opens the attachment even if the application is not "
+"installed on your network."
+msgstr ""
+
+#. type: Title ===
+#: readingmessages.adoc:238
+#, no-wrap
+msgid "Remove Attachments"
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:243
+msgid ""
+"Attachments to your email affect your quota. You may want to remove larger "
+"attachments from the message. Removing the attachment deletes the file from "
+"your mailbox. If you downloaded the file, you still have a copy."
+msgstr ""
+
+#. type: Plain text
+#: readingmessages.adoc:244
+msgid "To remove an attachment open the message and click *Remove*."
+msgstr ""

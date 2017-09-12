@@ -1,0 +1,514 @@
+= Searching for Items
+
+== Searching Your Account
+
+Searching lets you find messages, contacts, appointments, tasks, and
+files. You can search by specific words, dates, time, URL, size, tag,
+whether or not a message has been read, whether it has file attachments or
+attachments of a particular file type and more.
+
+The Search feature executes whatever search query is currently displayed in
+the search text box. You can enter one of the search key words in the search
+field and a list of possible search arguments automatically displays. In
+addition, the drop-down arrow at the left of the search text box allows you
+to select which type of items to search for. You can select to search within
+messages, your contacts, including company contact lists, appointments,
+tasks, and files.
+
+You have the option to perform more complex searches by using specific
+search query information, such as filters and conditions. You can save your
+search queries and re-execute them at a later date.
+
+=== Find an Item Quickly
+
+  . Select the folder that you want to search or in the search drop-down menu,
+    select which part of your account to search.
+
+  . In the *Search* text box, type the search text. For search options, see
+    <<_search_syntax>>.
+
+  . Press *Enter*. The Search tab opens to display the search results.
+
+=== Perform a Search from the Search Page
+
+  . In the Search box, click the *magnifying glass*. The search page displays.
+
+  . In the Navigation pane, select from the drop down links to create your
+    search. The search syntax displays in a bubble in the search field at the
+    top of page.
+
+== Setting Your Search Preferences
+
+By default your spam, trash and shared items folders are not searched.  You
+can enable these preferences. To view the search query syntax in the search
+field, you can enable the Search Language preference.
+
+  . Go to *Preferences>General* page.
+
+  . Select *Search>Include Spam Folder in Searches, Include Trash Folder in
+    Searches, and Include Shared Items in Searches* to include these folders in
+    any search you perform.
+
+  . Select *Search Language>Show advanced search language in search toolbar* to
+    show search string details in the search text box at the top of the page. By
+    default, this option is not selected.
+
+  . Click *Save*.
+
+== Performing a Quick Search
+
+A quick shortcut to searching is to type in a name or word, without any
+keywords. For example, to find all mail containing the word " tim" anywhere
+in the subject line, To: From: Cc: or Bcc: lines, message body, or file
+attachment, you could simply type tim into the search box and click
+*Search*.
+
+You can enter any value, such as a word, first name, last name, phone
+number, or domain name. For contacts in your address books, the field must
+be a whole word. For example, to search contacts by phone number you would
+have to enter the full phone number as it appears in the contact entry; you
+could not search just by the area code alone.
+
+Before you can use the quick search feature, make sure that you have
+selected the type of item you want to search for. The drop-down arrow on the
+left of the search box allows you to select which type of items to search
+for. You can search for messages, personal contacts, personal and shared
+contacts, the Global Address List contacts, pages, or for all types.
+
+=== Perform a Quick Search
+
+  . In the *Search* text box, enter the content that you want to search for. For
+    search options, see <<_search_syntax>>.
+
+  . Select which part of your account to search from the drop-down menu next to
+    the Search text box.
+
+  . Press *Enter*.
+
+When you finish the search, click the Search tab.
+
+== Performing an Advanced Search
+
+Instead of typing your keyword and criteria in the Search field, on the
+advanced search page you can select from search filters to add more detailed
+criteria for your search.
+
+  . In the Search box, click the *magnifying glass*. The advanced search page
+    displays.
+
+  . In the Navigation pane, select from the *Advanced Filters* links to create
+    your search.
++
+The search syntax displays in the Search field at the top of the page. You
+can select from any of the filters. As you add new search requirements to
+the filters, the search executes and continue to update the results.
++
+You can further refine your search criteria by adding and
+<<_and_versus_or_searches,And and OR search>> conditions.
+
+  . Click Search.
+
+See
+
+<<_advanced_search_criteria>>
+
+<<_search_examples>>
+
+== Search Filters You Can Use
+
+Refer to the table below for to build more detailed searches.
+
+In the Search tab you can select from advanced filters to build more complex
+queries.
+
+[cols="1,2a", options="header"]
+|=======================================================================
+|Advanced Filters |Description
+
+|Received from |
+
+Search for certain domains in the message header (From, To, and Cc). The
+domains that you can search for are predefined.
+
+|Sent to |
+
+Search for certain domains in the message header (From, To, and Cc). The
+domains that you can search for are predefined.
+
+|Date sent |
+
+Search for messages received after, before, or on a selected date. To
+search between dates, select *Date sent is before* and then select *Date
+sent is after* and enter the date range.
+
+|Attachments |
+
+Search for email based on whether it has an attachment. If you are
+searching for a particular type of attachment, select the type from the
+list of formats displayed.
+
+|Size |
+
+Search for messages by size (bytes, KB, or MB).
+
+|Status |
+
+Search for messages or contacts based on their status, such as read,
+unread, forwarded, or replied to.
+
+|Tag |
+
+Search for messages or contacts that have a specific tag.
+
+|Folder |
+
+Limit search to selected folders.
+
+|=======================================================================
+
+== Search Syntax Rules
+
+You can search for any item, such as a word, first name, last name, phone
+number, or domain name. When you are searching for content, there are
+certain rules to keep in mind. Searching for content searches the body of
+the message, plus any system-readable file attachments.
+
+[cols="1,2a", options="header"]
+|=======================================================================
+|Option |Description
+
+|Exact text match |
+
+If you search for phrases, each word within that phrase must be an exact
+match. Spelling variants are not allowed. For example, if you search for
+*bananas*, messages with *banana* are not a match.
+
+|Not case sensitivity |
+
+Search is not case sensitive; *South*, *south*, and *SOUTH* are all the
+same thing.
+
+|Special characters |
+
+These special characters cannot be used in your search text. `~ ' ! @ # $ %
+^ & * () _ - + ? / { }[ ] ; : "`
+
+|Copyright and Trademark symbols |
+
+Special characters, such as trademark symbols that are part of a word, are
+removed when the word is indexed for search. When these special characters
+are used in a search query as part of a whole word search, they are
+ignored. For example, a search for Zimbra™ finds all references to Zimbra,
+including those without the trademark symbol.
+
+|Wild cards |
+
+The asterisk *\** as a wildcard after a prefix is supported. For example, if
+you search for *do**, it returns items with the word *dog*, *door*, etc.
+
+[NOTE]
+A double-byte asterisk sign in a search query is not considered a wild card
+character and is ignored when the search runs.
+
+|Attachments |
+
+System-readable file attachments are searched. A system-readable file is
+one that can be converted to HTML, such as Microsoft Office documents and
+text files.
+
+|Contacts in address books |
+
+You must search for a whole word or number string. For example, to search
+contacts by phone number, you must enter the full phone number as it
+appears in the contact entry. You cannot search just by the area code.
+
+|=======================================================================
+
+[NOTE]
+Searching content in the {product-name} differs slightly from text-match
+searches or word-processing features such Find.
+
+== Using * as a Wildcard in Search
+
+The asterisk (*) is a wildcard character that can be used to match multiple
+characters.  Use the wildcard to create searches where there are unknown
+characters or various endings. The * wildcard cannot be used as the first
+character in a search term.
+
+To use the asterisk as a wildcard, enter the first characters of a search
+term and add the *\** at the end. For example, *do** returns items with the
+word *dog*, *door*, etc.
+
+== Searching with Key Words
+
+If you know where to search for your item, you can enter keywords followed
+by a colon and search item in the Search field.
+
+[cols="1,2a", options="header"]
+|=======================================================================
+|Key Word |Description
+
+|content: |
+
+Specifies text that the message must contain. For example,
+*content:bananas* finds all items containing the word "bananas".
+
+|from: |
+
+Specifies a sender name or email address that is in the *From* header. This
+can be text, as in "John Smith III", an email address such as
+" joe@acme.com", or a domain such as " zimbra.com".
+
+|to: |
+
+Same as from: except that it specifies one of the people to whom the email
+was addressed in the *To:* header.
+
+|cc: |
+
+Same as from: except that it specifies a recipient in the *Cc:* header of
+the message.
+
+|subject: |
+
+Specifies text that must appear in the *subject* header of the message. An
+example might be *subject:new vacation policy*.
+
+|in: |
+
+Specifies a folder. For example, *in:sent* shows all items in your *Sent*
+folder.
+
+|has: |
+
+Specifies an attribute that the message must have. The types of object you
+can specify are "attachment", "phone", or " url". For example,
+*has:attachment* finds all messages which contain one or more attachments
+of any type.
+
+|filename: |
+
+Specifies an attachment file name. For example, *filename: query.txt* finds
+messages with a file attachment named "query.txt".
+
+|type: |
+
+Specifies a search within attachments of a specified type. The types of
+attachment you can specify are "text", "word", "excel", and " pdf". For
+example, *type:word hello* finds messages with attachments that are
+Microsoft Word documents and searches within those attachments for the word
+"hello".
+
+|attachment: |
+
+Specifies any item with a certain type of attachment. For example,
+*attachment:word* finds all messages with a Word file attachment.
+
+[NOTE]
+If you did not find an attachment that was written in a non-western
+language, see Search Issues with Non-Western Language Attachments.
+
+|is: |
+
+Searches for messages with a certain status. Allowable values are "unread",
+"read", "flagged", " unflagged", "sent", "draft", "received", "replied", "
+unreplied", "forwarded", unforwarded", "anywhere", "remote" (in a shared
+folder), "local", "sent", and "solo"
+
+For example,
+
+*is: unread* finds all unread messages.
+
+*is:solo* finds email messages that do not have a reply to them yet.
+
+The Status drop-down menu in the advanced filters includes these options.
+
+|date: |
+
+Use this keyword to specify a date You can use an absolute date (mm/dd/yyyy
+or yyyy/dd/mm) or a relative date (+/- nnnn [hour, day, week, month,
+year]). Use the format that is default on your browser's locale. For
+example, US English format *date:2/1/2015* finds messages dated February 1,
+2015.
+
+The greater than symbol (*date:>DATE*) is the same as *after:DATE*. The
+less than symbol (*date:>DATE*) is the same as the *before:Date*.
+
+|after: |
+
+Specifies mail sent after a certain date. For example, *after:2/1/2015*
+specify mail sent after February 1, 2015.
+
+|before: |
+
+Same as *after:* except specifies mail sent before the specified date.
+
+|size: |
+
+Specifies messages whose total size, including attachments, is a specified
+number of bytes, kilobytes, or megabytes For example, *size:12 kb* finds
+messages that are exactly 12K in size. The greater than (>) or less than
+(<) symbols can be used instead of bigger or smaller.
+
+|larger: |
+
+Similar to size: except specifies greater than the specified size.
+
+|smaller: |
+
+Similar to size: except specifies smaller than the specified size.
+
+|tag: |
+
+Finds messages which have been tagged with a specified tag. For example,
+*tag:amber* finds message that have a tag called "amber" applied.
+
+|=======================================================================
+
+== Saving a Search Query
+
+If you create a search that you want to use again, you can save it.
+
+  . Create the search query.
+
+  . In the Search menu bar, select *Save*. The *Save Search* dialog displays.
+
+  . Enter a *Name* for the search.
+
+  . Select a *Color* for the search.
+
+  . Select where to save the search.
+
+  . Click *OK*.
+
+Searches are saved to the Navigation pane.
+
+To use a saved search, click the search folder. The search results
+immediately display in the Content pane.
+
+== Search Examples
+
+  * *Search for a specific type of attachment file*. A message with next
+    year's budget spreadsheet attached. You don't remember who it's from or
+    what date it was sent, but the filename has an .XLS extension.
++
+Open just the *Attachments* drop-down menu and select the attachment
+extension type. A list of check boxes appears beneath the radio
+button. Scroll down and check the box next to Microsoft Excel.
+
+  * *Search for a contact within a specific company*. A contact who works
+    at a company called "Rivendell".
++
+In the Search bar drop-down menu select *Contacts* and enter the company
+name in the Search text box.
+
+  * *Search for a message over all your folders*. You know you received a
+    message, but you are not sure which folder you saved it to.
++
+Click the magnifying glass icon in the Search bar to open the Search
+page. In the *Status* drop-down menu, select anywhere.  To include your
+Trash and Junk folders in your search, you must enable this in the
+Preferences>General page.
+
+  * *Search by a date range*. A message someone claims to have sent you "in
+    early December."
++
+Click the magnifying glass icon in the Search bar to open the Search
+page. To set a date range, in the *Date* sent drop-down menu select *is
+before* and add a date and then select *is after* and add an end date.
+
+  * *Search for a message that you have not answered*. You received email
+    messages that you have not yet replied to
++
+Click the magnifying glass icon in the Search bar to open the Search
+page. In the *Status* drop-down menu, select solo.
+
+== Understanding Advanced Search Query Language
+
+This advanced topic describes in detail the search grammar used for
+ZCSSearch feature.
+
+=== Search Language Structure
+
+Simple searches can be done by just entering a word into the search
+field. Bare words (words without a search operator) are interpreted to
+search in the 'content:' operator -- this matches any text in the message.
+
+More advanced searches can be done by specifying a *search operator*. A
+search operator is a special keyword followed by a colon, followed by some
+other parameter specific to that operator. For example:
+
+  * *in:inbox* the operator is "in" and the parameter is " inbox" - this
+    returns messages which are in the folder named " inbox"
+
+  * *from:someone* the operator is "from" and the parameter is "someone" -
+    this returns messages which have the word "someone" in their email
+    address
+
+You can prefix any keyword with the word "not" to specify items that do not
+have that criterion, for example *not in:inbox*. Search is not case
+sensitive, meaning that "in:inbox" is the same as "in:Inbox". The minus sign
+(-) is a synonym for *NOT* So: *not in:inbox* is the same as *-in:inbox*
+
+In most cases, it is not necessary to include punctuation-type characters in
+your search string, as these are ignored by the search code. There are
+certain times where this is not true (for example, searching for a time
+'9:30' in a message) and in those cases you should enclose the search
+parameter in quotation marks. For example: *subject:"9:30"* will return
+messages which have the string 9:30 in the subject.
+
+Allowable characters in the search parameter:
+
+  * The following characters cannot be anywhere in a search parameter unless it
+    is enclosed by quotes: `~ ' ! # $ % ^ & * ( ) _ ? / { }[ ] ; :`
+
+  * The following characters are allowed in a search parameter as long as they
+    are not the first character: `- + < >`
+
+[NOTE]
+Special characters, such as trademark symbols that are part of a word, are
+removed when the word is indexed for search. They are ignored in a
+search. For example, a search for Zimbra™ finds all references to Zimbra,
+including those without the trademark symbol.
+
+=== Multiple Search Terms
+
+If multiple search terms are entered (separated by spaces), they are "
+ANDed" together by default. *in:inbox tim* means "return me messages which
+are in the inbox AND which have the word tim in them". For searches using
+multiple criteria, you can either find items that match one of the specified
+criteria or all of them. You can perform both types of searches from the
+advanced search page.
+
+For all search panes other than the Basic search, the rules are:
+
+  * Searching for messages that match any of the specified criteria is called an
+    '*OR*' search, because if the message contains either X or Y, then it is
+    considered a match.
+
+  * Searching for messages that contain both X and Y is called an '*AND*'
+    search, because the message must meet all the specified criteria in order to
+    be considered a match.
+
+  * Only "OR" appears in a query. If you selected as an option to show the
+    search query in the Search bar as you make selections in the Advanced
+    search, the Search text box updates to show the resulting query. With the
+    '*AND*' type of search, the word '*AND*' does not appear.
+
+[TIP]
+Using parenthesis with AND and OR. Words within parentheses are considered
+as a unit. For example *from: (john thomas)* is equivalent to *from:john AND
+from: thomas*. If you use OR in the parenthesis, *from:(john or smith)*, the
+search is for results *from:john OR from: smith*.
+
+=== Using * as a Wildcard in Search
+
+The asterisk (*) can be used as a wildcard at the end of a word in a search
+to find content that contains words that have similar spellings.
+
+Use the asterisk *\** as a wildcard. For example, the search string *do**
+returns items such as *do*, *dog*, *door*, etc.
+
+[NOTE]
+A double-byte asterisk sign in a search query is not considered a wildcard
+character and is ignored when the search runs.

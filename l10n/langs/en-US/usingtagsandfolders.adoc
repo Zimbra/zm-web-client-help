@@ -1,0 +1,177 @@
+= Using Tags and Folders to Organize Email
+
+== Create a Folder
+
+You can create a standalone user-defined folder or a folder inside another
+folder, including system folders.
+
+You cannot create two folders with the same name within the same parent
+folder. For example, you cannot have two folders named Shopping inside your
+Inbox folder, but you can have one folder named Shopping inside your Inbox
+folder, and another folder with the same name inside the Sent folder.
+
+  . Go to the *Mail>Mail Folders* and click the *gear icon*.
+
+  . Select *New Folder*.
+
+  . Enter the new folder *Name* and select a folder *Color*.
++
+Folder names can include any character except a colon (:), forward slash
+(/), and quotation mark (").
++
+You have the option to select to subscribe to RSS/ATOM feed.
+
+  . In the *Mail Folders* tree, select the placement of the new folder.
+
+    * Click *Mail Folders* to have the new folder displayed at the top of the
+      list.
+
+    * Click an existing folder to place your new folder within that folder.
+
+  . Click *OK*.
+
+== Rename a Folder
+
+You can rename user-defined folders but not system folders.
+
+  . Go to the *Mail>Mail Folders*.
+
+  . Right-click a folder and select *Rename Folder*.
+
+  . Enter the new folder name.
++
+Folder names can include any character except a colon (:), forward slash
+(/), and quotation mark (").
+
+  . Click *OK*.
+
+== Delete a Folder
+
+You can delete user-defined folders, but not system folders. When you delete
+a folder, the folder and its contents are moved to Trash. If you want to
+save some of the messages in a folder before you delete the folder, move the
+messages to another folder.
+
+You can recover a folder and its contents from Trash by dragging and
+dropping the folder to another folder.
+
+[IMPORTANT]
+When you delete a folder, a pop-up displays at the top of the pane
+indicating the folder is moved to Trash. Click *Undo* if you want to revert
+the deletion. This pop-up displays for a very short time, so click Undo
+immediately if you did not want to delete the folder, otherwise you’ll have
+to manually recover the folder.
+
+  . Go to the *Mail>Mail Folders*.
+
+  . Right-click the folder you want to delete and select *Delete*.
+
+[NOTE]
+The Trash folder is purged on a regular basis, which is set by your
+administrator, so items in the Trash do not stay there forever.
+
+== Create a Tag
+
+  . In the Overview pane, click the *Tags* gear icon and select *New Tag*.
+
+  . Enter the new *Tag name* and select a *Color* for the tag.
++
+Tag names can include any character except a colon (:), forward slash (/),
+and quotation mark (")
+
+  . Click *OK*.
+
+The new tag is listed under *Tags*.
+
+== Assign a Tag to an Item
+
+After you create a tag, you can apply it to an item. You can assign more
+than one tag to an item to classify it under different categories. If an
+item has multiple tags, the tag icon is multicolored. Only tags that are not
+already applied to the item are listed.
+
+  . In the Content pane, right click an item.
+
+  . In the drop-down menu, select *Tag <topic>*. For example, the topic can be a
+    “Conversation”, which displays as *Tag Conversation*.
+
+  . Click the tag to apply to the item. A tag icon displays next to the item.
+
+== Change a Tag Color
+
+  . Go to *Overview pane>Tags* section.
+
+  . Right-click the tag for which you want to change the color.
+
+  . Select *Tag Color* and click a new color for the tag.
+
+All tags with the previous color are changed to the new color.
+
+== Rename a Tag
+
+  . Go to *Overview pane>Tags* section.
+
+  . Right-click the tag you want to rename and select *Rename Tag*.
+
+  . Enter the *New Tag Name*.
+
+  . Click *OK*.
++
+Tag names can include any character except a colon (:), forward slash (/),
+and quotation mark (")
+
+  . Click *OK*.
+
+== Search for Items by Tag
+
+  * To search for a specific tag, type the following into the Search field:
++
+*tag:<tagname>*. Displays all tags with this name.
+
+[NOTE]
+If the tag name is two words, you must use quotes around the tag name.
+
+== Display Messages with a Specific Tag
+
+  * To find tagged message quickly, click a tag in the Tag section of the
+    Overview pane.
++
+All messages with the selected tag are displayed in the Content pane.
+
+== Remove a Tag
+
+  . Right-click an item that is tagged.
+
+  . In the drop-down menu, select *Tag <topic>*. For example, the topic can be a
+    “Conversation”, which displays as *Tag Conversation*.
+
+  . Select *Remove Tag*. If the item has multiple tags, select the tag you want
+    to remove or select *All Tags* to remove all tags.
+
+You can remove a tag from a message when you have the message open in a
+reading pane. The tag displays in the message header under *Tags*, and you
+can click the *X* on the tag to delete the tag.
+
+== Delete a Tag
+
+Deleting a tag removes the tag from any item that has the tag. The items
+themselves are not deleted.
+
+  . Go to *Overview pane>Tags* section.
+
+  . Right-click the tag you want to delete and select *Delete*.
+
+  . Click *Yes* to confirm the deletion.
+
+== Flag a Message or Conversation
+
+  . Place your cursor over the flag column for a message or conversation. The
+    flag icon displays in a shadowed form.
+
+  . Click once directly over the flag icon. The flag icon appears in its active
+    form, which turns the flag red in color.
+
+== Remove a Flag from a Message or Conversation
+
+  * Click an active flag icon to toggle the flag off. The flag is disabled and
+    the flag color turns to a grey scale color.

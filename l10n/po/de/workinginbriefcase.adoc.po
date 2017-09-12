@@ -1,0 +1,636 @@
+# German translations for PACKAGE package
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-09-11 18:20+0000\n"
+"PO-Revision-Date: 2017-09-11 18:20+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: delimited block |
+#: composingemail.adoc:83 managingcalendars.adoc:28 managingcontacts.adoc:258
+#: managingemail.adoc:76 organizingaccount.adoc:14 readingmessages.adoc:107
+#: retrievingmail.adoc:108 schedulingappointments.adoc:654
+#: searchingforitems.adoc:179 sharingfolders.adoc:216 usingtasks.adoc:74
+#: usingtasks.adoc:100 usingtasks.adoc:161 usingtasks.adoc:222
+#: workinginbriefcase.adoc:79
+#, no-wrap
+msgid "|Option |Description\n"
+msgstr ""
+
+#. type: Plain text
+#: composingemail.adoc:134 composingemail.adoc:219 composingemail.adoc:286
+#: composingemail.adoc:394 gettingstarted.adoc:62 gettingstarted.adoc:122
+#: managingcalendars.adoc:56 managingcalendars.adoc:213
+#: managingcalendars.adoc:399 managingcontacts.adoc:62
+#: managingcontacts.adoc:146 managingcontacts.adoc:169
+#: managingcontacts.adoc:217 managingemail.adoc:61 managingemail.adoc:349
+#: organizingaccount.adoc:180 organizingaccount.adoc:197
+#: organizingaccount.adoc:208 organizingaccount.adoc:222
+#: organizingaccount.adoc:450 readingmessages.adoc:72 readingmessages.adoc:94
+#: readingmessages.adoc:126 replyandforwardmessages.adoc:25
+#: replyandforwardmessages.adoc:107 retrievingmail.adoc:76
+#: retrievingmail.adoc:95 schedulingappointments.adoc:546
+#: schedulingappointments.adoc:599 schedulingappointments.adoc:617
+#: schedulingappointments.adoc:633 schedulingappointments.adoc:684
+#: searchingforitems.adoc:58 sendingsecureemail.adoc:71 usingtasks.adoc:151
+#: usingzimlets.adoc:23 usingzimlets.adoc:30 workinginbriefcase.adoc:137
+msgid "Click *Save*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:107 managingcalendars.adoc:283
+#: managingcalendars.adoc:313 managingcontacts.adoc:71
+#: managingcontacts.adoc:182 managingcontacts.adoc:240
+#: managingcontacts.adoc:281 managingemail.adoc:133 managingemail.adoc:159
+#: managingemail.adoc:223 managingemail.adoc:323 managingemail.adoc:367
+#: replyandforwardmessages.adoc:130 schedulingappointments.adoc:68
+#: schedulingappointments.adoc:307 schedulingappointments.adoc:344
+#: schedulingappointments.adoc:487 searchingforitems.adoc:384
+#: sharingfolders.adoc:47 sharingfolders.adoc:251 usingmailfilters.adoc:129
+#: usingmailfilters.adoc:169 usingmailfilters.adoc:184
+#: usingmailfilters.adoc:444 usingmailfilters.adoc:457
+#: usingtagsandfolders.adoc:32 usingtagsandfolders.adoc:47
+#: usingtagsandfolders.adoc:83 usingtagsandfolders.adoc:119
+#: usingtagsandfolders.adoc:124 usingtasks.adoc:250 usingtasks.adoc:312
+#: workinginbriefcase.adoc:42 workinginbriefcase.adoc:103
+#: workinginbriefcase.adoc:256
+msgid "Click *OK*."
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:60 replyandforwardmessages.adoc:91
+#: replyandforwardmessages.adoc:119 schedulingappointments.adoc:236
+#: sendingsecureemail.adoc:113 sendingsecureemail.adoc:139
+#: workinginbriefcase.adoc:229
+msgid "Click *Send*."
+msgstr ""
+
+#. type: Plain text
+#: searchingforitems.adoc:89 workinginbriefcase.adoc:243
+msgid "Press *Enter*."
+msgstr ""
+
+#. type: Title ==
+#: workinginbriefcase.adoc:1 workinginbriefcase.adoc:3
+#, no-wrap
+msgid "Working in Briefcase"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:9
+msgid ""
+"Briefcase can be used to share and manage documents that you create in "
+"Briefcase or documents and images that you upload to your Briefcase folders. "
+"Use Briefcase to save files in your account so that you can access these "
+"files whenever you log in to your account from any computer."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:12
+msgid ""
+"You can share your briefcases folders with others who can view and edit the "
+"files in the shared Briefcase."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:16
+msgid ""
+"You can create multiple briefcase folders and then upload any type of file "
+"from your computer or your computer network, save attachments sent with your "
+"email messages, and create new documents."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:20
+msgid ""
+"Files in Briefcase are copies of the original file, whether the file is on "
+"your computer or an attachment to your email. Changes you make to files in "
+"your briefcase do not change the original file."
+msgstr ""
+
+#. type: Title ===
+#: workinginbriefcase.adoc:21
+#, no-wrap
+msgid "Creating Briefcase Folders"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:24
+msgid "Go to *Briefcase Folders*."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:26
+msgid "Click the *gear icon* and select *New Briefcase*."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:28
+msgid "Enter a *Name* for the new briefcase folder."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:34
+msgid ""
+"The briefcase folder name must be unique within the hierarchy of your all of "
+"mailbox folders. This name cannot match any top-level folder in your "
+"mailbox, calendar, or address book. For example, if you have a calendar "
+"named Holidays, you cannot name a top-level briefcase Holidays. Holidays "
+"could be a name of a briefcase within another briefcase."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:36
+msgid "Select the *Color* of the new briefcase file."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:40
+msgid ""
+"Select the folder hierarchy, either under Folders or under another briefcase "
+"folder. You can create a new top-level briefcase, or you can place it under "
+"an existing briefcase."
+msgstr ""
+
+#. type: Title ===
+#: workinginbriefcase.adoc:43
+#, no-wrap
+msgid "Upload Files from Briefcase"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:46
+msgid "Go to the *Briefcase* tab and select the Briefcase to save the file."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:48
+msgid "Click *Upload File* and *Browse* to find the file to upload."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:51
+msgid ""
+"In the *Notes* text field, add any information about the file. This "
+"information is displayed in the file list."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:53
+msgid "To add another file, click *Add*."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:58
+msgid ""
+"You cannot upload a file with the same name to the same briefcase. If a file "
+"is uploaded that already exists in the folder, an Upload Conflict dialog "
+"displays. You can either click *Yes* to upload the file, overwriting the "
+"existing file, or click *No*."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:60
+msgid "The version number is updated if a file is overwritten."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:62
+msgid "When all files are uploaded, click *OK*."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:66
+msgid ""
+"If you selected the wrong briefcase, you can use drag and drop to move the "
+"file to the correct Briefcase folder."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:69
+msgid ""
+"If the file is too large, a warning displays. Files that you upload impact "
+"your account quota."
+msgstr ""
+
+#. type: Title ==
+#: workinginbriefcase.adoc:70
+#, no-wrap
+msgid "Viewing Files in Briefcase"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:73
+msgid "Go to the Briefcase page."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:75
+msgid ""
+"Click View on the Task toolbar to select how to display the file in the "
+"Preview Pane."
+msgstr ""
+
+#. type: delimited block |
+#: workinginbriefcase.adoc:81
+#, no-wrap
+msgid "|Preview Pane At The Bottom |\n"
+msgstr ""
+
+#. type: delimited block |
+#: workinginbriefcase.adoc:83
+#, no-wrap
+msgid "The Briefcase preview pane displays at the bottom of the pane.\n"
+msgstr ""
+
+#. type: delimited block |
+#: workinginbriefcase.adoc:85
+#, no-wrap
+msgid "|Preview Pane On the Right |\n"
+msgstr ""
+
+#. type: delimited block |
+#: workinginbriefcase.adoc:87
+#, no-wrap
+msgid "The Briefcase preview pane displays on the right.\n"
+msgstr ""
+
+#. type: delimited block |
+#: workinginbriefcase.adoc:89
+#, no-wrap
+msgid "|Preview Pane Off |\n"
+msgstr ""
+
+#. type: delimited block |
+#: workinginbriefcase.adoc:91
+#, no-wrap
+msgid "The Preview Pane does not display\n"
+msgstr ""
+
+#. type: Title ==
+#: workinginbriefcase.adoc:94
+#, no-wrap
+msgid "Upload Email Attachments to Briefcase"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:98
+msgid ""
+"To add the attachment, click the *Briefcase* link in the email message "
+"header next to the Attachments link."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:101
+msgid ""
+"In the *Add to Briefcase* dialog, select the destination folder or create a "
+"new briefcase folder."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:108
+msgid ""
+"A copy of the attachment is put in your Briefcase folder. If you are "
+"managing your quota, you may want to delete the attachment in the email when "
+"you add upload the attachment to your Briefcase."
+msgstr ""
+
+#. type: Title ==
+#: workinginbriefcase.adoc:109
+#, no-wrap
+msgid "Adding Files to Your Briefcase Folders"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:114
+msgid ""
+"Uploading a file copies a file from your personal computer to your account. "
+"This makes the file available any time you log into your account. You can "
+"upload files in the following ways:"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:116
+msgid "Clicking attachments you receive with your email messages."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:118
+msgid "Using the file upload tool when working in Briefcase"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:120
+msgid "Using WebDav Client tools"
+msgstr ""
+
+#. type: Title ==
+#: workinginbriefcase.adoc:121
+#, no-wrap
+msgid "Creating Documents in Briefcase"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:125
+msgid ""
+"You can create documents in Briefcase and design the content layout using "
+"the rich-text format tools available in Briefcase."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:128
+msgid ""
+"Go to the *Briefcase* tab and select the Briefcase folder where you want to "
+"create a new document."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:130
+msgid "Click *New Document*. A blank page appears:"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:133
+msgid ""
+"Compose the content of the page using the rich text editor. You can add "
+"style, color and tables to your page from the toolbar links."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:135
+msgid "Enter the name of the new document in the *Save* field."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:139
+msgid "Add document version notes if applicable. Click *OK*."
+msgstr ""
+
+#. type: Title ==
+#: workinginbriefcase.adoc:140
+#, no-wrap
+msgid "View Version History of a Briefcase File"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:146
+msgid ""
+"Version control lets you manage changes to your documents in Briefcase. Each "
+"time you make a change to a file and save the file, the version number is "
+"updated. The latest version number is displayed in the file document list."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:150
+msgid ""
+"Click the arrow in the preview pane to see the version history and the "
+"authors. If preview pane is turned off, you will see a column with the "
+"version number."
+msgstr ""
+
+#. type: Title ===
+#: workinginbriefcase.adoc:151
+#, no-wrap
+msgid "Restore a Document to the Previous Version"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:154
+msgid "Right-click on another version and select *Restore as Current Version*."
+msgstr ""
+
+#. type: Title ==
+#: workinginbriefcase.adoc:155
+#, no-wrap
+msgid "Checking Out and Checking In Files to Briefcase"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:161
+msgid ""
+"You can open files in your Briefcase any time you log on to your account. "
+"You must have the appropriate software application to open and read or "
+"updated files that you did not create with the documents tools in Briefcase."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:167
+msgid ""
+"If you have shared a briefcase with others, you may want to use the check-"
+"out and check-in feature of Briefcase to manage editing of files. The check "
+"out and check in process is slightly different depending on whether the file "
+"is one you uploaded to your briefcase or a documented in created in briefcase"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:170
+msgid ""
+"Go to the *Briefcase* tab and select the file that you want to check out."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:172
+msgid "Click *Actions>Check Out File*."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:177
+msgid ""
+"In the dialog that displays, select to save the file to your computer. "
+"Because you checked out the file, you must save it to your computer to edit "
+"it, as the file has been marked as read-only and changes to the file cannot "
+"be saved."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:179
+msgid "Edit the file with the appropriate tool and save it."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:182
+msgid ""
+"After you saved the file to your computer, right-click on the locked file "
+"from the Briefcase file list and select *Check In File*."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:186
+msgid ""
+"In the *Check In File to Briefcase* dialog that opens, browse to the edited "
+"file on your computer. If you want to add information about changes, enter "
+"this is the *Notes* text area."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:190
+msgid ""
+"Click *Check In*. The file is uploaded. The lock is removed and the file "
+"details, including a new version number and notes, are updated in the file "
+"list."
+msgstr ""
+
+#. type: Title ==
+#: workinginbriefcase.adoc:191
+#, no-wrap
+msgid "Sending Files from Your Briefcase"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:197
+msgid ""
+"While working in Briefcase folders, you can send a link to files in your "
+"Briefcase and you can send the actual file as an attachment to email "
+"messages. The recipients must have the appropriate software to open the "
+"files."
+msgstr ""
+
+#. type: Title ===
+#: workinginbriefcase.adoc:198
+#, no-wrap
+msgid "Send an Email with a Link to a File"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:204
+msgid ""
+"You can send an email that has a link to a file in briefcase. The recipient "
+"must have appropriate share permission to work with the file and the "
+"appropriate software to open the file. Any modifications they make to a "
+"linked file are reflected in the file in your Briefcase folder."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:206
+msgid "Go to the *Briefcase* tab and select the file to share."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:210
+msgid ""
+"Click *Actions* and select *Send link(s)*. A confirmation dialog opens "
+"reminding you that the recipient must have permission to view the content of "
+"the folder. Click *Yes* to proceed."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:214
+msgid ""
+"A new compose email message opens with the link displayed in the body of the "
+"message. Complete the email message and click *Send* to mail the message."
+msgstr ""
+
+#. type: Title ===
+#: workinginbriefcase.adoc:215
+#, no-wrap
+msgid "Send a File as an Email Attachment"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:220
+msgid ""
+"You can send a file as an attachment to an email directly from Briefcase. "
+"The recipients must have the appropriate software to open the file."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:222
+msgid "Go to the *Briefcase* tab and select the file to attach."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:225
+msgid ""
+"Click *Actions* and select *Send as attachment(s)*. The email compose page "
+"opens with the file attached."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:227
+msgid "Add the recipient’s email address and complete the email message."
+msgstr ""
+
+#. type: Title ==
+#: workinginbriefcase.adoc:230
+#, no-wrap
+msgid "Rename a File"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:233
+msgid "Renaming a file creates another version of the file."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:235
+msgid "Go to the *Briefcase* tab and select the document you want to rename."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:238
+msgid ""
+"Right-click on the file and select *Rename*. The Name field is changed to an "
+"editable field."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:241
+msgid ""
+"Edit this field to change the file name. Remember to keep the same extension "
+"in the file name or it may not be editable later."
+msgstr ""
+
+#. type: Title ==
+#: workinginbriefcase.adoc:244
+#, no-wrap
+msgid "Move Files in Briefcase"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:247
+msgid "You can move files from one briefcase to another."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:249
+msgid "Go to the *Briefcase* tab."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:251
+msgid "Right-click the file you want to move."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:254
+msgid ""
+"Click *Move* and select the destination folder or create a new briefcase "
+"folder."
+msgstr ""
+
+#. type: Title ==
+#: workinginbriefcase.adoc:257
+#, no-wrap
+msgid "Delete a Document from Briefcase"
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:260
+msgid "Go to the *Briefcase* tab and select the document you want to delete."
+msgstr ""
+
+#. type: Plain text
+#: workinginbriefcase.adoc:262
+msgid ""
+"Click *Delete*. Each version of a file counts against your account quota."
+msgstr ""

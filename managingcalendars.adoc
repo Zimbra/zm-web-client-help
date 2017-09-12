@@ -1,0 +1,401 @@
+= Managing Your Calendars
+
+== Working with Calendars
+
+You can use Calendar to track and schedule appointments, meetings, and
+events. You can maintain several calendars and move events from one
+calendar to another. You can also share your calendars with others.
+
+To open Calendar, click the Calendar tab. The Work Week is the default
+view. Your working days and times are in white. Your nonworking time is in
+gray.
+
+You can change your calendar preferences from the Preferences>Calendar
+page.
+
+=== Set Your Default Calendar View
+
+The Work Week view is displayed by default. You can change the view that
+displays when you open your calendar,
+
+  . Go to the *Preferences>Calendar* page.
+
+  . Select the view from the *Default View* drop-down menu.
++
+[cols="1,2a",options="header",]
+|=======================================================================
+|Option |Description
+
+|Day View |
+
+Displays activities for the day.
+
+|Work Week View |
+
+Displays Monday through Friday activities.
+
+|7 Day Week View |
+
+Displays seven days of activities. You can select which day is the first
+day of your week in Start Week on drop-down menu.
+
+|Month View |
+
+Displays activities for a month. When you view a monthly calendar, you can
+double-click on a date and a fish-eye view of the day’s appointments
+displayed by the hour is displayed.
+
+|List View |
+
+Displays a list of appointments within a specified date range for calendars
+selected in the Overview pane.
+
+|=======================================================================
+
+  . Click *Save*.
+
+== Create a Calendar
+
+One calendar is created for you. You can create additional calendars to
+keep track of different type of functions. For example, you can create one
+calendar for work, one for personal appointments, and one for company
+activities.
+
+If you manage multiple calendars, you can group the calendars in a
+hierarchical display. For example, you could group all shared Calendars
+under a Calendar folder you call Shared. You can also move the calendar
+
+  * In the Calendar Overview pane, select a calendar and drag it to the
+    calendar to be nested under.
+
+  * Alternately, right-click the calendar to move and select *Move*. In the
+    *Choose Folder* dialog box select the calendar to move under.
+
+=== Add a Calendar
+
+  . Click the *Calendar* tab.
+
+  . On the toolbar, click the *Calendars* gear icon and select *New
+    Calendar*. The Create New Calendar dialog displays.
+
+  . In the *Name* text box, type the name of the calendar.
+
+  . Select a <<_add_color_to_a_calendar,color for displaying>> the
+    Calendar’s activities.
+
+  . To prevent others from seeing your calendar when scheduling
+    appointments, select *Exclude this calendar when reporting free/busy
+    times*.
+
+  . To synchronize this calendar with a remote calendar, select
+    *Synchronize appointments from remote calendar*. Enter the URL for the
+    remote iCal file.
+
+  . Click *OK*. The new calendar displays in the Calendar list.
+
+== Color Coding Your Calendars
+
+You can color-code calendars so that activities for that calendar always
+display in the selected color, which is helpful when you are looking at
+activities from multiple calendars in one view. You can use a color more
+than once.
+
+  . Right-click on the calendar and select *Edit Properties*.
+
+  . Select a color from the drop-down menu.
+
+  . Click *OK*.
+
+== Setting Your Calendar Preferences
+
+You can set the following options from the *Preferences>Calendar*
+folder. Remember to click *Save* to save any changes you make to your
+preferences.
+
+  * *Default View*. Select how you would like to view your {product-abbrev}
+    calendar. The default is by work week. The view options include: Day,
+    Work Week, 7 Day Week, Month, List, and Schedule.
+
+  * *Start Week On*. Specify which day of the week should be the first day
+    of the week in your calendar.
+
+  * *Default appointment visibility*. This can be set to either Public or
+    Private. The default is Public, all incoming calendar invites are
+    marked as Public unless the creator marked the meeting notification as
+    private.  When this is set to Private, all incoming calendar invites
+    are marked as Private. Details about events that are marked private do
+    not display.
+
+  * *Always show the mini-calendar*. Specify whether the mini-calendar is
+    displayed at the bottom of the Overview pane.
+
+  * *Show Calendars with week numbers*. When this is enabled, the week
+    numbers are displayed on the mini-calendar. The work week must start
+    on Monday for the week numbers to be correct.
+
+  * *Automatically add received appointments to calendar*. When this is
+    checked, email invitations sent to your Inbox are automatically added
+    to your calendar. You can accept or decline the invite from either the
+    Inbox or Calendar. When this is not checked, the appointment is added
+    to your calendar when you click Accept or Tentative.
+
+  * *Show declined meetings*. Show declined meetings in your calendar.
+
+  * *Enable delegation for Apple iCal CalDAV client*. Apple iCal can be
+    configured to access your calendars using the CalDAV protocol. When
+    this is enabled, shared calendars are displayed in the iCal Accounts
+    Delegation tab on an Apple Mac computer. When this is disabled, all
+    shared calendars display in the {product-abbrev} Calendars list. This
+    feature is available to be used with iCal 4.0 or later.
+
+[NOTE]
+====
+
+The following is not available when accessing {product-abbrev} shared
+calendars from the iCal Accounts Delegation tab.
+
+  * Using the + or - links to add or delete shared calendars from the
+    Delegation tab.
+
+  * Viewing the specific type of role assigned to the shared Calendar. The
+    Delegation tab only shows whether the role is read-only or
+    read/write. You cannot tell if you have Manage or Admin rights.
+
+  * Sharing your calendars with others from this tab.
+
+====
+
+  * *Invitation Response*. When this is checked, invitations are
+    automatically deleted and moved to your Trash folder after you respond
+    to the invite.
+
+  * *Forward Invites*. You can forward invite emails you receive to one or
+    more users that you have shared your calendar with.
+
+  * *Show reminders*. Set the number of minutes before an appointment to be
+    reminded. The default is five minutes. In addition, you can set the
+    type of alert to receive.
+
+  * *Default appointment duration*. Select the default duration for
+    appointments you schedule.
+
+  * *Work week and hours*. Select the days and times of the week you
+    work. Select *Custom* to customize work hours by day. This information
+    displays in your free/busy view.
+
+  * *Use the QuickAdd dialog when creating new appointments*. Specify
+    whether to create new appointments using the
+    <<_creating_an_appointment_quickly,QuickAdd>> dialog. This is often
+    helpful if you create many appointments without attendees.
+
+  * *Show time zone list in appointment view*. Select if you often schedule
+    meetings with other in different time zones.
+
+  * *Permissions*. You can specify the type of users who can see
+    <<_display_your_free_busy_information,your Free/Busy information>> and
+    who can invite you to meetings. The default is to allow all users to
+    see your free/busy and to invite you to meetings.
+
+== Other Calendar Preferences to Configure
+
+You can set different preferences to manage how you work within Calendar.
+
+=== Setting Up Your Calendar as a Private Calendar
+
+The default that all incoming calendar invites are marked as public, unless
+the appointment creator marks the meeting notification as private. When
+Private is set, all incoming calendar invites are marked as
+private. Details about events that are marked private do not display.
+
+  . Go to the *Preferences>Calendar* page.
+
+  . In the *Default appointment visibility* drop down menu select Private.
+
+  . Click *Save*.
+
+A small lock icon appears next to the message on your calendar to show that
+it is a private appointment. Calendars that you share with others show the
+appointment on your calendar but do not show any details.
+
+== View Multiple Calendars
+
+Meetings display in the selected Calendar view in the calendar color
+selected. If meetings are scheduled that are not in the current time view,
+an arrow displays on the calendar’s page indicating that there are meetings
+scheduled that are not in the current view.
+
+  . In the Calendar list in the Overview pane, check the boxes for the
+    calendars you want to view.
+
+  . Select the view.
+
+Day view shows the calendars side-by-side. The calendar name is at the
+bottom of the page.  The Work Week, Week, and Month views show appointments
+on the calendar by the color associated with the calendar.
+
+== Displaying All Day Appointments in Your Work Week View
+
+All day events are displayed in the first row of the calendar with no time
+specified. You can hide all day events in your calendar.
+
+  * In Work Week View, click on the thick line in the first row. The first
+    row is hidden.
+
+Viewing all day appointments can be toggled back on off.
+
+  * Click on the thick line below the header row to display the
+    appointments.
+
+== Viewing Calendar Activities in a List
+
+The List view lets you view details that are not available in the other
+Calendar views. You can change how the information is presented.
+
+When using the List view you can
+
+  * Show appointments in a specific date range. Set the *from-through*
+    dates in the Show appointments text boxes.
+
+  * Click the *Calendar* column header to arrange the appointment by
+    individual calendars.
+
+  * Click the Status column header to see appointment by your status
+
+  * Click the Subject column header to see an alphabetic view of the
+    Subjects.
+
+  * Select multiple appointment check boxes to act upon more than one
+    message at a time. Right-click and select the action to perform.
+
+== Adding an iCalendar From an Email Message
+
+When you receive an email message containing a link to an .ics file, you
+can add the calendar to your Calendar list in the Overview pane.
+
+  . In the message, right-click the .ics calendar link.
+
+  . Select *Create New Calendar*.
+
+  . Enter the calendar name and select the color for the calendar.
+
+  . If you do not want this calendar included in reporting your free/busy
+    times, select *Exclude this calendar when reporting free/busy times*.
+
+  . Click *OK*.
+
+== Adding External Calendars
+
+You can add your external Google or Yahoo CalDAV calendars and your iCal
+calendars subscriptions to your Calendars list. Changes to your external
+calendar are synced to the CalDAV calendar you added.
+
+[NOTE]
+Only CalDAV calendars that have SSL enabled and use port 443 can are able
+to sync calendar events to your account.
+
+  . In the *Calendar Overview* pane, click the gear icon and select *Add
+    External Calendar*.
+
+  . Select the calendar type to add and click *Next*.
+
+  . Select the type of calendar to add, either *CalDAV account* or an *iCal
+    Subscription*.
+
+  . Enter your email address and password for this account.
+
+  . Click *Next*.
+
+  . In the *Name* text box, type the name for this calendar and select a
+    color.
+
+  . If you want to exclude this calendar from reporting your free/busy
+    time, select *Exclude this calendar when reporting free/busy times*.
+
+  . Click *OK*.
+
+The calendar is added and meetings on the external calendar are synced to
+the calendar you added.
+
+== Organize your Calendars into Groups
+
+If you manage multiple calendars, you can group the calendars in a
+hierarchical display. For example, you could group all shared Calendars
+under a Calendar folder you call Shared. You can also move the calendar
+
+  * In the Calendar Overview pane, select a calendar and drag it to the
+    calendar to be nested under.
+
+  * Alternately, right-click the calendar to move and select *Move*. In the
+    *Choose Folder* dialog box select the calendar to move under.
+
+== Print a Calendar
+
+You can print your calendars in any of the calendar views. You can select a
+single calendars or multiple calendars to be included in the printed view.
+
+  . Click the print icon on the Calendar toolbar.
+
+  . In the *Print calendar* dialog box select how the printed copy should be printed.
+
+    * Select which calendars to print. You can deselect as well.
+
+    * Set the date or date range.
+
+    * Select which view to print.
+
+    * Set the options based on the view to print.
+
+  . Click *Print*. A preview of the view that will be printed is displayed.
+
+  . If the view is correct, click *Print*.
+
+== Delete a Calendar
+
+You can delete any calendar in your Calendars list, except your default
+calendar. When you delete a calendar, the meetings created from this
+calendar are not deleted from the calendars of the invited attendees.
+
+Before you delete a calendar, you should cancel any invitations that you
+have sent out.
+
+  . In the *Calendars Overview* pane, right-click on the calendar to be
+    deleted.
+
+  . Click *Delete*. The calendar is moved to the Trash folder.
+
+== Import Your iCal Calendar
+
+You can import iCalendars that are saved in the .ics format. iCalendars are
+the standard for calendar data exchange over the Internet, and .ics is the
+standard format for iCalendar information.
+
+  . Go to the *Preferences>Import/Export* page.
+
+  . Browse to the .ics file on your computer.
+
+  . Select the folder for the file or create a new folder.
+
+  . Click *Import*.
+
+Depending on the size of the .ics file, the import might take a few
+minutes.
+
+== Export Your iCal Calendar
+
+You can export calendars in the .ics format.
+
+  . Go to the *Preferences>Import/Export* page.
+
+  . In *Export*, select *Calendar* as the type. You export your
+    appointments in the standard .ics format.
++
+To import them to another calendar program, see the documentation in the
+other program for help importing the file.
+
+  . In *Source*, select the calendar to export.
+
+  . Click *Export* . Select *Save to Disk* and click *OK*.
+
+  . Select where to save the file and enter a file name.
+
+  . Click *Save*.

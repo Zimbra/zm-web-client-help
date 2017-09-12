@@ -1,0 +1,403 @@
+= Managing Your Contacts
+
+== Using Contacts
+
+Contacts is where you can store contact and address book details. Two types
+of address lists are supported in the Web Client:
+
+  * Your personal address books, which consists of contacts you maintain. By
+    default a *Contacts*, *Distributions Lists*, *Emailed Contacts* and
+    *Personal* address books are created in Contact Lists. You can create
+    additional address books and share them with others.
+
+  * A *Global Address List (GAL)*, sometimes called Company Contacts, is
+    available to users within your organization. The GAL may contain convenience
+    features such as distribution lists to facilitate communicating with an
+    entire department.
+
+[NOTE]
+You cannot edit GAL entries. You can, however, import an address once it
+appears in email you send or receive. You can add additional contact
+information when the name is in a list in your Address Book.
+
+You can add contacts to any of your address books. Only a name is required
+to create a contact, or you can create detailed contact forms that include
+full name, multiple email addresses, work, home, and other addresses, phone
+numbers, and an image. You can also create group contact lists.
+
+The *Emailed Contacts* address book is populated automatically when you send
+an email to a new address that is not in one of your other address books.
+
+Your email administrator can set a maximum limit for the number of entries
+you can have in all your address books. When you reach this maximum, you
+cannot add any more contacts. You can delete contacts to free up space.
+
+When you compose an email message, the auto-complete feature displays a list
+of names from your address books that match the text you are typing.
+
+== Add a New Contact
+
+  . Go to the *Contacts* page and select *New Contact*.
+
+  . Enter the contact information and optionally upload a photo.
+
+  . A plus sign next to a text box indicates that you can add more than one
+    entry. For instance, in the Phone text box, you can add mobile, home, work,
+    and other phone numbers.
+
+  . To add a custom text box, select *Other* from the drop-down menu for the
+    text box and enter the information.
+
+  . Select how and where you want to save the contact in the upper right of the
+    screen.
+
+    * For *File as*, select how to file the name. The default is by last name,
+      first name.
+
+    * For *Location*, select which address book to save the contact.
+
+  . Click *Save*.
+
+=== Upload an Image
+
+To upload an image to a new contact, click the *plus sign* next to the image
+icon.
+
+  . Choose an image file to upload.
+
+  . Click *OK*.
+
+== Automatically Add Contacts to Emailed Contacts List
+
+You can automatically save the addresses that you send email to in your
+Emailed Contacts list. Any time you respond to, or compose a message that
+includes an address that is not in your address books, it is added to your
+Emailed Contacts list. If you are using the autocomplete feature,
+maintaining an Emailed Contacts list helps you quickly find addresses that
+you have emailed to in the past.
+
+  . Go to the *Preferences>Contacts* page.
+
+  . Under *Options>Settings*, select *Add new contacts to “Emailed Contacts”*.
+
+== Editing Contact Information
+
+  . Go to the Contacts page and select the address book that you want to edit.
+
+  . Right-click the contact you want to edit and click Edit Contact.
+
+  . Make changes to the contact.
+
+  . Click *Save*.
+
+== Check if an Email Address is in Your Address Book
+
+Hover your mouse over an email address. The information associated with the
+name displays.
+
+  * If the name is already in one of your address books, the contact information
+    displays.
+
+  * If the name is not in one of your address books, only the email address
+    displays.
+
+== Creating a Contact Group
+
+You can combine multiple email addresses into a *Contact Group* when you
+want to send the same message to everyone. The Contact Group is assigned a
+name, called an email alias. When you email a group contact name, everyone
+whose address is included in the contact group list is added to the address
+field.
+
+  . Go to the *Contacts* page and select *Actions>Contact Group>New Contact
+    Group*.
+
+  . Enter a name for the group.
+
+  . Click *OK*.
+
+To add members and email addresses to your contact group, right-click the
+contact group and select *Edit Group*.
+
+== Adding Members to a Contact Group List
+
+  . Go to the *Contacts* page and select the contact group to add members.
+
+  . Right-click the contact group and select *Edit Group*.
+
+  . To find a new group member, type a name into the *Find* text box.
+
+  . In the in drop-down menu, select the address book you want to search.
+
+  . Names that match your entry are listed in the box below.
+
+  . Select the names to enter and click *Add* or *Add All*. The names are added
+    to the *Members* list.
+
+  . If the address you are looking for is not in the list, you can type the
+    email address in the *Or enter addresses below* text box. Separate addresses
+    with either a comma (,) or semicolon (;), or pressing *Return*.
+
+  . Click *Save*.
+
+== Add a New Contact from an Existing Email Message
+
+You can add email addresses to an address book directly from the *Sent By*,
+*To*, *Cc*, and *Bcc* fields.
+
+  . In an email message, right-click the name to add and select *Add To
+    Contacts*.
++
+A new contact form opens pre-populated with the information available from
+the email header.
+
+  . Add additional information and check the pre-populated fields for accuracy.
+
+  . Select how and where you want to save the contact.
+
+    * For *File as*, select how to file the name. The default is by last name,
+      first name.
+
+    * For *Location*, select which address book to save the contact.
+
+  . Click *Save*.
+
+== Moving a Contact to Another Address Book
+
+You can move contacts from one address book to another.
+
+  . Go to the *Contacts* page and select the address book from which you want to
+    move a contact.
+
+  . Right-click a contact and select *Move*.
+
+  . Select the new destination address book.
+
+  . Click *OK*.
+
+== Forwarding Contact Information
+
+You can forward contacts in your address book as electronic business cards,
+called vCards.
+
+  . Go to the *Contacts* page and select the address book that contains the
+    contact you want to forward.
+
+  . Right-click the contact and select *Forward Contact*.
+
+  . A compose pane opens with the .vcf file attached.
+
+  . Complete the message and click *Send*.
+
+  . Upon receipt, the recipient can download the .vcf directly to their contact
+    list.
+
+== Maintaining a Trusted Addresses List
+
+You can specify email addresses from specific domains as trusted addresses
+so that embedded images in messages you receive from these addresses
+automatically display when you open the message.
+
+You can add up to 500 addresses to this list.
+
+  . Go to the *Preferences>Trusted Addresses* page.
+
+  . Enter the email address or domain name in the text box.
+
+  . To include all addresses from a specific domain, type * before the
+    @domain.com name.
+
+  . Click *Add*.
+
+  . Click *Save*.
+
+== Importing an Address Book
+
+You can import contact lists and address books that are saved in a
+comma-separated (.csv) file. After the contacts are imported, they are
+alphabetized by last name in your address book.
+
+  . Go to *Preference>Import/Export* page.
+
+  . In the *Import>File* text box, browse and locate the .csv file to import.
+
+  . Select the *Type* of contact list you are importing. You can select to
+    auto-detect the contact list, or select from the contact lists in the
+    drop-down menu.
+
+  . Select the *Destination* address book to import the contacts or create a new
+    address book.
+
+  . If creating a new address book, click *New* and enter a name, color and
+    location for the new folder.
+
+  . Click *OK*.
+
+  . Click *Import*.
+
+Depending on the size of the .csv file, the import might take a few
+minutes. When the import is complete, the *Status Box* shows the number of
+contacts successfully imported.
+
+== Exporting an Address Book
+
+You can export your address books to a comma-separated (.csv) file.
+
+  . Go to *Preference>Import/Export* page.
+
+  . In the *Export>Type* section, select what you want to export.
++
+[cols="1,2a", options="header"]
+|=======================================================================
+|Option |Description
+
+|Accounts |
+
+All account data can be exported to a "Tar-GZipped" (.tgz) format, which
+can be imported back into the system.
+
+You have the option to select Advanced settings.
+
+|Calendar |
+
+You can export your appointments in the standard iCalendar (.ics) format,
+then import them into another calendar program.
+
+|Contacts |
+
+You can export your contacts in the standard "Comma-Separated Values"
+(.csv) format, then import them into another contact manager program.
+
+|=======================================================================
+
+  . Select the *Source* folder of the contacts to export.
+
+  . Click *OK*.
+
+  . Click *Export*.
+
+== Printing a Contact Name or Address Book
+
+You can print a complete address book or just print the information for one
+contact.
+
+  . Go to the *Contracts* page and select an address book or contact to print.
+
+  . Click the *Print* icon and select *Print selected contact(s)* or *Print
+    Contacts*.
+
+== Deleting Contacts
+
+Any contact lists you create can be deleted. When contact names are deleted,
+they no longer appear in your address book and information is not available
+from the name tool tips for the address auto-completion or from the address
+search dialog in the email compose window.
+
+Contacts can be deleted in one of three ways:
+
+  * From an address book, select the contact to be removed, and click *Delete*
+    on the toolbar.
+
+  * Drag the contact name to the *Trash* folder.
+
+  * Right-click on the contact and select *Delete*.
+
+== Managing Distribution Lists
+
+If you send messages to the same group of addresses, you can create
+distribution lists from your Contacts tab. A distribution list is a group of
+mail addresses contained in a list with a common mail address. When an email
+message is sent to a distribution list, the email is sent to everyone whose
+address is included in the distribution list.  The recipient sees the
+distribution list name in the To: line of the message and if they are using
+the bubble view, they can click the + to see the members of the distribution
+list.
+
+Distribution lists are stored in the Distribution Lists address book.  When
+you click on a distribution list in the address book, all members of the
+list display in the Content field.
+
+A distribution list can be created as a list of members and you can manage
+the membership to the list.  Additional options that you can configure let
+you
+
+  * Mark the list private so it is hidden in the Global Address List
+
+  * Limit who can send to the list
+
+  * Let users subscribe to and unsubscribe from the list
+
+  * Set up multiple owners to help manage the list
+
+=== Create a Quick Distribution List
+
+  . Go to the *Contacts>New Contact* drop-down menu and select *Distribution*
+    List.
+
+  . Enter a *Distribution List* name in the page heading. This is the email
+    address of the distribution list.
+
+  . Click the *Distribution List Properties* tab.
+
+  . Enter a *Display Name* for the distribution list. This can be different from
+    the email address.
+
+  . Enter the *Description* for the distribution list. (optional)
+
+  . Click the *Distribution List Members* tab and select addresses to be added
+    to the list.  You can search for addresses in your contact lists or from the
+    GAL and you can add addresses that are not included in these lists.
+
+  . Click *Save*.  The distribution list is added to your distribution list
+    address book.
+
+== Create a Distribution List with Managed Access
+
+  . Go to the *Contacts>New Contact* drop-down menu and select *Distribution
+    List*.
+
+  . Enter a *Distribution List* name. This is the email address of the
+    distribution list. The name must be available. If it is not available, you
+    will received an error notice and will have to enter another name.
+
+  . Click the *Distribution List Properties* tab
+
+  . Enter a *Display Name* for the distribution list. If you want a name other
+    than the email address of the distribution list, enter a display name.
+
+  . Enter the *Description* for the distribution list.
+
+  . Select if the distribution list if *Private*, and the list is hidden in the
+    Global Address List (GAL).
+
+  . Select the *Mail* options. Mail options set rules about who can view your
+    distribution list.
+
+    * Anyone can send to this list
+
+    * Only members can send to this list
+
+    * Only internal users can send to this list
+
+    * Only these users can send to this list. Enter the names and email address of
+      the users that can send to the list in the text box.
+
+  . Select the type of *New Subscriptions Requests* you want to allow to this
+    distribution list.
+
+  . Set the rules for *Unsubscribing Requests* for this distribution list.
+
+  . If you want someone else to manage the list, in the *List Owner’s* name(s)
+    and email address(es) in the text box, add the addresses.  If you do not
+    want to manage the list, remove your name before adding other addresses.
+
+  . In the *Distribution List Members* tab, select new group members to add to
+    your list. You can search for addresses in your contact lists or from the
+    GAL and you can add addresses that are not included in these lists.  Type
+    the email address in the *Or enter addresses below* text box. Separate
+    addresses with either a comma (,) or semicolon (;). Email addresses you type
+    are not verified.
+
+  . Click *Save*. The accounts are added to the distribution list and the
+    account’s distribution list address book is updated to show the distribution
+    list name.

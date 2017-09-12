@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config xmlns="http://zanata.org/namespace/config/">
+  <url>https://translate.zanata.org/</url>
+  <project>zimbra-web-help</project>
+  <project-version>8.8</project-version>
+  <project-type>podir</project-type>
+  <src-dir>l10n/pot</src-dir>
+  <trans-dir>l10n/po</trans-dir>
+</config>

@@ -1,0 +1,1239 @@
+# John Eastman <john.eastman@synacor.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-09-11 23:08+0000\n"
+"PO-Revision-Date: 2017-09-11 07:11-0400\n"
+"Last-Translator: John Eastman <john.eastman@synacor.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Zanata 3.9.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#. type: Title =
+#: composingemail.adoc:1
+#, no-wrap
+msgid "Composing Email Messages"
+msgstr "Composing Email Messages"
+
+#. type: Title ==
+#: composingemail.adoc:3
+#, no-wrap
+msgid "Composing and Sending Email"
+msgstr "Composing and Sending Email"
+
+#. type: Plain text
+#: composingemail.adoc:6
+msgid ""
+"You can compose and send your email messages as soon as you write them; "
+"compose a draft and return to it later to finish and send, or compose the "
+"message and specify a time in the future to send the message."
+msgstr ""
+"You can compose and send your email messages as soon as you write them; "
+"compose a draft and return to it later to finish and send, or compose the "
+"message and specify a time in the future to send the message."
+
+#. type: Plain text
+#: composingemail.adoc:8
+msgid ""
+"You can customize your options for composing messages in your "
+"*Preferences>Mail* page."
+msgstr ""
+"You can customize your options for composing messages in your "
+"*Preferences>Mail* page."
+
+#. type: Title ===
+#: composingemail.adoc:9
+#, no-wrap
+msgid "Composing a new email message"
+msgstr "Composing a new email message"
+
+#. type: Plain text
+#: composingemail.adoc:14
+msgid ""
+"Depending on your mail preferences, when you click *New Message* either a "
+"Compose tab appears in the Application toolbar or the compose page opens in "
+"a separate window."
+msgstr ""
+"Depending on your mail preferences, when you click *New Message* either a "
+"Compose tab appears in the Application toolbar or the compose page opens in "
+"a separate window."
+
+#. type: Plain text
+#: composingemail.adoc:16
+msgid "In the Mail tab click *New Message*."
+msgstr "In the Mail tab click *New Message*."
+
+#. type: Plain text
+#: composingemail.adoc:20
+msgid ""
+"In the *To* text box, enter the email addresses of the person or persons to "
+"whom you are sending the message. Either type the address or click *To* to "
+"search through your contacts or the global address list."
+msgstr ""
+"In the *To* text box, enter the email addresses of the person or persons to "
+"whom you are sending the message. Either type the address or click *To* to "
+"search through your contacts or the global address list."
+
+#. type: Plain text
+#: composingemail.adoc:25
+msgid ""
+"You can drag and drop the address bubble in the text box to the Cc or Bcc "
+"text boxes, and you can copy the address bubble by clicking CTRL+c.  The Bcc "
+"field is available from the Options dropdown menu."
+msgstr ""
+"You can drag and drop the address bubble in the text box to the Cc or Bcc "
+"text boxes, and you can copy the address bubble by clicking CTRL+c.  The Bcc "
+"field is available from the Options dropdown menu."
+
+#. type: Plain text
+#: composingemail.adoc:29
+msgid ""
+"If you have more than one email identity (also known as a persona)  "
+"configured, *From* is displayed above the *To*: field. Select the identity "
+"to use for this email."
+msgstr ""
+"If you have more than one email identity (also known as a persona)  "
+"configured, *From* is displayed above the *To*: field. Select the identity "
+"to use for this email."
+
+#. type: Plain text
+#: composingemail.adoc:32
+msgid ""
+"(Optional) In *Options*, click *Signature* and select the signature that "
+"should be added to the message."
+msgstr ""
+"(Optional) In *Options*, click *Signature* and select the signature that "
+"should be added to the message."
+
+#. type: Plain text
+#: composingemail.adoc:36
+msgid ""
+"(Optional) To send a copy of the email to other recipients (Cc) or to send a "
+"blind copy (Bcc) without the recipient's knowledge, enter email addresses in "
+"the Cc and Bcc fields."
+msgstr ""
+"(Optional) To send a copy of the email to other recipients (Cc) or to send a "
+"blind copy (Bcc) without the recipient's knowledge, enter email addresses in "
+"the Cc and Bcc fields."
+
+#. type: Plain text
+#: composingemail.adoc:40
+msgid ""
+"You can send a message without an address in the To field if there is an "
+"address in either the Cc or Bcc field."
+msgstr ""
+"You can send a message without an address in the To field if there is an "
+"address in either the Cc or Bcc field."
+
+#. type: Plain text
+#: composingemail.adoc:42
+msgid "In the *Subject* field, tell the recipient what the message is about."
+msgstr "In the *Subject* field, tell the recipient what the message is about."
+
+#. type: Plain text
+#: composingemail.adoc:44
+msgid "Click *Send* to send the email message."
+msgstr "Click *Send* to send the email message."
+
+#. type: Plain text
+#: composingemail.adoc:46
+msgid "A copy of the message you sent is saved in your Sent folder."
+msgstr "A copy of the message you sent is saved in your Sent folder."
+
+#. type: Plain text
+#: composingemail.adoc:52
+msgid ""
+"If you don't want to send the message immediately, instead of clicking Send, "
+"click the arrow next to Send and select Send Later. In the Specify Message "
+"Send Time dialog enter the date and time to send the message. The message is "
+"saved in the Draft folder and is automatically sent on that date and time."
+msgstr ""
+"If you don't want to send the message immediately, instead of clicking Send, "
+"click the arrow next to Send and select Send Later. In the Specify Message "
+"Send Time dialog enter the date and time to send the message. The message is "
+"saved in the Draft folder and is automatically sent on that date and time."
+
+#. type: Plain text
+#: composingemail.adoc:54
+msgid "See also:"
+msgstr "See also:"
+
+#. type: Plain text
+#: composingemail.adoc:56
+msgid "<<_customizing_your_options_for_composing_messages>>"
+msgstr "<<_customizing_your_options_for_composing_messages>>"
+
+#. type: Plain text
+#: composingemail.adoc:58
+msgid "<<_using_html_to_compose_messages>>"
+msgstr "<<_using_html_to_compose_messages>>"
+
+#. type: Title ==
+#: composingemail.adoc:59
+#, no-wrap
+msgid "Customizing Your Options for Composing Messages"
+msgstr "Customizing Your Options for Composing Messages"
+
+#. type: Plain text
+#: composingemail.adoc:64
+msgid ""
+"From your preferences you can select to create simple plain text messages or "
+"create messages with HTML styling, and you can set up signatures and "
+"personas that can be applied to messages you send."
+msgstr ""
+"From your preferences you can select to create simple plain text messages or "
+"create messages with HTML styling, and you can set up signatures and "
+"personas that can be applied to messages you send."
+
+#. type: Plain text
+#: composingemail.adoc:69
+msgid ""
+"In addition to the options for composing messages, other options you can set "
+"up include return receipt requests, whether to compose messages in a new "
+"window and to require that your messages are spell checked before they are "
+"sent."
+msgstr ""
+"In addition to the options for composing messages, other options you can set "
+"up include return receipt requests, whether to compose messages in a new "
+"window and to require that your messages are spell checked before they are "
+"sent."
+
+#. type: Plain text
+#: composingemail.adoc:71 replyandforwardmessages.adoc:10
+#: replyandforwardmessages.adoc:71
+msgid "Go to the *Preferences>Mail* page, *Composing Messages* section."
+msgstr "Go to the *Preferences>Mail* page, *Composing Messages* section."
+
+#. type: Plain text
+#: composingemail.adoc:73
+msgid "Select how you want your messages to be sent, *As HTML* or *As Text*."
+msgstr "Select how you want your messages to be sent, *As HTML* or *As Text*."
+
+#. type: Plain text
+#: composingemail.adoc:76
+msgid ""
+"If you select *As HTML*, in the drop down menus, select the *Font* style, "
+"*Size*, and *Color*."
+msgstr ""
+"If you select *As HTML*, in the drop down menus, select the *Font* style, "
+"*Size*, and *Color*."
+
+#. type: Plain text
+#: composingemail.adoc:79
+msgid ""
+"In *Settings*, select the options for how you want to manage composing "
+"messages."
+msgstr ""
+"In *Settings*, select the options for how you want to manage composing "
+"messages."
+
+#. type: delimited block |
+#: composingemail.adoc:83 managingcalendars.adoc:28 managingcontacts.adoc:258
+#: managingemail.adoc:76 organizingaccount.adoc:14 readingmessages.adoc:107
+#: retrievingmail.adoc:108 schedulingappointments.adoc:657
+#: searchingforitems.adoc:181 sharingfolders.adoc:216 usingtasks.adoc:74
+#: usingtasks.adoc:100 usingtasks.adoc:161 usingtasks.adoc:222
+#: workinginbriefcase.adoc:79
+#, no-wrap
+msgid "|Option |Description\n"
+msgstr "|Option |Description\n"
+
+#. type: delimited block |
+#: composingemail.adoc:85
+#, no-wrap
+msgid "|Automatically save drafts of messages while you are composing |\n"
+msgstr "|Automatically save drafts of messages while you are composing |\n"
+
+#. type: delimited block |
+#: composingemail.adoc:88
+#, no-wrap
+msgid ""
+"While you compose your message, a copy is periodically saved in your Draft\n"
+"folder.\n"
+msgstr ""
+"While you compose your message, a copy is periodically saved in your Draft\n"
+"folder.\n"
+
+#. type: delimited block |
+#: composingemail.adoc:90
+#, no-wrap
+msgid "|Always request read receipt |\n"
+msgstr "|Always request read receipt |\n"
+
+#. type: delimited block |
+#: composingemail.adoc:93
+#, no-wrap
+msgid ""
+"All messages you send request a return receipt message sent back to you\n"
+"when the recipient opens your message.\n"
+msgstr ""
+"All messages you send request a return receipt message sent back to you\n"
+"when the recipient opens your message.\n"
+
+#. type: delimited block |
+#: composingemail.adoc:96
+#, no-wrap
+msgid ""
+"When you set this as your default, you can change this for individual email\n"
+"messages from the *Options* drop-down menu on the compose toolbar.\n"
+msgstr ""
+"When you set this as your default, you can change this for individual email\n"
+"messages from the *Options* drop-down menu on the compose toolbar.\n"
+
+#. type: delimited block |
+#: composingemail.adoc:98
+#, no-wrap
+msgid "|Reply/Forward using for­mat of the original message |\n"
+msgstr "|Reply/Forward using for­mat of the original message |\n"
+
+#. type: delimited block |
+#: composingemail.adoc:103
+#, no-wrap
+msgid ""
+"Even if your default text editor is different from the message received,\n"
+"check this box to reply to the message in the same format as received.\n"
+"This is useful to make sure the recipient can get the message in the best\n"
+"format they can read.\n"
+msgstr ""
+"Even if your default text editor is different from the message received,\n"
+"check this box to reply to the message in the same format as received.\n"
+"This is useful to make sure the recipient can get the message in the best\n"
+"format they can read.\n"
+
+#. type: delimited block |
+#: composingemail.adoc:105
+#, no-wrap
+msgid "|Always compose in new window |\n"
+msgstr "|Always compose in new window |\n"
+
+#. type: delimited block |
+#: composingemail.adoc:108
+#, no-wrap
+msgid ""
+"A separate compose window opens. You can view and navigate within your\n"
+"mailbox while the compose window is open.\n"
+msgstr ""
+"A separate compose window opens. You can view and navigate within your\n"
+"mailbox while the compose window is open.\n"
+
+#. type: delimited block |
+#: composingemail.adoc:110
+#, no-wrap
+msgid "|Mandatory spellcheck before sending a message |\n"
+msgstr "|Mandatory spellcheck before sending a message |\n"
+
+#. type: delimited block |
+#: composingemail.adoc:112
+#, no-wrap
+msgid "All messages are automatically spell checked before they are sent.\n"
+msgstr "All messages are automatically spell checked before they are sent.\n"
+
+#. type: delimited block |
+#: composingemail.adoc:114
+#, no-wrap
+msgid "|Save a copy to Sent folder |\n"
+msgstr "|Save a copy to Sent folder |\n"
+
+#. type: delimited block |
+#: composingemail.adoc:116
+#, no-wrap
+msgid "This is enabled by default. You can deselect this option.\n"
+msgstr "This is enabled by default. You can deselect this option.\n"
+
+#. type: delimited block |
+#: composingemail.adoc:118
+#, no-wrap
+msgid "|Use keyboard shortcut Ctrl+Enter to send message |\n"
+msgstr "|Use keyboard shortcut Ctrl+Enter to send message |\n"
+
+#. type: delimited block |
+#: composingemail.adoc:122
+#, no-wrap
+msgid ""
+"You can select to use the keyboard shortcut Ctrl+Enter to send a\n"
+"message. If you enable this option, be aware when using this keyboard\n"
+"shortcut to complete your message before using.\n"
+msgstr ""
+"You can select to use the keyboard shortcut Ctrl+Enter to send a\n"
+"message. If you enable this option, be aware when using this keyboard\n"
+"shortcut to complete your message before using.\n"
+
+#. type: Plain text
+#: composingemail.adoc:128
+msgid ""
+"(Optional) For additional composing options, click the link to the *Accounts "
+"Page* or go to the *Preferences>Accounts* page and set up your personas."
+msgstr ""
+"(Optional) For additional composing options, click the link to the *Accounts "
+"Page* or go to the *Preferences>Accounts* page and set up your personas."
+
+#. type: Plain text
+#: composingemail.adoc:132
+msgid ""
+"(Optional) To manage your signatures, go to the *Preferences>Signatures* "
+"page and add signatures that can be used when sending messages."
+msgstr ""
+"(Optional) To manage your signatures, go to the *Preferences>Signatures* "
+"page and add signatures that can be used when sending messages."
+
+#. type: Plain text
+#: composingemail.adoc:134 composingemail.adoc:219 composingemail.adoc:286
+#: composingemail.adoc:394 gettingstarted.adoc:102 gettingstarted.adoc:162
+#: managingcalendars.adoc:56 managingcalendars.adoc:215
+#: managingcalendars.adoc:401 managingcontacts.adoc:62 managingcontacts.adoc:96
+#: managingcontacts.adoc:146 managingcontacts.adoc:169
+#: managingcontacts.adoc:217 managingemail.adoc:61 managingemail.adoc:349
+#: organizingaccount.adoc:185 organizingaccount.adoc:202
+#: organizingaccount.adoc:213 organizingaccount.adoc:227
+#: organizingaccount.adoc:282 organizingaccount.adoc:455
+#: readingmessages.adoc:72 readingmessages.adoc:94 readingmessages.adoc:126
+#: replyandforwardmessages.adoc:25 replyandforwardmessages.adoc:107
+#: retrievingmail.adoc:76 retrievingmail.adoc:95 retrievingmail.adoc:127
+#: schedulingappointments.adoc:549 schedulingappointments.adoc:602
+#: schedulingappointments.adoc:620 schedulingappointments.adoc:636
+#: schedulingappointments.adoc:687 searchingforitems.adoc:58
+#: sendingsecureemail.adoc:71 usingtasks.adoc:140 usingtasks.adoc:151
+#: usingzimlets.adoc:23 usingzimlets.adoc:30 workinginbriefcase.adoc:137
+msgid "Click *Save*."
+msgstr "Click *Save*."
+
+#. type: Title ==
+#: composingemail.adoc:135
+#, no-wrap
+msgid "Addressing a Message"
+msgstr "Addressing a Message"
+
+#. type: Plain text
+#: composingemail.adoc:141
+msgid ""
+"The auto complete feature suggests names as you type into the *To*, *Cc*, "
+"and *Bcc* fields in a new message. A list of possible addresses from your "
+"contacts in which either the first name, last name, or email address starts "
+"with the text you typed is displayed."
+msgstr ""
+"The auto complete feature suggests names as you type into the *To*, *Cc*, "
+"and *Bcc* fields in a new message. A list of possible addresses from your "
+"contacts in which either the first name, last name, or email address starts "
+"with the text you typed is displayed."
+
+#. type: Plain text
+#: composingemail.adoc:144
+msgid ""
+"As you continue to type, the list of matching addresses becomes smaller as "
+"fewer matches are available. The list disappears if there are no matches."
+msgstr ""
+"As you continue to type, the list of matching addresses becomes smaller as "
+"fewer matches are available. The list disappears if there are no matches."
+
+#. type: Plain text
+#: composingemail.adoc:149
+msgid ""
+"For example, to send an email message to David Brinks, whose email address "
+"is dbrinks@acme.com, when you type D, a list appears showing all possible "
+"matches, with the matching portions highlighted. In this case, it might "
+"display:"
+msgstr ""
+"For example, to send an email message to David Brinks, whose email address "
+"is dbrinks@acme.com, when you type D, a list appears showing all possible "
+"matches, with the matching portions highlighted. In this case, it might "
+"display:"
+
+#. type: Plain text
+#: composingemail.adoc:151 composingemail.adoc:157
+msgid "Dale Edwards <ded@acme.com>"
+msgstr "Dale Edwards <ded@acme.com>"
+
+#. type: Plain text
+#: composingemail.adoc:152 composingemail.adoc:158
+msgid "David Brinks <dbrinks@acme.com>"
+msgstr "David Brinks <dbrinks@acme.com>"
+
+#. type: Plain text
+#: composingemail.adoc:153
+msgid "Erica Dodd <erica878@xyz.com>"
+msgstr "Erica Dodd <erica878@xyz.com>"
+
+#. type: Plain text
+#: composingemail.adoc:155
+msgid "When you add an “a” (Da) into the To field, the list would display:"
+msgstr "When you add an “a” (Da) into the To field, the list would display:"
+
+#. type: Title ===
+#: composingemail.adoc:159
+#, no-wrap
+msgid "Use Automatic Address Completion"
+msgstr "Use Automatic Address Completion"
+
+#. type: Plain text
+#: composingemail.adoc:163
+msgid ""
+"To select a match from the list, you can click the match with the mouse or "
+"use one of the following keys to perform an action:"
+msgstr ""
+"To select a match from the list, you can click the match with the mouse or "
+"use one of the following keys to perform an action:"
+
+#. type: Plain text
+#: composingemail.adoc:166
+msgid ""
+"The comma, semicolon, Return/Enter, and Tab keys all complete the first "
+"match in the list and place it in the field."
+msgstr ""
+"The comma, semicolon, Return/Enter, and Tab keys all complete the first "
+"match in the list and place it in the field."
+
+#. type: Plain text
+#: composingemail.adoc:168
+msgid "ESC hides the list."
+msgstr "ESC hides the list."
+
+#. type: Plain text
+#: composingemail.adoc:171
+msgid ""
+"The up and down arrow keys change the selection in the list. Moving the "
+"mouse cursor over the list also changes the selection."
+msgstr ""
+"The up and down arrow keys change the selection in the list. Moving the "
+"mouse cursor over the list also changes the selection."
+
+#. type: Plain text
+#: composingemail.adoc:173
+msgid "To select an address when composing an email"
+msgstr "To select an address when composing an email"
+
+#. type: Plain text
+#: composingemail.adoc:175
+msgid "Type enough characters until the contact you want is the first match."
+msgstr "Type enough characters until the contact you want is the first match."
+
+#. type: Plain text
+#: composingemail.adoc:177
+msgid "Press a quick key, such as Enter or the semicolon. The address displays"
+msgstr ""
+"Press a quick key, such as Enter or the semicolon. The address displays"
+
+#. type: Plain text
+#: composingemail.adoc:178
+msgid "in the recipient field."
+msgstr "in the recipient field."
+
+#. type: Title ==
+#: composingemail.adoc:179
+#, no-wrap
+msgid "Using Signatures Automatically"
+msgstr "Using Signatures Automatically"
+
+#. type: Plain text
+#: composingemail.adoc:185
+msgid ""
+"You can include an automatic signature at the end of an email. A signature "
+"can include your name and any additional text. If you are using an HTML "
+"editor, you can format your signature, add a link to a URL and add graphics."
+msgstr ""
+"You can include an automatic signature at the end of an email. A signature "
+"can include your name and any additional text. If you are using an HTML "
+"editor, you can format your signature, add a link to a URL and add graphics."
+
+#. type: Plain text
+#: composingemail.adoc:189
+msgid ""
+"You can create more than one signature. For example, you can have a formal "
+"signature for emails sent to customers and an informal signature for emails "
+"sent to friends."
+msgstr ""
+"You can create more than one signature. For example, you can have a formal "
+"signature for emails sent to customers and an informal signature for emails "
+"sent to friends."
+
+#. type: Plain text
+#: composingemail.adoc:192
+msgid ""
+"If you create multiple email identities (also known as personas), you can "
+"create different signatures and assign them to specific addresses."
+msgstr ""
+"If you create multiple email identities (also known as personas), you can "
+"create different signatures and assign them to specific addresses."
+
+#. type: Plain text
+#: composingemail.adoc:194
+msgid "Go to the *Preferences>Signatures* page."
+msgstr "Go to the *Preferences>Signatures* page."
+
+#. type: Plain text
+#: composingemail.adoc:198
+msgid ""
+"In the *Name* text box, type a descriptive name to identify the signature. "
+"You can create multiple signatures, so using an identifiable name here is "
+"helpful."
+msgstr ""
+"In the *Name* text box, type a descriptive name to identify the signature. "
+"You can create multiple signatures, so using an identifiable name here is "
+"helpful."
+
+#. type: Plain text
+#: composingemail.adoc:201
+msgid ""
+"(Optional) To format in plain text, click *Format As HTML* dropdown menu and "
+"select *Format As Plain Text*."
+msgstr ""
+"(Optional) To format in plain text, click *Format As HTML* dropdown menu and "
+"select *Format As Plain Text*."
+
+#. type: Plain text
+#: composingemail.adoc:205
+msgid ""
+"In the text box, type the signature text as you want it to appear. If you "
+"are using *Format as HTML*, you can add images and create links to your "
+"signature text."
+msgstr ""
+"In the text box, type the signature text as you want it to appear. If you "
+"are using *Format as HTML*, you can add images and create links to your "
+"signature text."
+
+#. type: Plain text
+#: composingemail.adoc:209
+msgid ""
+"In the *Using Signatures* section, select the default signature, or primary "
+"account signature, from the drop down menu to use with messages sent from "
+"your various accounts."
+msgstr ""
+"In the *Using Signatures* section, select the default signature, or primary "
+"account signature, from the drop down menu to use with messages sent from "
+"your various accounts."
+
+#. type: Plain text
+#: composingemail.adoc:211
+msgid "Select the placement of your signature in a message."
+msgstr "Select the placement of your signature in a message."
+
+#. type: Plain text
+#: composingemail.adoc:214
+msgid ""
+"Select *Above included messages* to add your signature at the end of your "
+"reply and before the included messages."
+msgstr ""
+"Select *Above included messages* to add your signature at the end of your "
+"reply and before the included messages."
+
+#. type: Plain text
+#: composingemail.adoc:217
+msgid ""
+"Select *Below included messages* to add your signature at the end of the "
+"message."
+msgstr ""
+"Select *Below included messages* to add your signature at the end of the "
+"message."
+
+#. type: Title ==
+#: composingemail.adoc:220
+#, no-wrap
+msgid "Using Other Account Identities When You Send an Email"
+msgstr "Using Other Account Identities When You Send an Email"
+
+#. type: Plain text
+#: composingemail.adoc:226
+msgid ""
+"When you send email, it is identified with an email account. When your email "
+"account is set up, your account name is your primary identity. However, you "
+"can create other email identities called personas to manage different types "
+"of email."
+msgstr ""
+"When you send email, it is identified with an email account. When your email "
+"account is set up, your account name is your primary identity. However, you "
+"can create other email identities called personas to manage different types "
+"of email."
+
+#. type: Plain text
+#: composingemail.adoc:229
+msgid ""
+"For example, you can create one persona for your business email and another "
+"for your personal email."
+msgstr ""
+"For example, you can create one persona for your business email and another "
+"for your personal email."
+
+#. type: Plain text
+#: composingemail.adoc:232
+msgid ""
+"If you have more than one persona or added external accounts, when you send "
+"an email you can select the account you want to use as the From address."
+msgstr ""
+"If you have more than one persona or added external accounts, when you send "
+"an email you can select the account you want to use as the From address."
+
+#. type: Plain text
+#: composingemail.adoc:234
+msgid "See <<_add_personas>>"
+msgstr "See <<_add_personas>>"
+
+#. type: Title ==
+#: composingemail.adoc:235
+#, no-wrap
+msgid "Add Personas"
+msgstr "Add Personas"
+
+#. type: Plain text
+#: composingemail.adoc:241
+msgid ""
+"Creating different personas allows you to use multiple email addresses from "
+"your mailbox. For example, you could use your primary account persona for "
+"your business email correspondence, and create a new persona for your "
+"personal email correspondence."
+msgstr ""
+"Creating different personas allows you to use multiple email addresses from "
+"your mailbox. For example, you could use your primary account persona for "
+"your business email correspondence, and create a new persona for your "
+"personal email correspondence."
+
+#. type: Plain text
+#: composingemail.adoc:244
+msgid ""
+"Go to the *Preferences>Accounts* page. Your default account and personal "
+"information is shown as the primary account."
+msgstr ""
+"Go to the *Preferences>Accounts* page. Your default account and personal "
+"information is shown as the primary account."
+
+#. type: Plain text
+#: composingemail.adoc:247
+msgid ""
+"Click *Add Persona*. The account name *New Persona* displays in the Account "
+"Name column and in the *Persona Settings>Persona Name* text box."
+msgstr ""
+"Click *Add Persona*. The account name *New Persona* displays in the Account "
+"Name column and in the *Persona Settings>Persona Name* text box."
+
+#. type: Plain text
+#: composingemail.adoc:251
+msgid ""
+"In the *Persona Name* text box enter a descriptive word to identify the "
+"persona in the From list when you are composing an email. This name does not "
+"appear in the email message."
+msgstr ""
+"In the *Persona Name* text box enter a descriptive word to identify the "
+"persona in the From list when you are composing an email. This name does not "
+"appear in the email message."
+
+#. type: Plain text
+#: composingemail.adoc:254
+msgid ""
+"In the *Settings for Sent Messages* section, specify the From information "
+"for this persona."
+msgstr ""
+"In the *Settings for Sent Messages* section, specify the From information "
+"for this persona."
+
+#. type: Plain text
+#: composingemail.adoc:258
+msgid ""
+"In the *From* text box type the name that appears in the From field of your "
+"outgoing email messages. This is the name that is shown before your email "
+"address."
+msgstr ""
+"In the *From* text box type the name that appears in the From field of your "
+"outgoing email messages. This is the name that is shown before your email "
+"address."
+
+#. type: Plain text
+#: composingemail.adoc:262
+msgid ""
+"In the drop-down menu next to the text box, select the email address from "
+"which to send messages. If this field is not editable, you do not have "
+"additional external accounts identified."
+msgstr ""
+"In the drop-down menu next to the text box, select the email address from "
+"which to send messages. If this field is not editable, you do not have "
+"additional external accounts identified."
+
+#. type: Plain text
+#: composingemail.adoc:267
+msgid ""
+"To direct replies to email messages from this persona to a name and address "
+"different from that which you configured in From, check *Reply-to>Set the "
+"\"Reply-to\" field of email messages to*, and enter the name to use in the "
+"text box."
+msgstr ""
+"To direct replies to email messages from this persona to a name and address "
+"different from that which you configured in From, check *Reply-to>Set the "
+"\"Reply-to\" field of email messages to*, and enter the name to use in the "
+"text box."
+
+#. type: Plain text
+#: composingemail.adoc:270
+msgid ""
+"(Optional) To associate a signature with the persona, click *Signature: "
+"Manage your signatures...*"
+msgstr ""
+"(Optional) To associate a signature with the persona, click *Signature: "
+"Manage your signatures...*"
+
+#. type: Plain text
+#: composingemail.adoc:276
+msgid ""
+"To automatically *Use this persona* when replying to messages sent to a "
+"specific email address or when forwarding messages from that address, select "
+"*When replying or forwarding messages sent to*, and type the email address "
+"in the text box. If you are entering more than one email address, separate "
+"the addresses with either a comma or a semi-colon."
+msgstr ""
+"To automatically *Use this persona* when replying to messages sent to a "
+"specific email address or when forwarding messages from that address, select "
+"*When replying or forwarding messages sent to*, and type the email address "
+"in the text box. If you are entering more than one email address, separate "
+"the addresses with either a comma or a semi-colon."
+
+#. type: Plain text
+#: composingemail.adoc:281
+msgid ""
+"To automatically *Use this persona* when replying to messages in a specific "
+"folder or when forwarding messages from this folder, select *When composing, "
+"replying to or forwarding messages in folder(s)*. Click the folder icon to "
+"select one or more folders or to create a new folder."
+msgstr ""
+"To automatically *Use this persona* when replying to messages in a specific "
+"folder or when forwarding messages from this folder, select *When composing, "
+"replying to or forwarding messages in folder(s)*. Click the folder icon to "
+"select one or more folders or to create a new folder."
+
+#. type: Plain text
+#: composingemail.adoc:284
+msgid ""
+"If you are selecting more than one folder, separate the folder names with "
+"either a comma or a semi-colon."
+msgstr ""
+"If you are selecting more than one folder, separate the folder names with "
+"either a comma or a semi-colon."
+
+#. type: Title ==
+#: composingemail.adoc:287
+#, no-wrap
+msgid "Mark the Priority Level of a Message"
+msgstr "Mark the Priority Level of a Message"
+
+#. type: Plain text
+#: composingemail.adoc:291
+msgid ""
+"You can indicate a message’s level of importance. For example, if you have a "
+"request that needs to be replied to as soon as possible."
+msgstr ""
+"You can indicate a message’s level of importance. For example, if you have a "
+"request that needs to be replied to as soon as possible."
+
+#. type: Plain text
+#: composingemail.adoc:295
+msgid ""
+"Before you send the message, in the *Options* drop-down menu in the message "
+"header, select the priority option, *High priority*, *Normal priority*, or "
+"*Low priority*."
+msgstr ""
+"Before you send the message, in the *Options* drop-down menu in the message "
+"header, select the priority option, *High priority*, *Normal priority*, or "
+"*Low priority*."
+
+#. type: Plain text
+#: composingemail.adoc:298
+msgid ""
+"The recipient sees the message priority flag in their mailbox and in the "
+"message."
+msgstr ""
+"The recipient sees the message priority flag in their mailbox and in the "
+"message."
+
+#. type: Title ==
+#: composingemail.adoc:299
+#, no-wrap
+msgid "Request a Return Receipt"
+msgstr "Request a Return Receipt"
+
+#. type: Plain text
+#: composingemail.adoc:304
+msgid ""
+"Message you send to other {product-abbrev} users can be marked to request a "
+"return receipt when the recipient opens your message. However, the "
+"recipients must have the Return Receipt feature enabled for their accounts."
+msgstr ""
+"Message you send to other {product-abbrev} users can be marked to request a "
+"return receipt when the recipient opens your message. However, the "
+"recipients must have the Return Receipt feature enabled for their accounts."
+
+#. type: Title ===
+#: composingemail.adoc:305
+#, no-wrap
+msgid "To set this as the default"
+msgstr "To set this as the default"
+
+#. type: Plain text
+#: composingemail.adoc:309
+msgid ""
+"Go to the *Preferences>Mail* page, and in the *Composing Messages* section, "
+"select *Always Request read receipt*."
+msgstr ""
+"Go to the *Preferences>Mail* page, and in the *Composing Messages* section, "
+"select *Always Request read receipt*."
+
+#. type: Title ===
+#: composingemail.adoc:310
+#, no-wrap
+msgid "To set this request per message"
+msgstr "To set this request per message"
+
+#. type: Plain text
+#: composingemail.adoc:314
+msgid ""
+"When composing a message and before sending the message, in the *Options* "
+"drop-down list, select *Request Read Receipt*."
+msgstr ""
+"When composing a message and before sending the message, in the *Options* "
+"drop-down list, select *Request Read Receipt*."
+
+#. type: Title ==
+#: composingemail.adoc:315
+#, no-wrap
+msgid "Adding Attachments"
+msgstr "Adding Attachments"
+
+#. type: Plain text
+#: composingemail.adoc:318
+msgid ""
+"You can attach any file on your file system that you can find using Browse."
+msgstr ""
+"You can attach any file on your file system that you can find using Browse."
+
+#. type: Plain text
+#: composingemail.adoc:322
+msgid ""
+"You can open any file attachment directly from your mailbox, provided that "
+"you have the right application and the extension is not blocked by your "
+"administrator."
+msgstr ""
+"You can open any file attachment directly from your mailbox, provided that "
+"you have the right application and the extension is not blocked by your "
+"administrator."
+
+#. type: Plain text
+#: composingemail.adoc:326 readingmessages.adoc:198
+msgid ""
+"If the file type is one that is supported by the installed software on your "
+"computer, you can typically double-click the file and your computer "
+"automatically launches the right application for reading that file."
+msgstr ""
+"If the file type is one that is supported by the installed software on your "
+"computer, you can typically double-click the file and your computer "
+"automatically launches the right application for reading that file."
+
+#. type: Plain text
+#: composingemail.adoc:333
+msgid ""
+"Computer viruses are often spread through file attachments. Therefore, "
+"system administrators might block incoming email containing certain types of "
+"attachments, often with the extension .EXE or .ZIP as part of their "
+"filename. If you send an email message to someone whose email system has "
+"been configured to block certain types of attachments, you might not receive "
+"any notification if the email was blocked."
+msgstr ""
+"Computer viruses are often spread through file attachments. Therefore, "
+"system administrators might block incoming email containing certain types of "
+"attachments, often with the extension .EXE or .ZIP as part of their "
+"filename. If you send an email message to someone whose email system has "
+"been configured to block certain types of attachments, you might not receive "
+"any notification if the email was blocked."
+
+#. type: Title ===
+#: composingemail.adoc:334
+#, no-wrap
+msgid "Add an Attachment to a Message"
+msgstr "Add an Attachment to a Message"
+
+#. type: Plain text
+#: composingemail.adoc:338
+msgid ""
+"You can attach documents, spreadsheets, pictures, slide shows, and other "
+"types of files to an email message."
+msgstr ""
+"You can attach documents, spreadsheets, pictures, slide shows, and other "
+"types of files to an email message."
+
+#. type: Plain text
+#: composingemail.adoc:340
+msgid "Compose the email message."
+msgstr "Compose the email message."
+
+#. type: Plain text
+#: composingemail.adoc:342
+msgid "Below the *Subject* field, click *Attach* and select *My Computer*."
+msgstr "Below the *Subject* field, click *Attach* and select *My Computer*."
+
+#. type: Plain text
+#: composingemail.adoc:345
+msgid ""
+"Select the files and click *Open*. The file names displays below the Subject "
+"text box."
+msgstr ""
+"Select the files and click *Open*. The file names displays below the Subject "
+"text box."
+
+#. type: Plain text
+#: composingemail.adoc:347
+msgid "Click *Send* to send the message and the attachments."
+msgstr "Click *Send* to send the message and the attachments."
+
+#. type: Plain text
+#: composingemail.adoc:352
+msgid ""
+"Recipients must have the appropriate software to open the file. Common file "
+"formats, such as text files, HTML files, and images such as GIF or JPEG "
+"files, can be opened in a variety of programs."
+msgstr ""
+"Recipients must have the appropriate software to open the file. Common file "
+"formats, such as text files, HTML files, and images such as GIF or JPEG "
+"files, can be opened in a variety of programs."
+
+#. type: Title ===
+#: composingemail.adoc:353
+#, no-wrap
+msgid "Add Attachments Using Drag and Drop"
+msgstr "Add Attachments Using Drag and Drop"
+
+#. type: Plain text
+#: composingemail.adoc:357
+msgid ""
+"You can easily add an attachment to an email message by dragging the file "
+"from a folder into your email."
+msgstr ""
+"You can easily add an attachment to an email message by dragging the file "
+"from a folder into your email."
+
+#. type: Plain text
+#: composingemail.adoc:360
+msgid ""
+"Select one or more files and hold down the cursor on the file(s) to be "
+"attached."
+msgstr ""
+"Select one or more files and hold down the cursor on the file(s) to be "
+"attached."
+
+#. type: Plain text
+#: composingemail.adoc:363
+msgid ""
+"Drag the files to the message header area and release the cursor. The file "
+"names are displayed in the header."
+msgstr ""
+"Drag the files to the message header area and release the cursor. The file "
+"names are displayed in the header."
+
+#. type: Title ===
+#: composingemail.adoc:364
+#, no-wrap
+msgid "Removing an Attachment"
+msgstr "Removing an Attachment"
+
+#. type: Plain text
+#: composingemail.adoc:367
+msgid "To remove an attachment, click the *x* in the attachment bubble."
+msgstr "To remove an attachment, click the *x* in the attachment bubble."
+
+#. type: Title ==
+#: composingemail.adoc:368
+#, no-wrap
+msgid "Spell Check a Message"
+msgstr "Spell Check a Message"
+
+#. type: Plain text
+#: composingemail.adoc:371
+msgid "You can use the spell check feature at any time to check your spelling."
+msgstr ""
+"You can use the spell check feature at any time to check your spelling."
+
+#. type: Plain text
+#: composingemail.adoc:374
+msgid ""
+"On the toolbar, click the *Abc* link. Words in the email message that are "
+"unknown to the spell checker are highlighted."
+msgstr ""
+"On the toolbar, click the *Abc* link. Words in the email message that are "
+"unknown to the spell checker are highlighted."
+
+#. type: Plain text
+#: composingemail.adoc:377
+msgid ""
+"Right-click on a highlighted word. A drop-down menu displays suggested "
+"corrections."
+msgstr ""
+"Right-click on a highlighted word. A drop-down menu displays suggested "
+"corrections."
+
+#. type: Plain text
+#: composingemail.adoc:379
+msgid "Select the correct word. The word is highlighted in another color."
+msgstr "Select the correct word. The word is highlighted in another color."
+
+#. type: Plain text
+#: composingemail.adoc:382
+msgid ""
+"To accept your changes and close the spell checker, click *Resume editing*."
+msgstr ""
+"To accept your changes and close the spell checker, click *Resume editing*."
+
+#. type: Plain text
+#: composingemail.adoc:386
+msgid ""
+"Before you close the spell checker, you can change a corrected word back to "
+"the original spelling. Click on the highlighted word and select the initial "
+"spelling from the top of the pop-up."
+msgstr ""
+"Before you close the spell checker, you can change a corrected word back to "
+"the original spelling. Click on the highlighted word and select the initial "
+"spelling from the top of the pop-up."
+
+#. type: Title ===
+#: composingemail.adoc:387
+#, no-wrap
+msgid "Spell Check All Messages Before They are Sent"
+msgstr "Spell Check All Messages Before They are Sent"
+
+#. type: Plain text
+#: composingemail.adoc:390
+msgid "Go to *Preferences>Mail>Composing Messages>Settings*."
+msgstr "Go to *Preferences>Mail>Composing Messages>Settings*."
+
+#. type: Plain text
+#: composingemail.adoc:392
+msgid "Select the option *Mandatory spellcheck before sending a message*."
+msgstr "Select the option *Mandatory spellcheck before sending a message*."
+
+#. type: Title ==
+#: composingemail.adoc:395
+#, no-wrap
+msgid "Adding Words to the Spell Dictionary"
+msgstr "Adding Words to the Spell Dictionary"
+
+#. type: Plain text
+#: composingemail.adoc:399
+msgid ""
+"Right-click on the correctly spelled word and click *Add to Dictionary*."
+msgstr ""
+"Right-click on the correctly spelled word and click *Add to Dictionary*."
+
+#. type: Plain text
+#: composingemail.adoc:403
+msgid ""
+"You cannot remove words from your dictionary after they are added. You can "
+"also configure the spell check to ignore words, right-click on the word and "
+"click Ignore."
+msgstr ""
+"You cannot remove words from your dictionary after they are added. You can "
+"also configure the spell check to ignore words, right-click on the word and "
+"click Ignore."
+
+#. type: Title ==
+#: composingemail.adoc:404
+#, no-wrap
+msgid "Save a Message as a Draft"
+msgstr "Save a Message as a Draft"
+
+#. type: Plain text
+#: composingemail.adoc:407
+msgid "You can save a message to finish and send later."
+msgstr "You can save a message to finish and send later."
+
+#. type: Plain text
+#: composingemail.adoc:409
+msgid "Click *Save Draft*. The message is saved in the Drafts folder."
+msgstr "Click *Save Draft*. The message is saved in the Drafts folder."
+
+#. type: Plain text
+#: composingemail.adoc:413
+msgid ""
+"To retrieve a draft, open the Drafts folder and click on the message. To "
+"continue editing the draft message, click Edit. When the message is sent, "
+"the message is removed from the Drafts folder."
+msgstr ""
+"To retrieve a draft, open the Drafts folder and click on the message. To "
+"continue editing the draft message, click Edit. When the message is sent, "
+"the message is removed from the Drafts folder."
+
+#. type: Title ==
+#: composingemail.adoc:414
+#, no-wrap
+msgid "Sending email on behalf of someone else"
+msgstr "Sending email on behalf of someone else"
+
+#. type: Plain text
+#: composingemail.adoc:423
+msgid ""
+"If you have been granted delegate permissions for another person, you can "
+"send <<_delegate_others_to_send_messages_on_your_behalf,email messages on "
+"their behalf>>. The message's From address includes both your email address "
+"and the person you are sending the message for. If you were given permission "
+"to send a message as that person, the person's email address is in the "
+"menu.  When you select this, your address is not included in the message."
+msgstr ""
+"If you have been granted delegate permissions for another person, you can "
+"send <<_delegate_others_to_send_messages_on_your_behalf,email messages on "
+"their behalf>>. The message's From address includes both your email address "
+"and the person you are sending the message for. If you were given permission "
+"to send a message as that person, the person's email address is in the "
+"menu.  When you select this, your address is not included in the message."
+
+#. type: Plain text
+#: composingemail.adoc:425
+msgid "In your Inbox, click *New Message*."
+msgstr "In your Inbox, click *New Message*."
+
+#. type: Plain text
+#: composingemail.adoc:428
+msgid ""
+"In the *From* field, select the name of the sender from the drop-down menu."
+msgstr ""
+"In the *From* field, select the name of the sender from the drop-down menu."
+
+#. type: Plain text
+#: composingemail.adoc:430
+msgid "Compose and send the message."
+msgstr "Compose and send the message."
+
+#. type: Title ==
+#: composingemail.adoc:431
+#, no-wrap
+msgid "Deleting a Message"
+msgstr "Deleting a Message"
+
+#. type: Plain text
+#: composingemail.adoc:434
+msgid ""
+"You can delete specific email messages or a complete conversation thread."
+msgstr ""
+"You can delete specific email messages or a complete conversation thread."
+
+#. type: Plain text
+#: composingemail.adoc:436
+msgid "Right-click the message or conversation to delete and select Delete."
+msgstr "Right-click the message or conversation to delete and select Delete."
+
+#. type: Plain text
+#: composingemail.adoc:438
+msgid "Deleted messages are moved to your Trash folder."
+msgstr "Deleted messages are moved to your Trash folder."
+
+#. type: Plain text
+#: composingemail.adoc:441
+msgid ""
+"You can recover files from Trash within 30 days of deleting them. After 30 "
+"days, the items are permanently deleted."
+msgstr ""
+"You can recover files from Trash within 30 days of deleting them. After 30 "
+"days, the items are permanently deleted."
+
+#. type: Plain text
+#: composingemail.adoc:443
+msgid "To permanently delete a message, click Shift>Delete."
+msgstr "To permanently delete a message, click Shift>Delete."
+
+#. type: Plain text
+#: composingemail.adoc:444
+msgid "Messages are permanently deleted from your account."
+msgstr "Messages are permanently deleted from your account."

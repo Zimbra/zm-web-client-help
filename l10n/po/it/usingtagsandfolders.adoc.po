@@ -1,0 +1,404 @@
+# Italian translations for PACKAGE package
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-09-11 18:20+0000\n"
+"PO-Revision-Date: 2017-09-11 18:20+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: Plain text
+#: managingcalendars.adoc:107 managingcalendars.adoc:283
+#: managingcalendars.adoc:313 managingcontacts.adoc:71
+#: managingcontacts.adoc:182 managingcontacts.adoc:240
+#: managingcontacts.adoc:281 managingemail.adoc:133 managingemail.adoc:159
+#: managingemail.adoc:223 managingemail.adoc:323 managingemail.adoc:367
+#: replyandforwardmessages.adoc:130 schedulingappointments.adoc:68
+#: schedulingappointments.adoc:307 schedulingappointments.adoc:344
+#: schedulingappointments.adoc:487 searchingforitems.adoc:384
+#: sharingfolders.adoc:47 sharingfolders.adoc:251 usingmailfilters.adoc:129
+#: usingmailfilters.adoc:169 usingmailfilters.adoc:184
+#: usingmailfilters.adoc:444 usingmailfilters.adoc:457
+#: usingtagsandfolders.adoc:32 usingtagsandfolders.adoc:47
+#: usingtagsandfolders.adoc:83 usingtagsandfolders.adoc:119
+#: usingtagsandfolders.adoc:124 usingtasks.adoc:250 usingtasks.adoc:312
+#: workinginbriefcase.adoc:42 workinginbriefcase.adoc:103
+#: workinginbriefcase.adoc:256
+msgid "Click *OK*."
+msgstr ""
+
+#. type: Title =
+#: usingtagsandfolders.adoc:1
+#, no-wrap
+msgid "Using Tags and Folders to Organize Email"
+msgstr ""
+
+#. type: Title ==
+#: usingtagsandfolders.adoc:3
+#, no-wrap
+msgid "Create a Folder"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:7
+msgid ""
+"You can create a standalone user-defined folder or a folder inside another "
+"folder, including system folders."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:12
+msgid ""
+"You cannot create two folders with the same name within the same parent "
+"folder. For example, you cannot have two folders named Shopping inside your "
+"Inbox folder, but you can have one folder named Shopping inside your Inbox "
+"folder, and another folder with the same name inside the Sent folder."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:14
+msgid "Go to the *Mail>Mail Folders* and click the *gear icon*."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:16
+msgid "Select *New Folder*."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:18
+msgid "Enter the new folder *Name* and select a folder *Color*."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:21 usingtagsandfolders.adoc:45
+msgid ""
+"Folder names can include any character except a colon (:), forward slash "
+"(/), and quotation mark (\")."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:23
+msgid "You have the option to select to subscribe to RSS/ATOM feed."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:25
+msgid "In the *Mail Folders* tree, select the placement of the new folder."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:28
+msgid ""
+"Click *Mail Folders* to have the new folder displayed at the top of the list."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:30
+msgid "Click an existing folder to place your new folder within that folder."
+msgstr ""
+
+#. type: Title ==
+#: usingtagsandfolders.adoc:33
+#, no-wrap
+msgid "Rename a Folder"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:36
+msgid "You can rename user-defined folders but not system folders."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:38 usingtagsandfolders.adoc:66
+msgid "Go to the *Mail>Mail Folders*."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:40
+msgid "Right-click a folder and select *Rename Folder*."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:42
+msgid "Enter the new folder name."
+msgstr ""
+
+#. type: Title ==
+#: usingtagsandfolders.adoc:48
+#, no-wrap
+msgid "Delete a Folder"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:54
+msgid ""
+"You can delete user-defined folders, but not system folders. When you delete "
+"a folder, the folder and its contents are moved to Trash. If you want to "
+"save some of the messages in a folder before you delete the folder, move the "
+"messages to another folder."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:57
+msgid ""
+"You can recover a folder and its contents from Trash by dragging and "
+"dropping the folder to another folder."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:64
+msgid ""
+"When you delete a folder, a pop-up displays at the top of the pane "
+"indicating the folder is moved to Trash. Click *Undo* if you want to revert "
+"the deletion. This pop-up displays for a very short time, so click Undo "
+"immediately if you did not want to delete the folder, otherwise you’ll have "
+"to manually recover the folder."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:68
+msgid "Right-click the folder you want to delete and select *Delete*."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:72
+msgid ""
+"The Trash folder is purged on a regular basis, which is set by your "
+"administrator, so items in the Trash do not stay there forever."
+msgstr ""
+
+#. type: Title ==
+#: usingtagsandfolders.adoc:73
+#, no-wrap
+msgid "Create a Tag"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:76
+msgid "In the Overview pane, click the *Tags* gear icon and select *New Tag*."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:78
+msgid "Enter the new *Tag name* and select a *Color* for the tag."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:81 usingtagsandfolders.adoc:122
+msgid ""
+"Tag names can include any character except a colon (:), forward slash (/), "
+"and quotation mark (\")"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:85
+msgid "The new tag is listed under *Tags*."
+msgstr ""
+
+#. type: Title ==
+#: usingtagsandfolders.adoc:86
+#, no-wrap
+msgid "Assign a Tag to an Item"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:92
+msgid ""
+"After you create a tag, you can apply it to an item. You can assign more "
+"than one tag to an item to classify it under different categories. If an "
+"item has multiple tags, the tag icon is multicolored. Only tags that are not "
+"already applied to the item are listed."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:94
+msgid "In the Content pane, right click an item."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:97 usingtagsandfolders.adoc:147
+msgid ""
+"In the drop-down menu, select *Tag <topic>*. For example, the topic can be a "
+"“Conversation”, which displays as *Tag Conversation*."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:99
+msgid ""
+"Click the tag to apply to the item. A tag icon displays next to the item."
+msgstr ""
+
+#. type: Title ==
+#: usingtagsandfolders.adoc:100
+#, no-wrap
+msgid "Change a Tag Color"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:103 usingtagsandfolders.adoc:113
+#: usingtagsandfolders.adoc:161
+msgid "Go to *Overview pane>Tags* section."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:105
+msgid "Right-click the tag for which you want to change the color."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:107
+msgid "Select *Tag Color* and click a new color for the tag."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:109
+msgid "All tags with the previous color are changed to the new color."
+msgstr ""
+
+#. type: Title ==
+#: usingtagsandfolders.adoc:110
+#, no-wrap
+msgid "Rename a Tag"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:115
+msgid "Right-click the tag you want to rename and select *Rename Tag*."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:117
+msgid "Enter the *New Tag Name*."
+msgstr ""
+
+#. type: Title ==
+#: usingtagsandfolders.adoc:125
+#, no-wrap
+msgid "Search for Items by Tag"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:128
+msgid "To search for a specific tag, type the following into the Search field:"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:130
+#, no-wrap
+msgid "*tag:<tagname>*. Displays all tags with this name.\n"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:133
+msgid "If the tag name is two words, you must use quotes around the tag name."
+msgstr ""
+
+#. type: Title ==
+#: usingtagsandfolders.adoc:134
+#, no-wrap
+msgid "Display Messages with a Specific Tag"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:138
+msgid ""
+"To find tagged message quickly, click a tag in the Tag section of the "
+"Overview pane."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:140
+msgid "All messages with the selected tag are displayed in the Content pane."
+msgstr ""
+
+#. type: Title ==
+#: usingtagsandfolders.adoc:141
+#, no-wrap
+msgid "Remove a Tag"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:144
+msgid "Right-click an item that is tagged."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:150
+msgid ""
+"Select *Remove Tag*. If the item has multiple tags, select the tag you want "
+"to remove or select *All Tags* to remove all tags."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:154
+msgid ""
+"You can remove a tag from a message when you have the message open in a "
+"reading pane. The tag displays in the message header under *Tags*, and you "
+"can click the *X* on the tag to delete the tag."
+msgstr ""
+
+#. type: Title ==
+#: usingtagsandfolders.adoc:155
+#, no-wrap
+msgid "Delete a Tag"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:159
+msgid ""
+"Deleting a tag removes the tag from any item that has the tag. The items "
+"themselves are not deleted."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:163
+msgid "Right-click the tag you want to delete and select *Delete*."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:165
+msgid "Click *Yes* to confirm the deletion."
+msgstr ""
+
+#. type: Title ==
+#: usingtagsandfolders.adoc:166
+#, no-wrap
+msgid "Flag a Message or Conversation"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:170
+msgid ""
+"Place your cursor over the flag column for a message or conversation. The "
+"flag icon displays in a shadowed form."
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:173
+msgid ""
+"Click once directly over the flag icon. The flag icon appears in its active "
+"form, which turns the flag red in color."
+msgstr ""
+
+#. type: Title ==
+#: usingtagsandfolders.adoc:174
+#, no-wrap
+msgid "Remove a Flag from a Message or Conversation"
+msgstr ""
+
+#. type: Plain text
+#: usingtagsandfolders.adoc:177
+msgid ""
+"Click an active flag icon to toggle the flag off. The flag is disabled and "
+"the flag color turns to a grey scale color."
+msgstr ""

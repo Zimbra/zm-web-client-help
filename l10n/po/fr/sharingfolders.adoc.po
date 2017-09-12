@@ -1,0 +1,767 @@
+# French translations for PACKAGE package
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-09-11 23:08+0000\n"
+"PO-Revision-Date: 2017-09-11 19:47+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. type: delimited block |
+#: composingemail.adoc:83 managingcalendars.adoc:28 managingcontacts.adoc:258
+#: managingemail.adoc:76 organizingaccount.adoc:14 readingmessages.adoc:107
+#: retrievingmail.adoc:108 schedulingappointments.adoc:657
+#: searchingforitems.adoc:181 sharingfolders.adoc:216 usingtasks.adoc:74
+#: usingtasks.adoc:100 usingtasks.adoc:161 usingtasks.adoc:222
+#: workinginbriefcase.adoc:79
+#, no-wrap
+msgid "|Option |Description\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:108 managingcalendars.adoc:285
+#: managingcalendars.adoc:315 managingcontacts.adoc:71
+#: managingcontacts.adoc:122 managingcontacts.adoc:182
+#: managingcontacts.adoc:240 managingcontacts.adoc:281 managingemail.adoc:133
+#: managingemail.adoc:159 managingemail.adoc:223 managingemail.adoc:323
+#: managingemail.adoc:367 replyandforwardmessages.adoc:130
+#: schedulingappointments.adoc:68 schedulingappointments.adoc:310
+#: schedulingappointments.adoc:347 schedulingappointments.adoc:490
+#: searchingforitems.adoc:386 sharingfolders.adoc:47 sharingfolders.adoc:205
+#: sharingfolders.adoc:251 usingmailfilters.adoc:129 usingmailfilters.adoc:169
+#: usingmailfilters.adoc:184 usingmailfilters.adoc:444
+#: usingmailfilters.adoc:457 usingtagsandfolders.adoc:32
+#: usingtagsandfolders.adoc:47 usingtagsandfolders.adoc:83
+#: usingtagsandfolders.adoc:119 usingtagsandfolders.adoc:124
+#: usingtasks.adoc:250 usingtasks.adoc:312 workinginbriefcase.adoc:42
+#: workinginbriefcase.adoc:103 workinginbriefcase.adoc:256
+msgid "Click *OK*."
+msgstr ""
+
+#. type: Plain text
+#: managingcontacts.adoc:215 sharingfolders.adoc:342
+msgid "Click *Add*."
+msgstr ""
+
+#. type: Title =
+#: sharingfolders.adoc:1
+#, no-wrap
+msgid "Sharing Folders"
+msgstr ""
+
+#. type: Title ==
+#: sharingfolders.adoc:3
+#, no-wrap
+msgid "Sharing Your Account Folders"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:9
+msgid ""
+"Sharing lets you give others access to folders in our account. You can share "
+"your mail folders, address books, calendars, briefcase and task lists "
+"folders. You specify which items to share and the level of access. You "
+"invite a user to share, and the user can accept or decline the invitation."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:13
+msgid ""
+"The Sharing page under Preferences helps you manage your shared items. This "
+"page shows the folders you shared with others and folders that are shared "
+"with you."
+msgstr ""
+
+#. type: Title ===
+#: sharingfolders.adoc:14
+#, no-wrap
+msgid "Sharing a Folder"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:19
+msgid ""
+"When you share your mail folders, you cannot share the Trash or Junk folders."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:21
+msgid "Right-click the folder that you want to share."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:23
+msgid "Click *Share Folder*."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:26 sharingfolders.adoc:185
+msgid ""
+"In the *Share Properties* dialog box, select whether you want to share with "
+"internal, external, or public users."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:28 sharingfolders.adoc:187
+msgid "Depending on with whom you share, do the following:"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:31
+msgid ""
+"For *Internal users or groups*, enter the user’s email addresses. In the "
+"*Role* area, select the <<_access_privileges>>."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:36
+msgid ""
+"For *External guests*, enter user’s email addresses. External guests are "
+"sent an email message with a link to the shared item. They create a display "
+"name and password the first time they go to view the shared item."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:38
+msgid "For *Public*, enter the *URL* to use."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:42 sharingfolders.adoc:200
+msgid ""
+"In the *Message* area, select which type of message to send to those who you "
+"are granting access. This message can be sent to internal users and external "
+"guests."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:45
+msgid "If you selected *Public*, you must notify the public of the URL."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:50
+msgid ""
+"If the user accepts the invitation to share the folder, a copy of the folder "
+"is put in the user’s account."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:55
+msgid ""
+"External users view shared items in by signing into an external {product-"
+"abbrev} account that was created when they accepted the share. Only items "
+"that are shared with external users are accessible in the external account."
+msgstr ""
+
+#. type: Title ==
+#: sharingfolders.adoc:56
+#, no-wrap
+msgid "Share Mail Folders"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:62
+msgid ""
+"You can share any of your mail folders, including your Inbox folder, with "
+"internal and external users. You cannot share the Trash and Junk folders. "
+"Users that you share with can see the content of the folder but the "
+"information is not saved to their mailboxes."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:66
+msgid ""
+"Users that have the manager role have full permission to view and edit the "
+"contents of the shared mail folder, create new sub-folders, send email on "
+"your behalf, and delete email messages."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:70
+msgid ""
+"Users with the admin role have full permission to view, edit the content of "
+"the mail folder, create new sub-folders, send email on your behalf, delete "
+"email messages, and share your mail folder with others."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:74
+msgid ""
+"Copies of the messages the user sends on your behalf are saved in your "
+"mailbox, and if the user deletes something from your mailbox or marks it as "
+"spam, the message is moved to your Trash folder or Junk folder."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:76
+msgid "If the user has access to more than one of your folders, the user can"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:78
+msgid "Move the contents from one folder to another folder in your mailbox."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:81
+msgid ""
+"Copy an email message from your folders to their mail folders. Your folder "
+"also retains a copy."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:84
+msgid ""
+"Create folders within the shared mail folder. The new folder appears in the "
+"your mailbox."
+msgstr ""
+
+#. type: Title ===
+#: sharingfolders.adoc:85
+#, no-wrap
+msgid "Scenarios for Sharing a Mail Folder"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:93
+msgid ""
+"Your sales department wants one central mailbox for all email messages "
+"requesting information about a product, and everyone in sales should be able "
+"to view email messages when they come in. You can give everyone in the "
+"department permission to view the mail folder, and they can copy the "
+"messages to their mailbox. You could also give them permission to manage the "
+"mail folder and reply on behalf of this address."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:98
+msgid ""
+"A manager is often out of the office and does not have time to respond to "
+"email messages, so access is granted to the manager’s assistant. The "
+"assistant can respond to email on the manager’s behalf, create folders to "
+"organize messages, and delete messages."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:105
+msgid ""
+"Instead of sending email messages to dozens of addresses every time you have "
+"an announcement, you can identify one of your folders as a public folder "
+"that contains the email announcements. You can assign shared access to only "
+"specific email addresses and set a password that must be entered to view the "
+"content. Or you can create a URL, and anyone who has the URL can view the "
+"content."
+msgstr ""
+
+#. type: Title ==
+#: sharingfolders.adoc:106
+#, no-wrap
+msgid "Share Calendars"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:112
+msgid ""
+"You can share your calendars with internal and external users. Sharing your "
+"calendar is a way to let others see or handle your schedule. You can choose "
+"to make the calendar view-only or allow someone to create meetings and "
+"manage invites."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:115
+msgid ""
+"When you share your calendars with internal users, you can select the type "
+"of access the internal users can have:"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:117
+#, no-wrap
+msgid "*Manager* gives full access to view and modify the calendar.\n"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:120
+#, no-wrap
+msgid ""
+"*Administrator* gives full access to view, modify, share, and revoke\n"
+"calendar shares.\n"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:123
+#, no-wrap
+msgid ""
+"*Viewer* gives read-only access. External guests and the public have\n"
+"read-only access\n"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:129
+msgid ""
+"Users with manager or administrator access can create meeting invitations "
+"and send them on your behalf, and accept and decline meeting invitations on "
+"your behalf. When the user sends an email response to a meeting, the return "
+"message header shows the From as the user’s address and an *On Behalf of* "
+"address as your address."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:134
+msgid ""
+"The calendar you share shows your private appointment time as busy but does "
+"not show details about the appointment. When you create the share, you can "
+"select to allow internal users or groups and external guests to see your "
+"private appointment details."
+msgstr ""
+
+#. type: Title ==
+#: sharingfolders.adoc:135
+#, no-wrap
+msgid "Share Address Books"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:141
+msgid ""
+"You can share any of your address books with internal and external users. "
+"Sharing your address book is useful for giving others access to contacts for "
+"a specific project. You can choose to make the address book view-only or "
+"allow internal users to edit, add, and delete names."
+msgstr ""
+
+#. type: Title ==
+#: sharingfolders.adoc:142
+#, no-wrap
+msgid "Access Privileges"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:146
+msgid ""
+"You can share your folders with specific internal users and external users "
+"or make a folder public."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:151
+msgid ""
+"External and public users can only view content - they cannot make changes. "
+"When you share a folder with internal users, you determine the type of "
+"access privileges to give the user. You can set permissions per user or "
+"group."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:153
+msgid "You can edit the access rights and revoke permissions at any time."
+msgstr ""
+
+#. type: Title ===
+#: sharingfolders.adoc:154
+#, no-wrap
+msgid "Roles for Internal Users"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:158
+msgid ""
+"You assign internal users or groups privileges using roles. The user or "
+"group must have a valid address in your company’s mail server."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:161
+#, no-wrap
+msgid ""
+"*Viewer*. Can read the contents of the shared folder, but cannot make\n"
+"changes to the content.\n"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:164
+#, no-wrap
+msgid ""
+"*Manager*. Can view and edit the content of a shared folder, create new\n"
+"sub folders, edit and delete files in the shared folder.\n"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:167
+#, no-wrap
+msgid ""
+"*Admin*. Can view, edit, add, remove, accept, decline, and administer\n"
+"content.\n"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:171
+#, no-wrap
+msgid ""
+"*None*. Temporarily disables access to a shared folder without revoking\n"
+"the share privileges. Users still have the shared folder in their\n"
+"mailbox but cannot view or manage the content.\n"
+msgstr ""
+
+#. type: Title ==
+#: sharingfolders.adoc:172
+#, no-wrap
+msgid "Share a Folder from the Preferences Sharing Page"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:175
+msgid "Go to the *Preferences>Sharing* page."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:178
+msgid ""
+"In the *Share a Folder* section, select the type of folder to share from the "
+"drop-down menu."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:180
+msgid "Click *Share*."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:182
+msgid "Select the folder to share and click *OK*."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:190
+msgid ""
+"For *Internal users or groups*, enter the user’s email addresses. In the "
+"*Role* area, select the access privileges."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:194
+msgid ""
+"For *External guests*, enter user’s email addresses. External guests are "
+"sent an email message with a link to the shared item. They create a display "
+"name and password the first time they view the shared item."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:196
+msgid "For the *Public*, enter the *URL* to use."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:203
+msgid "If you select *Public*, you must notify the public of the URL."
+msgstr ""
+
+#. type: Title ==
+#: sharingfolders.adoc:206
+#, no-wrap
+msgid "Change Access From the Sharing Preferences Page"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:210
+msgid ""
+"In the Folders shared by me section on the Sharing page select the name of "
+"the user to change."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:212
+msgid "In the Actions column you can edit, revoke or resend a shared item."
+msgstr ""
+
+#. type: delimited block |
+#: sharingfolders.adoc:218
+#, no-wrap
+msgid "|Edit |\n"
+msgstr ""
+
+#. type: delimited block |
+#: sharingfolders.adoc:220
+#, no-wrap
+msgid "To open the Shared Properties dialog and change the role.\n"
+msgstr ""
+
+#. type: delimited block |
+#: sharingfolders.adoc:222
+#, no-wrap
+msgid "|Revoke |\n"
+msgstr ""
+
+#. type: delimited block |
+#: sharingfolders.adoc:224
+#, no-wrap
+msgid "To open the Revoke Share dialog and cancel the shared folder.\n"
+msgstr ""
+
+#. type: delimited block |
+#: sharingfolders.adoc:226
+#, no-wrap
+msgid "|Resend |\n"
+msgstr ""
+
+#. type: delimited block |
+#: sharingfolders.adoc:228
+#, no-wrap
+msgid "To resend the share notice.\n"
+msgstr ""
+
+#. type: Title ==
+#: sharingfolders.adoc:231
+#, no-wrap
+msgid "Changing User Access to a Shared Folder"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:235
+msgid ""
+"You can change the share privileges that you have assigned to a user or "
+"group."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:239
+msgid ""
+"Right-click on the shared folder to change and select *Edit Properties*. The "
+"*Folder Properties* dialog box displays the names that share the folder."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:242
+msgid ""
+"Under *Sharing for this folder*, click *Edit* next to the name to change."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:244
+msgid "In the *Share Properties* dialog box, change the privileges."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:247
+msgid ""
+"You can temporarily disable access to a shared folder without revoking the "
+"share privileges by selecting *None*."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:249
+msgid "Select whether you want to inform the user via email."
+msgstr ""
+
+#. type: Title ==
+#: sharingfolders.adoc:252
+#, no-wrap
+msgid "Removing User Access to a Shared Folder"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:256
+msgid ""
+"Click the shared folder and select *Edit Properties*. The Folder Properties "
+"dialog box displays the names that share the folder."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:258
+msgid "Click *Revoke* next to the user name that is being removed."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:261
+msgid ""
+"In the *Revoke Share* dialog box select whether to send a standard message "
+"or to add a note to your message."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:263
+msgid "Click *Yes*."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:265
+msgid "The user can no longer access your folder."
+msgstr ""
+
+#. type: Title ==
+#: sharingfolders.adoc:266
+#, no-wrap
+msgid "Accepting an Invitation to Share Items"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:270
+msgid ""
+"If you receive an email notice that you have been granted access to share "
+"another person's mail folder, you can accept or decline the share."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:274
+msgid ""
+"If you accept, the shared folder displays in the specified application’s "
+"list in the Overview pane. This information is not actually saved in your "
+"mailbox."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:276
+msgid "To accept the invitation, click *Accept Share*."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:279
+msgid ""
+"In the *Accept Share* dialog box, you can change the folder name and select "
+"a color to highlight the folder."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:282
+msgid ""
+"Select whether to send a confirmation to the person who sent the invitation."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:285
+msgid ""
+"Click *Yes*. The folder is added to your Overview pane, and the message is "
+"moved to your Trash folder."
+msgstr ""
+
+#. type: Title ==
+#: sharingfolders.adoc:286
+#, no-wrap
+msgid "Managing Your Shared Items"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:292
+msgid ""
+"The *Preferences>Sharing* page shows items that are shared with you and "
+"items that are shared by you. You can also find items that have been shared "
+"with you but you have not yet accepted the share. This page is organized "
+"into the following sections:"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:295
+msgid ""
+"Folders that have been shared with me but not yet accepted. In this section "
+"you toggle between two views:"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:299
+#, no-wrap
+msgid ""
+"*Show folders shared with me through a distribution list*. This\n"
+"option is selected by default. If folders are shared with you through\n"
+"a DL, the fields are populated with the shared item information.\n"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:305
+#, no-wrap
+msgid ""
+"*Show folders shared with me by the following user*. When you select\n"
+"this option, enter a name of a user that has shared an item with\n"
+"you. The information is displayed in one of the fields depending on\n"
+"whether you have accepted a share invitation or not. You can view\n"
+"information from one user at a time. The details are not saved.\n"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:308
+#, no-wrap
+msgid ""
+"*Folders shared with me that I have accepted*. In this section, the\n"
+"folders that are shared with you are listed.\n"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:314
+#, no-wrap
+msgid ""
+"*Folders shared by me*. In this section your shared folders are listed\n"
+"with details about how the share was set up, including the role you\n"
+"assigned the user and the item shared. You can edit the share\n"
+"properties, revoke permissions to your share, and resend the\n"
+"invitation.\n"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:317
+#, no-wrap
+msgid ""
+"*Share a Folder*. You can share your email, address book, calendar,\n"
+"tasks, , and briefcase folders from here as well.\n"
+msgstr ""
+
+#. type: Title ==
+#: sharingfolders.adoc:318
+#, no-wrap
+msgid "Finding Items Shared With You"
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:324
+msgid ""
+"Sometimes you might not get an email notification that an item is shared "
+"with you, or your organization might have shared items with the public that "
+"you would like to find. The Find Shares link helps you find items that can "
+"be shared with you."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:327
+msgid ""
+"From the Mail tab in the Overview pane, click the gear icon in *Mail "
+"Folders* heading."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:329
+msgid "Click *Find Shares*."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:333
+msgid ""
+"In the Add Shared Folder dialog box, select the item shared with you that "
+"you have not accepted, or in the *Finds Shares* text box, enter an email "
+"address to see if an item was shared with you from that address."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:337
+msgid ""
+"In the Include drop down menu, select which application to search. Select "
+"*All applications* to search all applications for items shared with you."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:339
+msgid "Click *Search*."
+msgstr ""
+
+#. type: Plain text
+#: sharingfolders.adoc:341
+msgid "Select the items you want to accept."
+msgstr ""

@@ -1,0 +1,1427 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-09-11 23:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: delimited block |
+#: composingemail.adoc:83 managingcalendars.adoc:28 managingcontacts.adoc:258
+#: managingemail.adoc:76 organizingaccount.adoc:14 readingmessages.adoc:107
+#: retrievingmail.adoc:108 schedulingappointments.adoc:657
+#: searchingforitems.adoc:181 sharingfolders.adoc:216 usingtasks.adoc:74
+#: usingtasks.adoc:100 usingtasks.adoc:161 usingtasks.adoc:222
+#: workinginbriefcase.adoc:79
+#, no-wrap
+msgid "|Option |Description\n"
+msgstr ""
+
+#. type: Plain text
+#: composingemail.adoc:134 composingemail.adoc:219 composingemail.adoc:286
+#: composingemail.adoc:394 gettingstarted.adoc:102 gettingstarted.adoc:162
+#: managingcalendars.adoc:56 managingcalendars.adoc:215
+#: managingcalendars.adoc:401 managingcontacts.adoc:62 managingcontacts.adoc:96
+#: managingcontacts.adoc:146 managingcontacts.adoc:169
+#: managingcontacts.adoc:217 managingemail.adoc:61 managingemail.adoc:349
+#: organizingaccount.adoc:185 organizingaccount.adoc:202
+#: organizingaccount.adoc:213 organizingaccount.adoc:227
+#: organizingaccount.adoc:282 organizingaccount.adoc:455
+#: readingmessages.adoc:72 readingmessages.adoc:94 readingmessages.adoc:126
+#: replyandforwardmessages.adoc:25 replyandforwardmessages.adoc:107
+#: retrievingmail.adoc:76 retrievingmail.adoc:95 retrievingmail.adoc:127
+#: schedulingappointments.adoc:549 schedulingappointments.adoc:602
+#: schedulingappointments.adoc:620 schedulingappointments.adoc:636
+#: schedulingappointments.adoc:687 searchingforitems.adoc:58
+#: sendingsecureemail.adoc:71 usingtasks.adoc:140 usingtasks.adoc:151
+#: usingzimlets.adoc:23 usingzimlets.adoc:30 workinginbriefcase.adoc:137
+msgid "Click *Save*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:22 managingcalendars.adoc:211
+#: schedulingappointments.adoc:530 schedulingappointments.adoc:631
+#: schedulingappointments.adoc:646
+msgid "Go to the *Preferences>Calendar* page."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:108 managingcalendars.adoc:285
+#: managingcalendars.adoc:315 managingcontacts.adoc:71
+#: managingcontacts.adoc:122 managingcontacts.adoc:182
+#: managingcontacts.adoc:240 managingcontacts.adoc:281 managingemail.adoc:133
+#: managingemail.adoc:159 managingemail.adoc:223 managingemail.adoc:323
+#: managingemail.adoc:367 replyandforwardmessages.adoc:130
+#: schedulingappointments.adoc:68 schedulingappointments.adoc:310
+#: schedulingappointments.adoc:347 schedulingappointments.adoc:490
+#: searchingforitems.adoc:386 sharingfolders.adoc:47 sharingfolders.adoc:205
+#: sharingfolders.adoc:251 usingmailfilters.adoc:129 usingmailfilters.adoc:169
+#: usingmailfilters.adoc:184 usingmailfilters.adoc:444
+#: usingmailfilters.adoc:457 usingtagsandfolders.adoc:32
+#: usingtagsandfolders.adoc:47 usingtagsandfolders.adoc:83
+#: usingtagsandfolders.adoc:119 usingtagsandfolders.adoc:124
+#: usingtasks.adoc:250 usingtasks.adoc:312 workinginbriefcase.adoc:42
+#: workinginbriefcase.adoc:103 workinginbriefcase.adoc:256
+msgid "Click *OK*."
+msgstr ""
+
+#. type: delimited block |
+#: managingemail.adoc:78 schedulingappointments.adoc:659
+#, no-wrap
+msgid "|Play a sound |\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingemail.adoc:89 schedulingappointments.adoc:665
+#, no-wrap
+msgid "|Flash the browser title |\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingemail.adoc:93 schedulingappointments.adoc:669
+#, no-wrap
+msgid "|Show a popup notification |\n"
+msgstr ""
+
+#. type: Plain text
+#: replyandforwardmessages.adoc:60 replyandforwardmessages.adoc:91
+#: replyandforwardmessages.adoc:119 schedulingappointments.adoc:239
+#: sendingsecureemail.adoc:113 sendingsecureemail.adoc:139
+#: workinginbriefcase.adoc:229
+msgid "Click *Send*."
+msgstr ""
+
+#. type: Title =
+#: schedulingappointments.adoc:1
+#, no-wrap
+msgid "Scheduling Appointments, Meetings and Events"
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:3
+#, no-wrap
+msgid "Scheduling Appointments, Meetings, and Events"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:9
+msgid ""
+"You can create single or recurring appointments, meetings and events. While "
+"creating an appointment you can see if attendees are free before inviting "
+"them, reserve a room and equipment and write a message that is sent with the "
+"invite."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:11
+msgid "Activities you schedule include:"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:17
+#, no-wrap
+msgid ""
+"*Appointments*. An appointment is an activity that you schedule that\n"
+"does not include other people or resources. When you schedule an\n"
+"appointment, no email is sent to confirm the appointment. You can set\n"
+"recurring appointments. *QuickAdd* can be used to quickly create an\n"
+"appointment.\n"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:21
+#, no-wrap
+msgid ""
+"*Events*. An event is an activity that lasts all day. Events do not\n"
+"display as time on the calendar, they appear as banner at the top of\n"
+"the calendar schedule.\n"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:26
+#, no-wrap
+msgid ""
+"*Meetings*. Meetings are appointments that include other people. When\n"
+"you create a meeting, you select attendees and resources and send an\n"
+"email invitation to them. You can reschedule meetings and set up\n"
+"recurring meetings.\n"
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:27
+#, no-wrap
+msgid "Creating an Appointment Quickly"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:31
+msgid ""
+"The QuickAdd option makes it easy to quickly create an appointment for "
+"yourself."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:36
+msgid ""
+"The QuickAdd feature is an option. If you would prefer to always open the "
+"Appointment page when you double-click or drag on the calendar, disable this "
+"feature from your Calendar Preferences."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:40
+msgid ""
+"Right-click on either the mini-calendar or the start time in one of your "
+"calendar views. You can select to create a *New Appointment* or a *New All "
+"Day Appointment*."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:43 schedulingappointments.adoc:81
+#: schedulingappointments.adoc:151
+msgid ""
+"In the *Subject* text box, add a brief description of the meeting. The text "
+"added here becomes the description in the calendar."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:48 schedulingappointments.adoc:178
+msgid ""
+"In the *Location* text box enter where the meeting is. If the location is in "
+"the company directory, when you start to type, locations that match are "
+"listed. You can also click *Suggest a location* to see a list of available "
+"locations in your company"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:51
+msgid ""
+"In the *Display* drop down menu, select the Free/Busy option for this "
+"appointment."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:54
+msgid ""
+"If this appointment should be added to a calendar other than the default "
+"Calendar, select the calendar."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:60
+msgid ""
+"In the *Mark As* drop down select where the appointment is private or "
+"public. Details about events that are marked private do not display in a "
+"grantee's shared calendar. Only the start and end time, duration, recurrence "
+"information, and the organizer's identity are shown in the shared calendar."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:63
+msgid ""
+"Define the start and end day and time. If the appointment is recurring, in "
+"*Repeat*, select the how often this appointment should be scheduled."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:66
+msgid ""
+"(Optional) If you want to add other attendees, schedule a resource, or add "
+"notes to the appointment, click *More Details*."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:69
+#, no-wrap
+msgid "Creating a Meeting from the Appointment Page"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:72
+msgid "You can create an appointment from the Calendar tab."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:74 schedulingappointments.adoc:144
+msgid "On the Calendar header, click *New Appointment*."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:78 schedulingappointments.adoc:148
+msgid ""
+"If the *From* field displays above the Subject line, you created more than "
+"one persona for your account. Select the identity to use when creating this "
+"appointment."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:85
+msgid ""
+"Define the start and end day and time. If the appointment is recurring, in "
+"*Repeat*, select the how often this appointment should be scheduled. Select "
+"*All day* to make this appointment all day."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:89
+msgid ""
+"In the *Attendees* text box, type the email addresses, separating addresses "
+"by a semicolon (;). As you enter names, the Scheduler opens and the "
+"attendees' free/busy information is displayed."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:94 schedulingappointments.adoc:162
+msgid ""
+"To help you find a time when all attendees are available, click *Suggest a "
+"time*. A calendar displays with the availability. As you enter attendee "
+"names, the scheduling tool begins to suggest times that all the attendees "
+"are available."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:99 schedulingappointments.adoc:167
+msgid ""
+"If an attendee has set a preference to allow only certain users to see free/"
+"busy information and you are excluded from the list, you cannot view the "
+"free/busy schedule"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:105
+msgid ""
+"If some attendees are not required to be at the meeting, but you want to "
+"invite them, select *Show Optional* and type email address in the field. You "
+"can also do this in the Scheduler. Click the icon next to the name and "
+"select *Optional Attendee*. When the invite is sent, their names are listed "
+"as optional."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:110
+msgid ""
+"In the *Location* text box enter where the meeting is. If the location is in "
+"the company directory, when you start to type, locations that match are "
+"listed. You can also click *Suggest a location* to see a list of available "
+"locations in your company."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:113
+msgid ""
+"Click *Show Equipment* if you want to reserve equipment resources that have "
+"been identified in your company’s directory."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:117 schedulingappointments.adoc:182
+msgid ""
+"In the *Display*, select the Free/Busy option for this appointment, which "
+"calendar the appointment should be added to, and whether this appointment "
+"should be marked as Private."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:120
+msgid ""
+"In the *Reminder* drop-down menu, set an alarm notification to remind of the "
+"appointment."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:126
+msgid ""
+"To receive a notification of this meeting, check the appropriate box, "
+"*Email* or *SMS*.  If you have not configured a notification method, click "
+"*Configure* to go to the *<<_setting_email_and_sms_reminder_notification,"
+"Preference>Notifications>>* page to set this up."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:130 schedulingappointments.adoc:196
+msgid ""
+"In the text box below Scheduler, type an email message that is included in "
+"the appointment invitation. To add attachments, click the paperclip icon on "
+"the toolbar."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:134
+msgid ""
+"The default is to ask the attendees to reply to your invitation. If you do "
+"not want a response from the attendees, in the Calendar toolbar, click "
+"*Options>Request* Response to remove the check mark."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:137 schedulingappointments.adoc:203
+msgid ""
+"If you do not want to send the invite out at this time, click *Save*. "
+"Otherwise click *Send*."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:138
+#, no-wrap
+msgid "Scheduling an All-Day Appointment"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:142
+msgid ""
+"You can use the calendar to schedule an all day appointment, which is called "
+"an event."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:153
+msgid "Select *All day* and select the start and stop date."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:157
+msgid ""
+"In the Attendees text box, type the email addresses, separating addresses by "
+"a semicolon (;). As you enter names, the Scheduler opens and the attendees "
+"free/busy information is displayed."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:173
+msgid ""
+"If some attendees are not required to be at the meeting, but you want to "
+"invite them, select *Show Optional* and type email address in the field. You "
+"can also do this in the Scheduler. Click the icon next to the name and "
+"select Optional Attendee. When the invite is sent, their names are listed as "
+"optional."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:185
+#, no-wrap
+msgid ""
+"*Reminder*. Set an alarm notification to remind invitees of the\n"
+"appointment.\n"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:192
+msgid ""
+"If you configured an email address or SMS alert in your "
+"*Preferences>Notifications* page, check the appropriate box, *Email* or "
+"*SMS*.  If you have not configured a notification, click *Configure* to go "
+"to the *<<_setting_email_and_sms_reminder_notification,,Notifications>>* "
+"page to set this up."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:200
+msgid ""
+"The default is to ask the attendees to reply to your invitation. If you do "
+"not want a response from the attendees, in the appointment toolbar, click "
+"*Options>Request Response* to remove the check mark."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:204
+#, no-wrap
+msgid "Quick Appointments from the Mini Calendar"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:208
+msgid ""
+"Right click on the mini-calendar and select *New Appointment* or *New All "
+"Day Appointment*. The QuickAdd Appointment dialog box opens."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:209
+#, no-wrap
+msgid "Using Email Messages to Set Up Meetings"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:215
+msgid ""
+"You can quickly create a meeting request by dragging and dropping a message, "
+"conversation to a date on the mini-calendar. When you drag and drop a "
+"message or conversation, the information in the message is used to populate "
+"many of the fields on the Appointment page."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:218
+msgid ""
+"Click a specific message or conversation and drag it to a date on the mini-"
+"calendar."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:221
+msgid ""
+"The Add Attendees dialog opens The appointment page opens with many of the "
+"fields populated from information in the message."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:223
+msgid "The Subject of the appointment is the subject of the message."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:228
+msgid ""
+"The attendees are all the email addresses in the To: and Cc: fields of the "
+"message, or the most recent message in conversations. When you drag a "
+"contact from your contacts lists the mini-calendar, the contact's first "
+"email address is added to the attendee field."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:231
+msgid ""
+"The text of the message becomes the text of the invitation. Message "
+"attachments are not attached to the appointment request."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:234
+msgid ""
+"In the appointment page, review the meeting request details and make any "
+"necessary changes."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:237
+msgid ""
+"Set the time for the meeting, and, if this meeting recurs, set any "
+"recurrence."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:240
+#, no-wrap
+msgid "Create a Meeting Request From a Contact"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:245
+msgid ""
+"Click on a name from your *Contacts>Contact lists* address book and drag the "
+"name to a date on the mini-calendar. The appointment page opens with the "
+"contact name in the Attendees field."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:248
+msgid ""
+"Enter the subject, location, time, and other attendees. if this meeting "
+"recurs, set any recurrence."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:250
+msgid "Click *OK* to send the invitation."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:251
+#, no-wrap
+msgid "Scheduling an Appointment Within an Email Message"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:257
+msgid ""
+"Within an email message, certain text is interpreted as a date and triggers "
+"the ability to right-click to create an appointment. Text such as \"today\", "
+"\"tomorrow\", a day of the week (i.e. \"Thursday\"), or an exact date are "
+"highlighted in messages."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:260
+msgid ""
+"Hover the mouse over this type of text to see if you have an appointment "
+"scheduled."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:262
+msgid "Click on the highlighted text to open your calendar."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:264
+msgid "Create the appointment."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:265
+#, no-wrap
+msgid "Creating an Appointment from an Existing Appointment"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:271
+msgid ""
+"You can create appointment similar to an existing appointment and the "
+"existing attendees, location, notes and recurrent pattern can be quickly set "
+"up for new dates and times. You can also modify any of the information "
+"before sending the invite."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:275
+msgid ""
+"Right-click on the appointment to copy and select *Create a Copy*. The "
+"appointment compose page opens with all the information of the copied "
+"meeting added to the appointment page."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:278
+msgid ""
+"To create an appointment exactly as the one you copied, but on another date, "
+"you only need to change the start and end date."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:280
+msgid "Make any other changes to attendees, location, text, etc."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:283
+msgid ""
+"Click *Send* and a invite is sent to attendees and the appointment is added "
+"to your calendar."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:284
+#, no-wrap
+msgid "Using the Scheduling Tool to View Location Availability"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:289
+msgid ""
+"The Calendar scheduling tool can assist you with finding the next-available "
+"free times and meeting locations across your organization. You can set up "
+"preferences for preferred meeting times, buildings, location and room size."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:294
+msgid ""
+"As you enter attendee names, the scheduling tool begins to suggest times and "
+"locations in the Overview pane. You also have the option to look for a "
+"location for your meeting before adding attendees. If you set up your "
+"location preferences, only these locations are displayed."
+msgstr ""
+
+#. type: Title ===
+#: schedulingappointments.adoc:295
+#, no-wrap
+msgid "Using the Scheduling Tool to Set Location Preferences"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:300
+msgid ""
+"If you always want to reserve rooms that are in a specific location, you can "
+"use the Suggested Location tool in the Calendar application to suggest the "
+"availability of those rooms when you create an appointment."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:302
+msgid "In the *New Appointment* page, click *Suggest a location*."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:304
+msgid "In the pane that opens, click the gear icon."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:308
+msgid ""
+"In the *Suggestion Preferences* dialog box, Location Preferences section "
+"enter the information about the location. You can enter just the name of the "
+"location, or you can be more specific."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:314
+msgid ""
+"The column on the right displays locations that meet your requirements. Room "
+"locations are displayed if they have been configured in the company "
+"directory."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:317
+msgid ""
+"Once you set this up for an appointment, this information is saved and "
+"available when you make other appointments."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:318
+#, no-wrap
+msgid "Using the Scheduling Tool to Find Attendee Availability"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:324
+msgid ""
+"When you schedule meetings, you can check to see when attendees are busy or "
+"free so you can find a good time for all attendees to meet. As you add "
+"attendees to the Attendees field, a suggestion panel in the Overview pane "
+"shows availability in 30 minute time slots for the attendees."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:327
+msgid ""
+"The default time preference is to suggest time within your working hours and "
+"within the attendee’s working hours."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:330
+msgid ""
+"Only include my working hours. This is the work week and hours you set in "
+"your Calendar preferences."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:333
+msgid ""
+"Only include other attendee’s working hours. When searching for a location "
+"it takes into consideration everyone’s working hours."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:335
+msgid "You can change this."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:337
+msgid "In the *New Appointment* page, click *Suggest a time*."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:339
+msgid "In the *Suggest Times* pane that opens, click the gear icon."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:342
+msgid ""
+"Deselect the boxes you do not want used to calculate attendee availability."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:345
+msgid ""
+"If is a recurring meeting, select how many instance of the recurring meeting "
+"an attendee should be available."
+msgstr ""
+
+#. type: Title ===
+#: schedulingappointments.adoc:348
+#, no-wrap
+msgid "View Availability in the Mini-Calendar"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:351
+msgid "The mini-calendar suggests attendee availability by color code."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:354
+msgid ""
+"Green in the calendar are the days that all attendees and at least one "
+"location is available."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:357
+msgid ""
+"Red means more than half of the attendees cannot attend the meeting on those "
+"days."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:358
+#, no-wrap
+msgid "Scheduling Equipment"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:364
+msgid ""
+"When you set up a meeting and schedule equipment for use in the meeting, you "
+"select the equipment and “invite” it to the meeting. The equipment resource "
+"account receives the invite and if it is free, accepts the meeting."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:371
+msgid ""
+"Administrators set up equipment accounts and configure the equipment’s "
+"scheduling policy. A meeting can be declined if the equipment already has a "
+"meeting scheduled for that time. In some cases, the equipment scheduling "
+"policy is set up to allow the equipment to accept dates in recurring "
+"meetings even if there are conflicts. You receive an email showing which "
+"dates conflict."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:372
+#, no-wrap
+msgid "Configure Your Default Meeting Duration"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:377
+msgid ""
+"If most of the meetings you schedule are for the same period of time, you "
+"can set this in your preferences. When you set the start time, the end time "
+"is automatically set based on the setting."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:380
+msgid ""
+"Go to *Preferences>Calendar* and in the *Default appointment duration* drop-"
+"down menu select the number of minutes your meetings usually run."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:381
+#, no-wrap
+msgid "Changing an Appointment or Meeting"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:385
+msgid ""
+"You can change meeting or appointment information. If you created a "
+"recurring meeting, you can change one occurrence or the series of meetings."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:388
+msgid ""
+"You can select to send or not send an email to attendees to update the "
+"meeting details."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:390
+msgid "Double-click on the meeting that you want to change."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:392
+msgid "If the meeting is recurring, the *Open Recurring Item* dialog opens."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:395
+msgid ""
+"You can change either a single instance of a recurring meeting or the entire "
+"series."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:397
+msgid "Click *OK* to open the *Appointment* page."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:399
+msgid "Change any information necessary."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:403
+msgid ""
+"The default is to ask the attendees to reply to your invitation. If you do "
+"not want a response from the attendees, in the Calendar toolbar, click "
+"*Options>Request Response* to remove the check mark."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:405
+msgid "Click *Send* to send the revised meeting details to the attendees."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:406
+#, no-wrap
+msgid "Move All Day Events to a New Day"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:410
+msgid ""
+"To change the date for an all day event, in the Calendar view select the "
+"event and drag it to the new date."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:411
+#, no-wrap
+msgid "Forward a Meeting Invite"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:414
+msgid "You can forward invite emails you receive."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:416
+msgid "In Calendar view, select the appointment to forward"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:419
+msgid ""
+"Right-click the appointment and select Instance or Series, and select "
+"*Forward Instance*."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:422
+msgid ""
+"In the email that opens, enter the forwarding addresses, add any comments to "
+"the Compose text area and click *Send*."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:423
+#, no-wrap
+msgid "Resend an Meeting Invitation"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:426
+msgid "As the organizer of a meeting you can resend a meeting invitation."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:430
+msgid ""
+"In Calendar view, right-click a meeting that you organized and select *Re-"
+"invite Attendees*. The invitation is immediately re-sent to all attendees."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:431
+#, no-wrap
+msgid "Cancelling a Meeting"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:437
+msgid ""
+"If you created a meeting, you can cancel it. If you created a recurring "
+"meeting, you can delete one occurrence or the entire series. An email is "
+"sent to attendees to inform them of the cancelled meeting. Deleting a "
+"meeting is permanent; you cannot undo the deletion."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:442
+msgid ""
+"Only the originator of an appointment can cancel the appointment. Attendees "
+"can remove the appointment from their own calendars, but they cannot cancel "
+"the entire appointment."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:445
+msgid ""
+"In the calendar view, right-click the meeting and select *Cancel*. A "
+"confirmation box appears."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:448 schedulingappointments.adoc:476
+msgid ""
+"Click *Edit Message* to edit the email sent to attendees. Click *Send* to "
+"send the cancellation message."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:451 schedulingappointments.adoc:463
+msgid ""
+"The appointment is immediately removed from your calendar. An email is sent "
+"to the attendees, and the appointment is deleted from their calendars."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:452
+#, no-wrap
+msgid "Delete One Meeting in a Series"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:455
+msgid "Right-click on the appointment and select *Instance*."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:457
+msgid "Select *Delete Instance*."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:460
+msgid ""
+"When deleting an instance, click *Edit Message* to edit the email sent to "
+"attendees. Click *Send* to send the cancellation message."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:464
+#, no-wrap
+msgid "Delete All Meetings in a Series"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:467
+msgid "Right-click on the appointment and select *Series*."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:469
+msgid "Select *Delete Series*."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:473
+msgid ""
+"Select either to delete all occurrences of the meeting from your calendar "
+"(both past dates and future dates) or to delete all references from this "
+"date and future dates. Click *Yes*."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:480
+msgid ""
+"The appointment is immediately removed from your calendar. An email is sent "
+"to the attendees, and the appointment is deleted from their calendars. You "
+"cannot undo a delete."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:481
+#, no-wrap
+msgid "Printing an Appointment or Meeting"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:484
+msgid "You can print the appointment details."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:486
+msgid "Open the appointment."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:488
+msgid "Click the *Print* icon on the toolbar."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:491
+#, no-wrap
+msgid "Send Invites to Attendees in Different Time Zones"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:500
+msgid ""
+"If the time zone is displayed in the appointment page, it reflects the time "
+"zone that you are in. You usually do not need to change this. When you "
+"schedule meetings with attendees in different time zones, the invitation is "
+"sent reflecting the meeting time in their time zone. For example, if you "
+"create a meeting with attendees in California and New York, the invitation "
+"displays Pacific time for attendees in California and Eastern time (three "
+"hours later) for attendees in New York."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:501
+#, no-wrap
+msgid "Send Your Free/busy Status to Others"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:505
+msgid ""
+"You can email a link of your free/busy status that shows appointments in "
+"your personal and shared calendars."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:507
+msgid "Click the Calendar tab."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:509
+msgid "In the Calendar Overview pane, click the gear icon."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:512
+msgid ""
+"Click *Send Free & Busy Link* As and select to send the information as "
+"either *HTML*, *ICS*, or an *ICS Event*."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:516
+msgid ""
+"In the *Compose Email* page that opens complete the address and subject "
+"line. The calendar link is in the text area. Add more information if you "
+"want."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:518
+msgid "Click *Send* to send the email to the users."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:522
+msgid ""
+"The recipients can click the link to view your schedule. Your calendar "
+"updates itself for the recipients when you add new events to your calendars."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:523
+#, no-wrap
+msgid "Display Your Free/Busy Information"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:528
+msgid ""
+"The free/busy feature allows others to see meeting times scheduled on your "
+"calendars. The free/busy feature is on by default, but you can turn it off "
+"or limit who can see the information."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:533
+msgid ""
+"Scroll to the *Permissions* section, select the *Free/Busy* option that you "
+"want to set for this calendar."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:537
+msgid ""
+"If you select *Allow only the following internal users to see my free/busy "
+"information*, in the text field enter the email address of the internal "
+"users."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:540
+msgid ""
+"(Optional) In the *Invites* section, specify who can invite you to meetings."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:544
+msgid ""
+"If you select *Allow only the following internal users to see my free/busy "
+"information*, in the text field, enter their internal user names or full "
+"email address."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:547
+msgid ""
+"If you limit who can invite you to meetings, you might want to select *Send "
+"to send an auto-reply to users who are denied from inviting me*."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:553
+msgid ""
+"These settings do not affect calendars that you have configured to not "
+"display free/busy information."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:554
+#, no-wrap
+msgid "Responding to a Meeting Invitation"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:560
+msgid ""
+"Invitations to meetings are delivered to your Inbox, and if you have the "
+"Calendar preferences *General>Default appointment visibility>Automatically "
+"add received appointments to calendar* enabled, the meeting is also added to "
+"your default Calendar and marked New."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:563
+msgid ""
+"You can respond to the invitation either from the Inbox or from the Calendar "
+"pane."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:566
+msgid ""
+"Open the message that contains the meeting request in either Inbox or right-"
+"click the appointment in the Calendar."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:570
+msgid ""
+"Select whether you want to accept or decline the meeting. If you want to "
+"propose a new time, the meeting organizer receives an email with the "
+"suggested time."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:572
+msgid "A reply is automatically sent to the meeting organizer."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:575
+msgid ""
+"After you respond to the meeting invitation, the invitation is moved to the "
+"Trash, and *New* is removed from the calendar notice."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:579
+msgid ""
+"Declined appointments display on your calendar in a faded view, as a "
+"reminder of the meetings you declined. You can delete the declined meetings "
+"any time."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:580
+#, no-wrap
+msgid "Setting Email and SMS Reminder Notification"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:586
+msgid ""
+"You can set up to have appointment and task reminders sent to you through "
+"email and as a text message to your mobile device.  The reminder is sent "
+"according to the Reminder time that is configured in the task or appointment."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:594
+msgid ""
+"You can set notification up when you are working in a task or calendar page "
+"and click *Configure*.  A notification you set up or change from a task or "
+"calendar page, changes the address or phone number in the "
+"*Preferences>Notifications* page. A notification is then sent to you about "
+"the upcoming task or calendar even. You cannot set up different notification "
+"address or SMS number for different tasks and calendar items."
+msgstr ""
+
+#. type: Title ===
+#: schedulingappointments.adoc:595
+#, no-wrap
+msgid "Set up Email Notification"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:598 schedulingappointments.adoc:606
+msgid "Go to *Preferences>Notifications*."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:600
+msgid "Enter the email address that should be sent the reminder."
+msgstr ""
+
+#. type: Title ===
+#: schedulingappointments.adoc:603
+#, no-wrap
+msgid "Set up SMS Notification"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:608
+msgid "Select your country from the *Region* drop-down menu."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:610
+msgid "Select your phone carrier from the *Carrier* drop-down menu."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:612
+msgid "Enter your phone number in the *Phone Number* field."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:614
+msgid "Click *Send Verification Code*.  A text message is sent to your phone."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:616
+msgid ""
+"Enter the code you received in the message in the *Verification Code* field."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:618
+msgid "Click *Validate Code*. The Status field shows the confirmed number."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:621
+#, no-wrap
+msgid "Automatically add received appointments to calendar."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:626
+msgid ""
+"Email invitations sent to your Inbox can be automatically added to your "
+"calendar. You can accept or decline the invite from either the Inbox or "
+"Calendar."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:629
+msgid ""
+"When this option is not checked, the appointment is added to your calendar "
+"when you click Accept or Tentative in the message."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:634
+msgid ""
+"In the *General* section select *Automatically add received appointments to "
+"calendar*."
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:637
+#, no-wrap
+msgid "Show reminders"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:644
+msgid ""
+"You can set up meeting reminders. The default is five minutes. You can also "
+"choose to *Play a sound* with the reminder. If your computer volume is set "
+"to mute, you will not hear a sound. Select *Flash the browser title* if you "
+"are working in a different browser tab or browser window and choose to have "
+"the browser title flash to remind you."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:650
+msgid ""
+"In the *General>Show Reminders* section, set how many minutes before "
+"meetings to send you a reminder. This is the default and you can change it "
+"for individual meetings."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:653
+msgid ""
+"Select how you want to be notified about an upcoming meeting. Select any of "
+"these options."
+msgstr ""
+
+#. type: delimited block |
+#: schedulingappointments.adoc:663
+#, no-wrap
+msgid ""
+"You are notified by a beep. If you have your volume set to mute, you do not\n"
+"hear a sound. For this to work, you must have either QuickTime or Windows\n"
+"MediaCenter installed.\n"
+msgstr ""
+
+#. type: delimited block |
+#: schedulingappointments.adoc:667
+#, no-wrap
+msgid "You are notified by the browser title flashing.\n"
+msgstr ""
+
+#. type: delimited block |
+#: schedulingappointments.adoc:672
+#, no-wrap
+msgid ""
+"Information about the message displays. You must have Yahoo!BrowserPlus\n"
+"installed.\n"
+msgstr ""
+
+#. type: delimited block |
+#: schedulingappointments.adoc:675
+#, no-wrap
+msgid ""
+"To get a copy, go to\n"
+"http://browserplus.yahoo.com/\n"
+msgstr ""
+
+#. type: Title ==
+#: schedulingappointments.adoc:678
+#, no-wrap
+msgid "Hide Declined Meetings in Your Calendar"
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:683
+msgid ""
+"When you decline a meeting, the meeting continue to display on your calendar "
+"in a faded view. You can set your preferences so that meetings you decline "
+"do not display in your calendar."
+msgstr ""
+
+#. type: Plain text
+#: schedulingappointments.adoc:686
+msgid ""
+"Go the *Preferences>Calendar* page, in the General section deselect *Show "
+"declined meetings*."
+msgstr ""

@@ -1,0 +1,337 @@
+= Sharing Folders
+
+== Sharing Your Account Folders
+
+Sharing lets you give others access to folders in our account. You can share
+your mail folders, address books, calendars, briefcase and task lists
+folders. You specify which items to share and the level of access. You
+invite a user to share, and the user can accept or decline the invitation.
+
+The Sharing page under Preferences helps you manage your shared items. This
+page shows the folders you shared with others and folders that are shared
+with you.
+
+=== Sharing a Folder
+
+[NOTE]
+When you share your mail folders, you cannot share the Trash or Junk
+folders.
+
+  . Right-click the folder that you want to share.
+
+  . Click *Share Folder*.
+
+  . In the *Share Properties* dialog box, select whether you want to share with
+    internal, external, or public users.
+
+  . Depending on with whom you share, do the following:
+
+    * For *Internal users or groups*, enter the user’s email addresses. In the
+      *Role* area, select the <<_access_privileges>>.
+
+    * For *External guests*, enter user’s email addresses. External guests are
+      sent an email message with a link to the shared item. They create a display
+      name and password the first time they go to view the shared item.
+
+    * For *Public*, enter the *URL* to use.
+
+  . In the *Message* area, select which type of message to send to those who you
+    are granting access. This message can be sent to internal users and external
+    guests.
++
+[NOTE]
+If you selected *Public*, you must notify the public of the URL.
+
+  . Click *OK*.
+
+If the user accepts the invitation to share the folder, a copy of the folder
+is put in the user’s account.
+
+External users view shared items in by signing into an external
+{product-abbrev} account that was created when they accepted the share. Only
+items that are shared with external users are accessible in the external
+account.
+
+== Share Mail Folders
+
+You can share any of your mail folders, including your Inbox folder, with
+internal and external users. You cannot share the Trash and Junk
+folders. Users that you share with can see the content of the folder but the
+information is not saved to their mailboxes.
+
+Users that have the manager role have full permission to view and edit the
+contents of the shared mail folder, create new sub-folders, send email on
+your behalf, and delete email messages.
+
+Users with the admin role have full permission to view, edit the content of
+the mail folder, create new sub-folders, send email on your behalf, delete
+email messages, and share your mail folder with others.
+
+Copies of the messages the user sends on your behalf are saved in your
+mailbox, and if the user deletes something from your mailbox or marks it as
+spam, the message is moved to your Trash folder or Junk folder.
+
+If the user has access to more than one of your folders, the user can
+
+  * Move the contents from one folder to another folder in your mailbox.
+
+  * Copy an email message from your folders to their mail folders. Your folder
+    also retains a copy.
+
+  * Create folders within the shared mail folder. The new folder appears in the
+    your mailbox.
+
+=== Scenarios for Sharing a Mail Folder
+
+  * Your sales department wants one central mailbox for all email messages
+    requesting information about a product, and everyone in sales should be able
+    to view email messages when they come in. You can give everyone in the
+    department permission to view the mail folder, and they can copy the
+    messages to their mailbox. You could also give them permission to manage the
+    mail folder and reply on behalf of this address.
+
+  * A manager is often out of the office and does not have time to respond to
+    email messages, so access is granted to the manager’s assistant. The
+    assistant can respond to email on the manager’s behalf, create folders to
+    organize messages, and delete messages.
+
+  * Instead of sending email messages to dozens of addresses every time you have
+    an announcement, you can identify one of your folders as a public folder
+    that contains the email announcements. You can assign shared access to only
+    specific email addresses and set a password that must be entered to view the
+    content. Or you can create a URL, and anyone who has the URL can view the
+    content.
+
+== Share Calendars
+
+You can share your calendars with internal and external users. Sharing your
+calendar is a way to let others see or handle your schedule. You can choose
+to make the calendar view-only or allow someone to create meetings and
+manage invites.
+
+When you share your calendars with internal users, you can select the type
+of access the internal users can have:
+
+  * *Manager* gives full access to view and modify the calendar.
+
+  * *Administrator* gives full access to view, modify, share, and revoke
+    calendar shares.
+
+  * *Viewer* gives read-only access. External guests and the public have
+    read-only access
+
+Users with manager or administrator access can create meeting invitations
+and send them on your behalf, and accept and decline meeting invitations on
+your behalf. When the user sends an email response to a meeting, the return
+message header shows the From as the user’s address and an *On Behalf of*
+address as your address.
+
+The calendar you share shows your private appointment time as busy but does
+not show details about the appointment. When you create the share, you can
+select to allow internal users or groups and external guests to see your
+private appointment details.
+
+== Share Address Books
+
+You can share any of your address books with internal and external
+users. Sharing your address book is useful for giving others access to
+contacts for a specific project. You can choose to make the address book
+view-only or allow internal users to edit, add, and delete names.
+
+== Access Privileges
+
+You can share your folders with specific internal users and external users
+or make a folder public.
+
+External and public users can only view content - they cannot make
+changes. When you share a folder with internal users, you determine the type
+of access privileges to give the user. You can set permissions per user or
+group.
+
+You can edit the access rights and revoke permissions at any time.
+
+=== Roles for Internal Users
+
+You assign internal users or groups privileges using roles. The user or
+group must have a valid address in your company’s mail server.
+
+  * *Viewer*. Can read the contents of the shared folder, but cannot make
+    changes to the content.
+
+  * *Manager*. Can view and edit the content of a shared folder, create new
+    sub folders, edit and delete files in the shared folder.
+
+  * *Admin*. Can view, edit, add, remove, accept, decline, and administer
+    content.
+
+  * *None*. Temporarily disables access to a shared folder without revoking
+    the share privileges. Users still have the shared folder in their
+    mailbox but cannot view or manage the content.
+
+== Share a Folder from the Preferences Sharing Page
+
+  . Go to the *Preferences>Sharing* page.
+
+  . In the *Share a Folder* section, select the type of folder to share from the
+    drop-down menu.
+
+  . Click *Share*.
+
+  . Select the folder to share and click *OK*.
+
+  . In the *Share Properties* dialog box, select whether you want to share with
+    internal, external, or public users.
+
+  . Depending on with whom you share, do the following:
+
+    * For *Internal users or groups*, enter the user’s email addresses. In the
+      *Role* area, select the access privileges.
+
+    * For *External guests*, enter user’s email addresses. External guests are
+      sent an email message with a link to the shared item. They create a display
+      name and password the first time they view the shared item.
+
+    * For the *Public*, enter the *URL* to use.
+
+  . In the *Message* area, select which type of message to send to those who you
+    are granting access. This message can be sent to internal users and external
+    guests.
++
+[NOTE]
+If you select *Public*, you must notify the public of the URL.
+
+  . Click *OK*.
+
+== Change Access From the Sharing Preferences Page
+
+  . In the Folders shared by me section on the Sharing page select the name of
+    the user to change.
+
+  . In the Actions column you can edit, revoke or resend a shared item.
++
+[cols="1,2a", options="header"]
+|=======================================================================
+|Option |Description
+
+|Edit |
+
+To open the Shared Properties dialog and change the role.
+
+|Revoke |
+
+To open the Revoke Share dialog and cancel the shared folder.
+
+|Resend |
+
+To resend the share notice.
+
+|=======================================================================
+
+== Changing User Access to a Shared Folder
+
+You can change the share privileges that you have assigned to a user or
+group.
+
+  . Right-click on the shared folder to change and select *Edit Properties*. The
+    *Folder Properties* dialog box displays the names that share the folder.
+
+  . Under *Sharing for this folder*, click *Edit* next to the name to change.
+
+  . In the *Share Properties* dialog box, change the privileges.
++
+You can temporarily disable access to a shared folder without revoking the
+share privileges by selecting *None*.
+
+  . Select whether you want to inform the user via email.
+
+  . Click *OK*.
+
+== Removing User Access to a Shared Folder
+
+  . Click the shared folder and select *Edit Properties*. The Folder Properties
+    dialog box displays the names that share the folder.
+
+  . Click *Revoke* next to the user name that is being removed.
+
+  . In the *Revoke Share* dialog box select whether to send a standard message
+    or to add a note to your message.
+
+  . Click *Yes*.
+
+The user can no longer access your folder.
+
+== Accepting an Invitation to Share Items
+
+If you receive an email notice that you have been granted access to share
+another person's mail folder, you can accept or decline the share.
+
+If you accept, the shared folder displays in the specified application’s
+list in the Overview pane. This information is not actually saved in your
+mailbox.
+
+  . To accept the invitation, click *Accept Share*.
+
+  . In the *Accept Share* dialog box, you can change the folder name and select
+    a color to highlight the folder.
+
+  . Select whether to send a confirmation to the person who sent the invitation.
+
+  . Click *Yes*. The folder is added to your Overview pane, and the message is
+    moved to your Trash folder.
+
+== Managing Your Shared Items
+
+The *Preferences>Sharing* page shows items that are shared with you and
+items that are shared by you. You can also find items that have been shared
+with you but you have not yet accepted the share. This page is organized
+into the following sections:
+
+  * Folders that have been shared with me but not yet accepted. In this section
+    you toggle between two views:
+
+    * *Show folders shared with me through a distribution list*. This
+      option is selected by default. If folders are shared with you through
+      a DL, the fields are populated with the shared item information.
+
+    * *Show folders shared with me by the following user*. When you select
+      this option, enter a name of a user that has shared an item with
+      you. The information is displayed in one of the fields depending on
+      whether you have accepted a share invitation or not. You can view
+      information from one user at a time. The details are not saved.
+
+  * *Folders shared with me that I have accepted*. In this section, the
+    folders that are shared with you are listed.
+
+  * *Folders shared by me*. In this section your shared folders are listed
+    with details about how the share was set up, including the role you
+    assigned the user and the item shared. You can edit the share
+    properties, revoke permissions to your share, and resend the
+    invitation.
+
+  * *Share a Folder*. You can share your email, address book, calendar,
+    tasks, , and briefcase folders from here as well.
+
+== Finding Items Shared With You
+
+Sometimes you might not get an email notification that an item is shared
+with you, or your organization might have shared items with the public that
+you would like to find. The Find Shares link helps you find items that can
+be shared with you.
+
+  . From the Mail tab in the Overview pane, click the gear icon in *Mail
+    Folders* heading.
+
+  . Click *Find Shares*.
+
+  . In the Add Shared Folder dialog box, select the item shared with you that
+    you have not accepted, or in the *Finds Shares* text box, enter an email
+    address to see if an item was shared with you from that address.
+
+  . In the Include drop down menu, select which application to search. Select
+    *All applications* to search all applications for items shared with you.
+
+  . Click *Search*.
+
+  . Select the items you want to accept.
+
+  . Click *Add*.

@@ -1,0 +1,343 @@
+= Using Task Lists
+
+== Using Task Lists
+
+The *Tasks* feature lets you create to-do lists and manage tasks through
+completion. You can add tasks to the default task list, and you can create
+other task lists to organize your to-do lists by more specific activities,
+such as by work or personal projects. You can create a new Tasks List and
+synchronize the tasks from a remote iCal To Do list.
+
+As you progress on a task, you might want to add information, change the
+status and percentage completed, or mark the task complete.
+
+== Creating a Task List
+
+When you create a new task, you select a Task folder, also referred to as
+Task list, for which to track the task. By default, the *Tasks* list gives
+you a list view of all your tasks in the Tasks folder. You can create
+different task lists, in addition to the default Task list, and configure
+the lists to synchronize with the tasks from a remote iCal To Do list.
+
+  . Go to the *Tasks* page.
+
+  . In the Overview pane, click the Tasks Lists *gear icon* and select *New
+    Task List*.
+
+  . Enter a *Name* and select a *Color* for the new task list.
+
+  . To *Synchronize tasks from a remote service*, select the check box and
+    enter the URL.
+
+  . Click *OK*. The task list is displayed in the task list.
+
+== Creating a Task
+
+Create a new task by entering the task name in your tasks list, or you can open a new task page and add detailed information about the task and include notes and attachments.
+
+=== Add a Task Quickly
+
+  . Go to the *Tasks* page and in the Overview pane select the task list to
+    which you want to add a task.
+
+  . In the *Click here to add a new task* text box in the Content pane,
+    enter the new task name.
+
+  . Press *Enter*. This adds the task subject to your task list, but it
+    does not give any details. To add details, edit the task.
+
+[NOTE]
+If you created a task in the wrong list, open the task and select the
+correct list from the Task Lists drop-down, or you can drag and drop the
+task on the Content pane to the correct list
+
+== Create a Detailed Task
+
+You can use your task lists to create and track the progress of a task. In
+addition, you can write notes and attach files for easy access from within
+the task. Having all of the relevant information with your task is useful
+when you share your task list with others.
+
+You can estimate the length of the project by entering the start date and
+the due date and set the priority. When you start the task you can select
+the status such as Not Started or In Progress, and select the percentage
+complete.
+
+  . Go to the *Task* page and select *New Task*.
+
+  . In the *Details* section, enter the task information. Only *Subject* is
+    required to give the task a name.
++
+[cols="1,2a",options="header",]
+|=======================================================================
+|Option |Description
+
+|Subject |
+
+(Required) Enter a brief description of the task. The text added becomes
+the description in the task list.
+
+|Location |
+
+Enter where the task occurs.
+
+|Priority |
+
+Select the priority for this task.
+
+|Task List |
+
+Select the task list where you want this task displayed.
+
+|=======================================================================
+
+  . In the Progress section, enter the information to track the progress of
+    the task. This information is not required for your task.
++
+[cols="1,2a",options="header",]
+|=======================================================================
+|Option |Description
+
+|Status |
+
+Select the status for this task. You can reopen this task and change the
+status at any time.
+
+|Percentage |
+
+Select a percentage to go with the status of the task. You can reopen this
+task and change the percentage at any time.
+
+|Start Date |
+
+Define the start date for the task.
+
+|Due Date |
+
+Define the due date for the task.
+
+|Reminder |
+
+Set a reminder date and time.
+
+|Notification |
+
+If you configured an email address or SMS alert in your
+*Preferences>Notifications* page, check the appropriate box for the
+reminder.
+
+  * If you have not configured a notification, click *Configure* to go to
+    the *Preferences>Notifications* page to set this up.
+
+|Add attachments |
+
+Click the *paperclip* on the tool bar to add any notes in the text field
+and to add attachments.
+
+|=======================================================================
+
+  . Click *Save*.
+
+== Update a Task
+
+As you progress on a task, you might want to add information, change the
+status and percentage completed, or mark the task complete.
+
+  . Go to the *Tasks* page and select the task that you want to edit.
+
+  . Click *Edit* and make the changes to the task information.
+
+  . Click *Save*.
+
+== Filter Tasks by Status
+
+You can filter tasks in your task list to quickly see tasks by status.
+
+In View drop-down menu on the Task toolbar, select which type of tasks you want to view.
+
+[cols="1,2a",options="header",]
+|=======================================================================
+|Option |Description
+
+|Not started |
+
+Shows tasks that are not started.
+
+|Completed |
+
+Shows tasks that are complete.
+
+|In Progress |
+
+Shows tasks that are in progress.
+
+|Waiting for someone else |
+
+Shows tasks that are waiting for someone else.
+
+|Deferred |
+
+Shows tasks that are deferred.
+
+|All |
+
+Shows all tasks, no matter the status.
+
+|To-Do List |
+
+Shows tasks with the status of In Progress, Not Started or, if the task is
+overdue, Waiting for someone else.
+
+|=======================================================================
+
+== Sorting Tasks within a Task List
+
+You can sort a task list to quickly see tasks by status.
+
+  . Go to the *Tasks* page.
+
+  . In the Overview pane, select the task list you want to sort.
+
+  . In the header of the Content pane, right-click the *Sorted by*
+    drop-down menu.
+
+  . Click how you want to sort the task list.
+
+== Viewing Tasks in the Reading Pane
+
+You can enable a Reading pane to view the content of a task without opening
+the task. The Reading pane can display at the bottom of the Content pane,
+on the right of the Content pane, or you can turn it off so there is not
+reading pane.
+
+  . Go to the *Tasks* page.
+
+  . Click *View* on the Task toolbar to select how to display the Reading
+    pane.
+
+
+[cols="1,2a",options="header",]
+|=======================================================================
+|Option |Description
+
+|At The Bottom |
+
+The task list view displays at the bottom of the pane.
+
+|On the Right |
+
+The task list view does not show the status of a task, and the percentage
+completed is shown as a progress bar.
+
+|Off |
+
+The reading pane does not display
+
+|=======================================================================
+
+== Moving a Task to Another List
+
+  . Right-click a task and select *Move*.
+
+  . Select the destination list to where you want to move the task.
+
+    * Enter the task list name, or use the keyboard arrows to navigate to
+      the destination list.
+
+    * Click *New* to create a new task list.
+
+  . Click *OK*.
+
+== Mark a Task Complete
+
+  . Go to the *Tasks* page and select one or more tasks that you want to
+    mark as complete.
+
+  . In the Task page header, select *Mark as Completed*.
+
+The task information remains in your task folder until you delete the task.
+
+== Printing a Task or Task List
+
+You can print all the tasks in your list or you can select specific tasks
+to print.
+
+  . Go to the *Tasks* page.
+
+  . In the Overview pane, select the task or task list that you want to
+    print. To select multiple tasks, use the check boxes next to the task.
+
+  . In the Content pane, select the task list or tasks to print.
+
+  . On the Task toolbar, click *Print* and select whether to *Print
+    selected task(s)* or to *Print Task Folder*.
+
+  . In the Print dialog, click *OK*.
+
+== Importing a Task Lists
+
+You can import task lists that are saved to a .tgz file.
+
+  . Go to *Preferences>Import/Export*.
+
+  . In *Import>File*, click *Browse* to locate the task list tgz file to
+    import.
+
+  . For the *Destination*, click *All folders* and select the task list
+    that the tasks will be imported into or create a new task list.
+
+  . Click *Import*.
+
+Depending on the size of the .tgz file, the import might take a few
+minutes.
+
+== Exporting a Task List
+
+Your task list is exported and saved in a .tgz file format.
+
+  . Go to *Preferences>Import/Export*.
+
+  . In *Export>Type*, select *Accounts*, *Calendar* or *Contacts* as the
+    type of data you want to export.
+
+  . Select the *Source* and check the *Advanced Settings* box
+
+  . Remove the check box from all applications except *Tasks*.
+
+  . Click *Export*.
+
+  . Check *Save to disk*.
+
+  . Click *OK*.
+
+== Deleting a Task or Task List
+
+=== Delete a Task
+
+  . Go to the *Tasks* page.
+
+  . In the Overview pane, select the task list that contains the tasks you
+    want to delete.
+
+  . In the Content pane, select the task(s) to delete. You can select
+    multiple tasks by selecting the check box next to the task.
+
+  . Click *Delete* in the toolbar.
+
+You can immediately undo this action by clicking the *Undo* link that appears
+at the top of the page. The task is moved back to its original location.
+
+=== Delete a Task List
+
+When deleting a task list, you can only delete task lists that you have
+created.
+
+  . Go to the *Tasks* page.
+
+  . In the Overview pane, select the task list you want to delete.
+
+  . In the drop-down menu, select *Delete*.
+
+You can immediately undo this action by clicking the *Undo* link that
+appears at the top of the page. The task list is moved back to its original
+location.

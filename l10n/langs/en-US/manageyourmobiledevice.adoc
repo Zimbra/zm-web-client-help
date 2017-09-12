@@ -1,0 +1,49 @@
+= Manage Your Mobile Device (Network Edition Only)
+
+== Managing Your Mobile Devices
+
+[NOTE]
+This is available in the ZCS Network Edition only
+
+If you have the Mobile feature enabled, the Mobile Device page is available
+from the Preferences tab. This page shows mobile devices you configured to
+sync with your {product-abbrev} account.
+
+From this page, you can sync from your account to your mobile device or
+suspend a sync. You can also delete mobile devices you no longer use.
+
+== Mobile Security Features
+
+Your administrator may have set up a mobile security policy that requires
+you to create a personal identification number (PIN) on your mobile
+device. If you forget your PIN, contact your system administrator.
+
+When you have a PIN, the policy may be set up with a feature to lock users
+out if they do not enter the correct PIN.  The system administrator
+configures the PIN lock setting so that if someone attempts to log on to a
+device with an incorrect password more than the configured number of
+attempts, a locally initiated wipe of the device is performed. This erases
+all data on the device. The policy settings are configured only by the
+administrator and cannot be modified by users.  Ask your system
+administrator for more information.
+
+== Wipe your mobile device
+
+If your mobile device is lost or stolen, you can remove all the content on
+the device using the Wipe Device link on the Preferences Mobile Devices
+page. This command erases all data on the device and returns it to the
+original factory settings.
+
+  . Go to the *Preferences>Mobile Devices* page.
+
+  . Select the device to wipe and click *Wipe All Data from Device*.
+
+The status *Wipe Pending* indicates that the server is waiting for the
+device to connect. When the device is wiped, the status changes to *Wipe
+Complete*.
+
+If you find the device while the status is *Wipe Pending*, you can cancel
+the wipe request.
+
+Do not run this command to clean up a device that you still have in your
+possession.

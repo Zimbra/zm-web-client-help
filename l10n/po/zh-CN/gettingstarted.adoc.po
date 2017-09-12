@@ -1,0 +1,480 @@
+# Language zh-CN translations for PACKAGE package
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-09-11 23:17+0000\n"
+"PO-Revision-Date: 2017-09-11 18:20+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: composingemail.adoc:134 composingemail.adoc:219 composingemail.adoc:286
+#: composingemail.adoc:394 gettingstarted.adoc:102 gettingstarted.adoc:162
+#: managingcalendars.adoc:56 managingcalendars.adoc:215
+#: managingcalendars.adoc:401 managingcontacts.adoc:62 managingcontacts.adoc:96
+#: managingcontacts.adoc:146 managingcontacts.adoc:169
+#: managingcontacts.adoc:217 managingemail.adoc:61 managingemail.adoc:349
+#: organizingaccount.adoc:185 organizingaccount.adoc:202
+#: organizingaccount.adoc:213 organizingaccount.adoc:227
+#: organizingaccount.adoc:282 organizingaccount.adoc:455
+#: readingmessages.adoc:72 readingmessages.adoc:94 readingmessages.adoc:126
+#: replyandforwardmessages.adoc:25 replyandforwardmessages.adoc:107
+#: retrievingmail.adoc:76 retrievingmail.adoc:95 retrievingmail.adoc:127
+#: schedulingappointments.adoc:549 schedulingappointments.adoc:602
+#: schedulingappointments.adoc:620 schedulingappointments.adoc:636
+#: schedulingappointments.adoc:687 searchingforitems.adoc:58
+#: sendingsecureemail.adoc:71 usingtasks.adoc:140 usingtasks.adoc:151
+#: usingzimlets.adoc:23 usingzimlets.adoc:30 workinginbriefcase.adoc:137
+msgid "Click *Save*."
+msgstr ""
+
+#. type: Title =
+#: gettingstarted.adoc:1
+#, no-wrap
+msgid "Getting Started with the {product-name}"
+msgstr ""
+
+#. type: Title ==
+#: gettingstarted.adoc:3
+#, no-wrap
+msgid "Advanced Web Client"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:7
+msgid ""
+"The {product-name} ({product-abbrev}) is a full-featured messaging and "
+"collaboration application that offers reliable, high-performance email, "
+"address books, calendaring, task lists and document authoring capabilities."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:12
+msgid ""
+"Your account might not include all the features described in this Help. "
+"Check with your system administrator to see which features are enabled for "
+"your account."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:15
+msgid ""
+"The basic applications you can use in your {product-name} account include:"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:17
+msgid "Email"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:19
+#, no-wrap
+msgid "** <<_composing_email_messages,Compose and send new messages>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:21
+#, no-wrap
+msgid "** <<_adding_attachments,Add attachments to your messages>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:23
+#, no-wrap
+msgid "** <<_using_signatures_automatically,Add signatures to your messages>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:25
+#, no-wrap
+msgid "** <<_managing_your_email,Track mail exchanges using the Conversation feature>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:27
+#, no-wrap
+msgid "** <<_organizing_your_account,Create your own folders and tags to organize mail>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:29
+#, no-wrap
+msgid "** <<_working_with_email_filters,Create filters to route your email messages to designated folders>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:31
+msgid "Address Book"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:33
+#, no-wrap
+msgid "** <<_using_address_books,Create and manage multiple_address_books>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:35
+#, no-wrap
+msgid "** <<_importing_an_address_book,Import>> and <<_exporting_an_address_book,export>> contact lists\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:37
+msgid "Calendar"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:39
+#, no-wrap
+msgid "** <<_create_a_calendar,Create and manage multiple calendars>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:41
+#, no-wrap
+msgid "** <<_working_with_calendars,Set up how your calendar looks>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:43
+#, no-wrap
+msgid "** <<_scheduling_appointments_meetings_and_events,Create appointments, meetings and events>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:45
+#, no-wrap
+msgid "** <<_import_your_ical_calendar,Import>> and <<_export_your_ical_calendar,export> other calendar programs\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:47
+msgid "Tasks"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:49
+#, no-wrap
+msgid "** <<_creating_a_task_list,Create task lists>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:51
+#, no-wrap
+msgid "** <<_creating_a_task,Create to-do tasks>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:53
+#, no-wrap
+msgid "** <<_create_a_detailed_task,Manage a task, set the priority and track the progress>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:55
+msgid "Preferences"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:57
+#, no-wrap
+msgid "** <<_customizing_your_mailbox_initial_view,Customize your mailbox view>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:59
+#, no-wrap
+msgid "** <<_personalizing_the_view_of_your_account,Configure your account settings>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:61
+#, no-wrap
+msgid "** <<_using_keyboard_shortcuts,View shortcut key combinations available for quick navigation withing your mailbox>>\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:64
+msgid ""
+"In addition, you can search for email messages, contacts, calendar events "
+"and task lists from any view. See <<_navigating_the_zimbra_web_client>>."
+msgstr ""
+
+#. type: Title ==
+#: gettingstarted.adoc:65
+#, no-wrap
+msgid "Using Advanced and Standard Clients"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:68
+msgid "Two versions of the {product-name} are available."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:72
+#, no-wrap
+msgid ""
+"*Advanced Web Client* version offers the full set of Web collaboration\n"
+"features. It works with most current browsers and faster Internet\n"
+"connections.\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:77
+#, no-wrap
+msgid ""
+"*Standard Web Client* version. If you have a slow Internet connection or\n"
+"prefer HTML-based messaging, you can use the Standard Web Client which\n"
+"has many of the same features as the Advanced Web Client version but\n"
+"might be accessed differently.\n"
+msgstr ""
+
+#. type: Title ===
+#: gettingstarted.adoc:78
+#, no-wrap
+msgid "Browser Tools"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:82
+msgid ""
+"The browser's *Back* button takes you to the previous page you were viewing. "
+"You can also use the *Forward* button."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:85
+msgid ""
+"Do not use the browser's *Reload* (Refresh) button. Doing so will restart "
+"your session."
+msgstr ""
+
+#. type: Title ===
+#: gettingstarted.adoc:86
+#, no-wrap
+msgid "Switch Client Versions"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:90
+msgid ""
+"You can set the default client version to sign in to. If you are frequently "
+"changing which client you are using, you can change it."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:92 gettingstarted.adoc:154 organizingaccount.adoc:198
+#: organizingaccount.adoc:208 organizingaccount.adoc:219
+#: organizingaccount.adoc:239 organizingaccount.adoc:277
+msgid "Go to the *Preferences>General* page."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:94
+msgid "In the Sign in section, select how you want to sign in."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:97
+#, no-wrap
+msgid ""
+"*Advanced*. Offers the full set of Web collaboration features. This Web\n"
+"Client works best with newer browsers and faster Internet connections.\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:100
+#, no-wrap
+msgid ""
+"*Standard*. Recommended when Internet connections are slow, when using\n"
+"older browsers, or for easier accessibility.\n"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:104
+msgid "The next time you sign in, your selection appears as the default."
+msgstr ""
+
+#. type: Title ==
+#: gettingstarted.adoc:105
+#, no-wrap
+msgid "Signing In and Signing Out"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:109
+msgid ""
+"You must use a browser to run the {product-abbrev}. Not all browsers are "
+"supported, so check with your administrator."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:113
+msgid ""
+"When you sign in to your account, you enter your name and password, and "
+"select the client version to use. You can select to use the *Default* "
+"client, or change the client version."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:117
+msgid ""
+"Your session remains active until the session expires. If you select the "
+"*Stay signed in* option, you do not have to sign in every time you restart "
+"the browser during a day."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:119
+msgid ""
+"If you leave your web client open but do not access your mailbox for a "
+"period of time, your session might time out and you will need to sign back "
+"in."
+msgstr ""
+
+#. type: Title ===
+#: gettingstarted.adoc:120
+#, no-wrap
+msgid "Sign In"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:124
+msgid ""
+"Open a browser window and enter the URL provided by your administrator.  For "
+"example: *https://mail.domain.com/zimbra/mail*"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:128
+msgid ""
+"When the sign in screen appears, type your *Username*. You might be required "
+"to type your full email address as the username (for example, myra@example."
+"com) and your *Password*."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:131
+msgid ""
+"To be remembered on this computer until the session expires or you sign out, "
+"check *Stay signed in*."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:134
+msgid ""
+"If you do not want to use the *Default* client, you can change the version."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:136
+msgid "Click *Sign In*."
+msgstr ""
+
+#. type: Title ===
+#: gettingstarted.adoc:137
+#, no-wrap
+msgid "Sign Out"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:143
+msgid ""
+"To prevent others from having access to your email account, you should "
+"always sign out when you are not using your computer. If you browse to a "
+"different site without signing out first, your session might sign out "
+"automatically when it reaches the specified timeout."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:146
+msgid ""
+"In the drop-down menu arrow next to your name in the top right corner, "
+"select *Sign Out*."
+msgstr ""
+
+#. type: Title ==
+#: gettingstarted.adoc:147
+#, no-wrap
+msgid "Changing Your Password"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:152
+msgid ""
+"You can change your password. If you have trouble changing your password or "
+"have forgotten your password, or if the *Password* option is not displayed, "
+"contact your administrator."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:156
+msgid "In the *Sign in>Password* section, click *Change Password*."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:158
+msgid "Enter your *Old password*, *New password*, and *Confirm*."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:160
+msgid "Click *Change password*."
+msgstr ""
+
+#. type: Title ==
+#: gettingstarted.adoc:163
+#, no-wrap
+msgid "Using Keyboard Shortcuts"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:166
+msgid "Many of the functions and commands have keyboard shortcuts."
+msgstr ""
+
+#. type: Title ===
+#: gettingstarted.adoc:167
+#, no-wrap
+msgid "View Shortcut Keys"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:171
+msgid ""
+"To view a list of shortcuts while working in your mailbox, press *Ctrl+q*."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:174
+msgid ""
+"If you want to leave the shortcut window open while you work in your "
+"account, click *New Window*."
+msgstr ""
+
+#. type: Title ===
+#: gettingstarted.adoc:175
+#, no-wrap
+msgid "Print Shortcut Keys"
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:179
+msgid "Go to the *Preferences>Shortcuts* page for a list of shortcut keys."
+msgstr ""
+
+#. type: Plain text
+#: gettingstarted.adoc:179
+msgid "Click *Print* in the upper right to print the list."
+msgstr ""

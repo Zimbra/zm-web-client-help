@@ -1,0 +1,382 @@
+= Managing Your Email
+
+== Managing Your Email
+
+You can view your email messages as single messages or as conversations and
+you can view messages with the Reading Pane off, displayed at the bottom,
+or displayed on the right.
+
+To change how messages are grouped in your mailbox, on the toolbar click
+View and select whether to view by conversation or by message and where you
+want the Reading Pane to display.
+
+=== View Email Messages by Conversation
+
+In the Conversation view your messages are grouped to make it easier to
+follow the thread of an email exchange. A conversation thread begins when
+you send or receive an email and then send or receive subsequent replies
+and forwards based on the original email. The subject displays only once in
+your Inbox, and the number of email messages in the conversation is
+shown. Conversations containing unread messages are shown in bold.
+
+Conversations can span folders. For example, one could be in your Inbox
+another in your Sent folder, and others in another folder. If you move a
+conversation from one folder to another, all messages within that
+conversation are also moved to that folder. Messages in the Sent folder and
+in the Trash folder are not moved.
+
+To create a new conversation thread, you must create a new message, not
+reply to or forward an existing message.
+
+=== Change the Message View
+
+Email messages in your mailbox can be organized by the date a message is
+received and by Conversation.
+
+  . On the *Mail* tab toolbar, click the *View* drop-down menu.
+
+  . Select either *By Conversation* or *By Message*.
+
+== Changing How Often Your Account Checks for New Mail
+
+You can set preferences for receiving new messages including how often you
+receive email messages and whether you are notified when you receive new
+messages.
+
+Your account is updated with new messages based on the polling interval set
+up in the mail preferences Check New Mail drop-down menu. The default is
+every five minutes. If you are expecting an email message, you can click
+the refresh icon on the right side of the toolbar any time to receive new
+email immediately.
+
+  . Go to the *Preferences>Mail* page.
+
+  . In the *Displaying Messages>Check New Mail* drop-down menu select how
+    often to check for new mail.
++
+If you select *Manually* from the dropdown menu, you must click the reload
+icon to get new email.
+
+  . Click *Save*.
+
+== Setting Desktop Alerts For New Email Messages
+
+You can set up desktop alerts for new email notification. To receive
+alerts, your mailbox must be opened.
+
+  . Go to the *Preferences>Mail* page.
+
+  . In the *Receiving Messages>Message Arrival* section, select how you
+    want to be notified when new message arrive. Select any of these
+    options.
++
+[cols="1,2a",options="header",]
+|=======================================================================
+|Option |Description
+
+|Play a sound |
+
+You are notified by a beep. If you have your volume set to mute, you do not
+hear a sound. For this to work, you must have either QuickTime or Windows
+Media plugin installed.
+
+|Highlight the Mail tab |
+
+The Mail tab is highlighted if you are not working in the Mail tab at the
+time.
+
+|Flash the browser title |
+
+Browser flashes until you open the Mail tab
+
+|Show a popup notification |
+
+Information about the message displays.
+
+|=======================================================================
+
+
+== Assigning Retention Policies to Email Folders
+
+If your organization notifies you to apply an email message retention
+policy to your email folders, you set the retention policy for each
+folder. You do not set a retention policy on the Junk or Trash folders. You
+can also set your own custom policy for a folder.
+
+Two options can be set up:
+
+  * *Message Retention*. When Enable Message Retention is selected, when you select to delete a message in the folder with a receive or sent date within the range configured, a warning displays stating that the message is within the folder’s retention period to remind you not to delete the message.
+
+  * *Message Disposal*. Messages in the folder that are older than the time configured are automatically deleted. You are not notified.
+
+    . In the *Navigation* pane, right-click on a mail folder and select
+      *Edit Properties*.
+
+    . Click the *Retention* tab.
+
+    . To set the retention policy, select *Enable Message Retention*.
+
+    . In the *Retention Range* drop down list, select which retention
+      policy to apply. If you are setting a custom policy, in the text box
+      enter the number of years, months, weeks or days and select the
+      period from the drop-down menu.
+
+    . To set when messages should be deleted from the folder, select
+      *Enable Message Disposal*.
+
+    . In the *Disposal Threshold* drop down list, select which policy to
+      apply. If you are setting a custom policy, in the text box enter the
+      number of years, months, weeks or days and select the period from the
+      drop-down menu.
+
+    . Click *OK*.
+
+== Delegate Others to Send Messages on Your Behalf
+
+You can give other people permission to send email messages on your behalf.
+When messages are sent on your behalf, the From address shows your name and
+the name of the person who is sending the message. This is not the same a
+sharing your Inbox with another person. The person who is sending a message
+on your behalf is working in his own email account.  When a new message is
+created, your name is selected from the From field drop-down menu as the
+From address.
+
+You can also give permission to people to send messages as you. The From
+address shows your name and email address as the message sender, but the
+actual message is sent from the delegated person's Inbox.
+
+  . Go to the *Preferences>Accounts* page.
+
+  . In the *Primary Account Settings>Delegates: The following users have
+    delegated authority to this account* section, click *Add Delegate*.
+
+  . Add the email address of the person you are delegating permission. This
+    must be an internal user address.
+
+  . Check the permissions you want to give.
+
+  . Click *OK*.
+
+An email message is sent to the person letting him know that he has been
+granted delegate permissions.
+
+== Group Messages in your Folders
+
+In each of your folders, you can group message by date or by size in
+ascending or descending order.
+
+When you group messages by date, messages display grouped by messages
+received today, yesterday, last week, two weeks ago, three weeks ago, last
+month and older.
+
+When you group messages by size, messages display grouped by enormous
+(messages larger than 5MB) and tiny (messages less than 10KB), Grouping
+message by size is a good way to manage your mailbox quota by finding the
+largest messages to remove from your account.
+
+You set this preference in each of your folders.
+
+  . Select a folder, and in the Content pane header right-click and select
+    *Group By*.
+
+  . Select to group by date or size. You can also select none.
+
+  . Select the order that the messages should be displayed, ascending or
+    descending.
+
+== Sorting Messages in the Content Pane
+
+You can sort your email messages in a folder by Subject, Size, Date,
+Attachment, Flag and Priority. You can only sort by one column at a time.
+
+  * In the Content pane header, right-click and select the sorting
+    option. The header displays the sort order.
+
+== Automatically Move Less Important Mail Out of the Inbox
+
+You can set up the Activity Stream filter to have email messages that are
+less important, such as newsletters and social update communications,
+delivered to the Activity Stream folder instead of your Inbox. The Activity
+Stream Folder is added to your personal folders list in the Overview pane.
+
+  . Click the gear icon in the *Folders* heading in the Navigation pane and
+    select *Activity Stream*.
++
+You can also set this up from the *Preferences>Filter* page, *Activity
+Stream Settings*.
+
+  . In the *Activity Stream* dialog box, select *Enable moving messages
+    into Activity Stream*.
+
+  . Select the type of messages to move. You can move the following type of
+    messages:
+
+    * Messages from people not in your Contacts
+
+    * Messages from people not in your Contacts
+
+    * Messages sent to a distribution list that you are a member of
+
+    * Commercial mass marketing and bulk mail messages
+
+  . Click *OK*.
+
+  . In the information box that opens click *Yes*.
+
+See Filtering for more information.
+
+== Moving Email Messages
+
+You can move email messages or entire conversations from a folder.
+
+  * Drag and drop the item to the desired folder in the left-hand Overview
+    pane.
+
+  * Right click the message and select *Move*. The dialog appears for you
+    to select where to move your message or conversation.
+
+If you are moving a few messages within a conversation, the conversation
+appears in both places. The Conversation Detail View window shows the new
+location of the message that was moved.
+
+[NOTE]
+You can immediately undo the move. Click Undo that appears at the top of
+the page to move the message back to its original location.
+
+== Subscribing to RSS Feeds
+
+You can subscribe to Web sites that provide your favorite RSS (Really
+Simple Syndication) and podcast feeds to send updated information directly
+to your mailbox. You must know the URL of the feed to set up the
+subscription.
+
+  . Click the gear icon in the *Mail Folders* heading and select *New Folder*.
+
+[NOTE]
+You must create a separate folder for each RSS feed.
+
+  . In the *Name* text box, type the name of the RSS feed folder.
+
+  . Check *Subscribe to RSS/ATOM* feed.
+
+  . Enter the URL for the feed in the *URL* field.
+
+  . Select where to add the RSS feed folder in the Mail Folders menu. If
+    you choose the root folder, the new folder is placed at the highest
+    level in your folder view, which is the same level as your Inbox
+    folder.
+
+  . Click *OK*. The new folder appears in the Overview pane with the RSS
+    feed icon image:images/2_manage_email00004.png[RSS, title="RSS"].
+
+Your RSS data feed is automatically updated every 12 hours. Click *Load
+Feed* in the toolbar to update the content at any time.
+
+[NOTE]
+RSS feeds you save count against your account quota.
+
+== Removing Spam
+
+Most filtering of unsolicited automated email (also known as *spam* or
+*junk mail*) is handled by a spam filter before those email messages reach
+your Inbox.
+
+Email that might possibly be junk mail, but is not certain to be junk, is
+placed in your Junk folder. You can review these messages and either move
+them out of the *Junk* folder or delete them. If you do not move or delete
+the messages, they are purged after a number of days as specified by your
+administrator.
+
+If you are receiving a large number of unwanted email messages, contact
+your administrator. Reporting email as spam helps your email administrator
+to fine-tune spam filtering.
+
+=== Mark Email as Spam
+
+  . Select the message to mark as junk.
+
+  . On the toolbar, select *Spam*.
+
+You can also right-click the message and select *Mark as Spam*.
+
+The email is moved to your Junk folder.
+
+=== Mark Email as Not Spam
+
+Sometimes messages that are not junk are placed in the Junk folder. You can
+move the messages to the appropriate folder.
+
+  * Drag the message to another folder.
+
+  * Right-click the message and select *Mark as Not Spam*. The selected
+    message is moved to your Inbox.
+
+=== Empty the Junk Folder
+
+The contents of the Junk folder are automatically purged after an
+administration-configured number of days. You can empty your Junk folder
+any time.
+
+  . Right-click the Junk folder and select *Empty Junk*.
+
+  . Click *OK*.
+
+== Setting Spam Mail Options to Block or to Allow Specific Addresses
+
+You can setup your mail preferences to identify specific addresses to block
+or not block in your Inbox. You create a list of addresses that should not
+be added to your Inbox and addresses that always should be added to your
+Inbox, but could be detected as spam. The spam filter uses this list to
+make sure you get the email you expect.
+
+If you notice that certain email addresses are always being incorrectly
+added to your Inbox or Junk folder, you can identify those addresses to
+block or not block.
+
+  . Go to the *Preferences>Mail* page.
+
+  . Scroll to the *Spam Mail Options* section.
+
+  . In the *Block messages from* text box, enter email addresses that
+    should always be treated as junk. You can list up to 100 addresses.
+
+  . In the *Allow messages from* text box, enter email addresses you trust
+    that for some reason end up in your Junk folder, such as newsletters
+    you subscribe to. Messages from these email addresses are never
+    blocked. You can list up to 100 addresses.
+
+  . Click *Save*.
+
+== Recover Items Purged from Trash
+
+If *Recover Deleted Items* displays when you right-click the Trash folder,
+you have the ability to recover email messages you deleted from Trash.
+
+  . Right-click on the Mail Trash folder and select *Recover Deleted
+    Items*.
+
+  . Select one or more messages to recover.
+
+  . Use the *Search* text box to find a specific item to recover.
+
+  . Select the items you want to recover and click *Recover To*.
+
+  . Select the destination folder or create a new folder.
+
+  . Click *OK*.
+
+== Finding the Origin of an Email Message
+
+When you receive a message and you want to see message transport history,
+you can right-click on a message and select Show Original. The text page
+displays header information along with the text of the body of the message.
+
+The header is sometimes referred to as the envelope information. The
+message header details the path the message took from the sender to the
+recipients. The header includes the IP addresses, dates, and spam flagging
+information.
+
+  * To find the origin of the message, right-click the message and select
+    *Show Original*.
+
+A new window opens with the information displayed.

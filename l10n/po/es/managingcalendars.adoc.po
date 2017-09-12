@@ -1,0 +1,925 @@
+# Spanish translations for PACKAGE package
+# Copyright (C) 2017 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-09-11 23:08+0000\n"
+"PO-Revision-Date: 2017-09-11 18:20+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: delimited block |
+#: composingemail.adoc:83 managingcalendars.adoc:28 managingcontacts.adoc:258
+#: managingemail.adoc:76 organizingaccount.adoc:14 readingmessages.adoc:107
+#: retrievingmail.adoc:108 schedulingappointments.adoc:657
+#: searchingforitems.adoc:181 sharingfolders.adoc:216 usingtasks.adoc:74
+#: usingtasks.adoc:100 usingtasks.adoc:161 usingtasks.adoc:222
+#: workinginbriefcase.adoc:79
+#, no-wrap
+msgid "|Option |Description\n"
+msgstr ""
+
+#. type: Plain text
+#: composingemail.adoc:134 composingemail.adoc:219 composingemail.adoc:286
+#: composingemail.adoc:394 gettingstarted.adoc:102 gettingstarted.adoc:162
+#: managingcalendars.adoc:56 managingcalendars.adoc:215
+#: managingcalendars.adoc:401 managingcontacts.adoc:62 managingcontacts.adoc:96
+#: managingcontacts.adoc:146 managingcontacts.adoc:169
+#: managingcontacts.adoc:217 managingemail.adoc:61 managingemail.adoc:349
+#: organizingaccount.adoc:185 organizingaccount.adoc:202
+#: organizingaccount.adoc:213 organizingaccount.adoc:227
+#: organizingaccount.adoc:282 organizingaccount.adoc:455
+#: readingmessages.adoc:72 readingmessages.adoc:94 readingmessages.adoc:126
+#: replyandforwardmessages.adoc:25 replyandforwardmessages.adoc:107
+#: retrievingmail.adoc:76 retrievingmail.adoc:95 retrievingmail.adoc:127
+#: schedulingappointments.adoc:549 schedulingappointments.adoc:602
+#: schedulingappointments.adoc:620 schedulingappointments.adoc:636
+#: schedulingappointments.adoc:687 searchingforitems.adoc:58
+#: sendingsecureemail.adoc:71 usingtasks.adoc:140 usingtasks.adoc:151
+#: usingzimlets.adoc:23 usingzimlets.adoc:30 workinginbriefcase.adoc:137
+msgid "Click *Save*."
+msgstr ""
+
+#. type: Title =
+#: managingcalendars.adoc:1
+#, no-wrap
+msgid "Managing Your Calendars"
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:3
+#, no-wrap
+msgid "Working with Calendars"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:8
+msgid ""
+"You can use Calendar to track and schedule appointments, meetings, and "
+"events. You can maintain several calendars and move events from one calendar "
+"to another. You can also share your calendars with others."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:12
+msgid ""
+"To open Calendar, click the Calendar tab. The Work Week is the default view. "
+"Your working days and times are in white. Your nonworking time is in gray."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:15
+msgid ""
+"You can change your calendar preferences from the Preferences>Calendar page."
+msgstr ""
+
+#. type: Title ===
+#: managingcalendars.adoc:16
+#, no-wrap
+msgid "Set Your Default Calendar View"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:20
+msgid ""
+"The Work Week view is displayed by default. You can change the view that "
+"displays when you open your calendar,"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:22 managingcalendars.adoc:211
+#: schedulingappointments.adoc:530 schedulingappointments.adoc:631
+#: schedulingappointments.adoc:646
+msgid "Go to the *Preferences>Calendar* page."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:24
+msgid "Select the view from the *Default View* drop-down menu."
+msgstr ""
+
+#. type: delimited block |
+#: managingcalendars.adoc:30
+#, no-wrap
+msgid "|Day View |\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcalendars.adoc:32
+#, no-wrap
+msgid "Displays activities for the day.\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcalendars.adoc:34
+#, no-wrap
+msgid "|Work Week View |\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcalendars.adoc:36
+#, no-wrap
+msgid "Displays Monday through Friday activities.\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcalendars.adoc:38
+#, no-wrap
+msgid "|7 Day Week View |\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcalendars.adoc:41
+#, no-wrap
+msgid ""
+"Displays seven days of activities. You can select which day is the first\n"
+"day of your week in Start Week on drop-down menu.\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcalendars.adoc:43
+#, no-wrap
+msgid "|Month View |\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcalendars.adoc:47
+#, no-wrap
+msgid ""
+"Displays activities for a month. When you view a monthly calendar, you can\n"
+"double-click on a date and a fish-eye view of the day’s appointments\n"
+"displayed by the hour is displayed.\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcalendars.adoc:49
+#, no-wrap
+msgid "|List View |\n"
+msgstr ""
+
+#. type: delimited block |
+#: managingcalendars.adoc:52
+#, no-wrap
+msgid ""
+"Displays a list of appointments within a specified date range for calendars\n"
+"selected in the Overview pane.\n"
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:57
+#, no-wrap
+msgid "Create a Calendar"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:63
+msgid ""
+"One calendar is created for you. You can create additional calendars to keep "
+"track of different type of functions. For example, you can create one "
+"calendar for work, one for personal appointments, and one for company "
+"activities."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:67 managingcalendars.adoc:324
+msgid ""
+"If you manage multiple calendars, you can group the calendars in a "
+"hierarchical display. For example, you could group all shared Calendars "
+"under a Calendar folder you call Shared. You can also move the calendar"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:70 managingcalendars.adoc:327
+msgid ""
+"In the Calendar Overview pane, select a calendar and drag it to the calendar "
+"to be nested under."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:73 managingcalendars.adoc:330
+msgid ""
+"Alternately, right-click the calendar to move and select *Move*. In the "
+"*Choose Folder* dialog box select the calendar to move under."
+msgstr ""
+
+#. type: Title ===
+#: managingcalendars.adoc:74
+#, no-wrap
+msgid "Add a Calendar"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:77
+msgid "Click the *Calendar* tab."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:80
+msgid ""
+"On the toolbar, click the *Calendars* gear icon and select *New Calendar*. "
+"The Create New Calendar dialog displays."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:82
+msgid "In the *Name* text box, type the name of the calendar."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:85
+msgid ""
+"Select a <<_add_color_to_a_calendar,color for displaying>> the Calendar’s "
+"activities."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:89
+msgid ""
+"To prevent others from seeing your calendar when scheduling appointments, "
+"select *Exclude this calendar when reporting free/busy times*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:93
+msgid ""
+"To synchronize this calendar with a remote calendar, select *Synchronize "
+"appointments from remote calendar*. Enter the URL for the remote iCal file."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:95
+msgid "Click *OK*. The new calendar displays in the Calendar list."
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:96
+#, no-wrap
+msgid "Color Coding Your Calendars"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:102
+msgid ""
+"You can color-code calendars so that activities for that calendar always "
+"display in the selected color, which is helpful when you are looking at "
+"activities from multiple calendars in one view. You can use a color more "
+"than once."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:104
+msgid "Right-click on the calendar and select *Edit Properties*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:106
+msgid "Select a color from the drop-down menu."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:108 managingcalendars.adoc:285
+#: managingcalendars.adoc:315 managingcontacts.adoc:71
+#: managingcontacts.adoc:122 managingcontacts.adoc:182
+#: managingcontacts.adoc:240 managingcontacts.adoc:281 managingemail.adoc:133
+#: managingemail.adoc:159 managingemail.adoc:223 managingemail.adoc:323
+#: managingemail.adoc:367 replyandforwardmessages.adoc:130
+#: schedulingappointments.adoc:68 schedulingappointments.adoc:310
+#: schedulingappointments.adoc:347 schedulingappointments.adoc:490
+#: searchingforitems.adoc:386 sharingfolders.adoc:47 sharingfolders.adoc:205
+#: sharingfolders.adoc:251 usingmailfilters.adoc:129 usingmailfilters.adoc:169
+#: usingmailfilters.adoc:184 usingmailfilters.adoc:444
+#: usingmailfilters.adoc:457 usingtagsandfolders.adoc:32
+#: usingtagsandfolders.adoc:47 usingtagsandfolders.adoc:83
+#: usingtagsandfolders.adoc:119 usingtagsandfolders.adoc:124
+#: usingtasks.adoc:250 usingtasks.adoc:312 workinginbriefcase.adoc:42
+#: workinginbriefcase.adoc:103 workinginbriefcase.adoc:256
+msgid "Click *OK*."
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:109
+#, no-wrap
+msgid "Setting Your Calendar Preferences"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:114
+msgid ""
+"You can set the following options from the *Preferences>Calendar* folder. "
+"Remember to click *Save* to save any changes you make to your preferences."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:118
+#, no-wrap
+msgid ""
+"*Default View*. Select how you would like to view your {product-abbrev}\n"
+"calendar. The default is by work week. The view options include: Day,\n"
+"Work Week, 7 Day Week, Month, List, and Schedule.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:121
+#, no-wrap
+msgid ""
+"*Start Week On*. Specify which day of the week should be the first day\n"
+"of the week in your calendar.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:128
+#, no-wrap
+msgid ""
+"*Default appointment visibility*. This can be set to either Public or\n"
+"Private. The default is Public, all incoming calendar invites are\n"
+"marked as Public unless the creator marked the meeting notification as\n"
+"private.  When this is set to Private, all incoming calendar invites\n"
+"are marked as Private. Details about events that are marked private do\n"
+"not display.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:131
+#, no-wrap
+msgid ""
+"*Always show the mini-calendar*. Specify whether the mini-calendar is\n"
+"displayed at the bottom of the Overview pane.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:135
+#, no-wrap
+msgid ""
+"*Show Calendars with week numbers*. When this is enabled, the week\n"
+"numbers are displayed on the mini-calendar. The work week must start\n"
+"on Monday for the week numbers to be correct.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:141
+#, no-wrap
+msgid ""
+"*Automatically add received appointments to calendar*. When this is\n"
+"checked, email invitations sent to your Inbox are automatically added\n"
+"to your calendar. You can accept or decline the invite from either the\n"
+"Inbox or Calendar. When this is not checked, the appointment is added\n"
+"to your calendar when you click Accept or Tentative.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:143
+#, no-wrap
+msgid "*Show declined meetings*. Show declined meetings in your calendar.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:150
+#, no-wrap
+msgid ""
+"*Enable delegation for Apple iCal CalDAV client*. Apple iCal can be\n"
+"configured to access your calendars using the CalDAV protocol. When\n"
+"this is enabled, shared calendars are displayed in the iCal Accounts\n"
+"Delegation tab on an Apple Mac computer. When this is disabled, all\n"
+"shared calendars display in the {product-abbrev} Calendars list. This\n"
+"feature is available to be used with iCal 4.0 or later.\n"
+msgstr ""
+
+#. type: delimited block =
+#: managingcalendars.adoc:156
+msgid ""
+"The following is not available when accessing {product-abbrev} shared "
+"calendars from the iCal Accounts Delegation tab."
+msgstr ""
+
+#. type: delimited block =
+#: managingcalendars.adoc:159
+msgid ""
+"Using the + or - links to add or delete shared calendars from the Delegation "
+"tab."
+msgstr ""
+
+#. type: delimited block =
+#: managingcalendars.adoc:163
+msgid ""
+"Viewing the specific type of role assigned to the shared Calendar. The "
+"Delegation tab only shows whether the role is read-only or read/write. You "
+"cannot tell if you have Manage or Admin rights."
+msgstr ""
+
+#. type: delimited block =
+#: managingcalendars.adoc:165
+msgid "Sharing your calendars with others from this tab."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:171
+#, no-wrap
+msgid ""
+"*Invitation Response*. When this is checked, invitations are\n"
+"automatically deleted and moved to your Trash folder after you respond\n"
+"to the invite.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:174
+#, no-wrap
+msgid ""
+"*Forward Invites*. You can forward invite emails you receive to one or\n"
+"more users that you have shared your calendar with.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:178
+#, no-wrap
+msgid ""
+"*Show reminders*. Set the number of minutes before an appointment to be\n"
+"reminded. The default is five minutes. In addition, you can set the\n"
+"type of alert to receive.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:181
+#, no-wrap
+msgid ""
+"*Default appointment duration*. Select the default duration for\n"
+"appointments you schedule.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:185
+#, no-wrap
+msgid ""
+"*Work week and hours*. Select the days and times of the week you\n"
+"work. Select *Custom* to customize work hours by day. This information\n"
+"displays in your free/busy view.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:190
+#, no-wrap
+msgid ""
+"*Use the QuickAdd dialog when creating new appointments*. Specify\n"
+"whether to create new appointments using the\n"
+"<<_creating_an_appointment_quickly,QuickAdd>> dialog. This is often\n"
+"helpful if you create many appointments without attendees.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:193
+#, no-wrap
+msgid ""
+"*Show time zone list in appointment view*. Select if you often schedule\n"
+"meetings with other in different time zones.\n"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:198
+#, no-wrap
+msgid ""
+"*Permissions*. You can specify the type of users who can see\n"
+"<<_display_your_free_busy_information,your Free/Busy information>> and\n"
+"who can invite you to meetings. The default is to allow all users to\n"
+"see your free/busy and to invite you to meetings.\n"
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:199
+#, no-wrap
+msgid "Other Calendar Preferences to Configure"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:202
+msgid ""
+"You can set different preferences to manage how you work within Calendar."
+msgstr ""
+
+#. type: Title ===
+#: managingcalendars.adoc:203
+#, no-wrap
+msgid "Setting Up Your Calendar as a Private Calendar"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:209
+msgid ""
+"The default that all incoming calendar invites are marked as public, unless "
+"the appointment creator marks the meeting notification as private. When "
+"Private is set, all incoming calendar invites are marked as private. Details "
+"about events that are marked private do not display."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:213
+msgid "In the *Default appointment visibility* drop down menu select Private."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:219
+msgid ""
+"A small lock icon appears next to the message on your calendar to show that "
+"it is a private appointment. Calendars that you share with others show the "
+"appointment on your calendar but do not show any details."
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:220
+#, no-wrap
+msgid "View Multiple Calendars"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:226
+msgid ""
+"Meetings display in the selected Calendar view in the calendar color "
+"selected. If meetings are scheduled that are not in the current time view, "
+"an arrow displays on the calendar’s page indicating that there are meetings "
+"scheduled that are not in the current view."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:229
+msgid ""
+"In the Calendar list in the Overview pane, check the boxes for the calendars "
+"you want to view."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:231
+msgid "Select the view."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:235
+msgid ""
+"Day view shows the calendars side-by-side. The calendar name is at the "
+"bottom of the page.  The Work Week, Week, and Month views show appointments "
+"on the calendar by the color associated with the calendar."
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:236
+#, no-wrap
+msgid "Displaying All Day Appointments in Your Work Week View"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:240
+msgid ""
+"All day events are displayed in the first row of the calendar with no time "
+"specified. You can hide all day events in your calendar."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:243
+msgid ""
+"In Work Week View, click on the thick line in the first row. The first row "
+"is hidden."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:245
+msgid "Viewing all day appointments can be toggled back on off."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:248
+msgid ""
+"Click on the thick line below the header row to display the appointments."
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:249
+#, no-wrap
+msgid "Viewing Calendar Activities in a List"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:253
+msgid ""
+"The List view lets you view details that are not available in the other "
+"Calendar views. You can change how the information is presented."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:255
+msgid "When using the List view you can"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:258
+msgid ""
+"Show appointments in a specific date range. Set the *from-through* dates in "
+"the Show appointments text boxes."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:261
+msgid ""
+"Click the *Calendar* column header to arrange the appointment by individual "
+"calendars."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:263
+msgid "Click the Status column header to see appointment by your status"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:266
+msgid ""
+"Click the Subject column header to see an alphabetic view of the Subjects."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:269
+msgid ""
+"Select multiple appointment check boxes to act upon more than one message at "
+"a time. Right-click and select the action to perform."
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:270
+#, no-wrap
+msgid "Adding an iCalendar From an Email Message"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:274
+msgid ""
+"When you receive an email message containing a link to an .ics file, you can "
+"add the calendar to your Calendar list in the Overview pane."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:276
+msgid "In the message, right-click the .ics calendar link."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:278
+msgid "Select *Create New Calendar*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:280
+msgid "Enter the calendar name and select the color for the calendar."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:283
+msgid ""
+"If you do not want this calendar included in reporting your free/busy times, "
+"select *Exclude this calendar when reporting free/busy times*."
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:286
+#, no-wrap
+msgid "Adding External Calendars"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:291
+msgid ""
+"You can add your external Google or Yahoo CalDAV calendars and your iCal "
+"calendars subscriptions to your Calendars list. Changes to your external "
+"calendar are synced to the CalDAV calendar you added."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:295
+msgid ""
+"Only CalDAV calendars that have SSL enabled and use port 443 can are able to "
+"sync calendar events to your account."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:298
+msgid ""
+"In the *Calendar Overview* pane, click the gear icon and select *Add "
+"External Calendar*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:300
+msgid "Select the calendar type to add and click *Next*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:303
+msgid ""
+"Select the type of calendar to add, either *CalDAV account* or an *iCal "
+"Subscription*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:305
+msgid "Enter your email address and password for this account."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:307
+msgid "Click *Next*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:310
+msgid ""
+"In the *Name* text box, type the name for this calendar and select a color."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:313
+msgid ""
+"If you want to exclude this calendar from reporting your free/busy time, "
+"select *Exclude this calendar when reporting free/busy times*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:318
+msgid ""
+"The calendar is added and meetings on the external calendar are synced to "
+"the calendar you added."
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:319
+#, no-wrap
+msgid "Organize your Calendars into Groups"
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:331
+#, no-wrap
+msgid "Print a Calendar"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:335
+msgid ""
+"You can print your calendars in any of the calendar views. You can select a "
+"single calendars or multiple calendars to be included in the printed view."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:337
+msgid "Click the print icon on the Calendar toolbar."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:339
+msgid ""
+"In the *Print calendar* dialog box select how the printed copy should be "
+"printed."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:341
+msgid "Select which calendars to print. You can deselect as well."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:343
+msgid "Set the date or date range."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:345
+msgid "Select which view to print."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:347
+msgid "Set the options based on the view to print."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:349
+msgid "Click *Print*. A preview of the view that will be printed is displayed."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:351
+msgid "If the view is correct, click *Print*."
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:352
+#, no-wrap
+msgid "Delete a Calendar"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:357
+msgid ""
+"You can delete any calendar in your Calendars list, except your default "
+"calendar. When you delete a calendar, the meetings created from this "
+"calendar are not deleted from the calendars of the invited attendees."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:360
+msgid ""
+"Before you delete a calendar, you should cancel any invitations that you "
+"have sent out."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:363
+msgid ""
+"In the *Calendars Overview* pane, right-click on the calendar to be deleted."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:365
+msgid "Click *Delete*. The calendar is moved to the Trash folder."
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:366
+#, no-wrap
+msgid "Import Your iCal Calendar"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:371
+msgid ""
+"You can import iCalendars that are saved in the .ics format. iCalendars are "
+"the standard for calendar data exchange over the Internet, and .ics is the "
+"standard format for iCalendar information."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:373 managingcalendars.adoc:388
+msgid "Go to the *Preferences>Import/Export* page."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:375
+msgid "Browse to the .ics file on your computer."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:377
+msgid "Select the folder for the file or create a new folder."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:379 managingcontacts.adoc:242 usingtasks.adoc:290
+msgid "Click *Import*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:382
+msgid ""
+"Depending on the size of the .ics file, the import might take a few minutes."
+msgstr ""
+
+#. type: Title ==
+#: managingcalendars.adoc:383
+#, no-wrap
+msgid "Export Your iCal Calendar"
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:386
+msgid "You can export calendars in the .ics format."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:391
+msgid ""
+"In *Export*, select *Calendar* as the type. You export your appointments in "
+"the standard .ics format."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:394
+msgid ""
+"To import them to another calendar program, see the documentation in the "
+"other program for help importing the file."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:396
+msgid "In *Source*, select the calendar to export."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:398
+msgid "Click *Export* . Select *Save to Disk* and click *OK*."
+msgstr ""
+
+#. type: Plain text
+#: managingcalendars.adoc:400
+msgid "Select where to save the file and enter a file name."
+msgstr ""
